@@ -74,6 +74,8 @@ edu-ecg-standalone/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
+├── ontology_source.owl          ← 🦉 Ontologie OWL source (WebProtégé, 431 Ko)
+│                                   À explorer avec Protégé ou éditer en ligne
 ├── ARCHITECTURE.md              ← Schéma général de la plateforme
 ├── ARCHITECTURE_PIPELINE.md     ← Détail des 6 briques
 └── README.md                    ← Ce fichier
@@ -158,7 +160,31 @@ print(f"Score : {result.score_pct}%")
 
 ---
 
-## 🧪 Régénérer l'index RAG (si l'ontologie change)
+## � Explorer / éditer l'ontologie
+
+Le fichier **`ontology_source.owl`** à la racine du dépôt est l'ontologie OWL source
+(345 concepts, ~431 Ko, exportée depuis WebProtégé). Elle peut être :
+
+- **Visualisée** dans [Protégé Desktop](https://protege.stanford.edu/) (gratuit, multiplateforme)
+- **Éditée collaborativement** sur [WebProtégé](https://webprotege.stanford.edu/)
+- **Re-générée** en JSON via `python scripts/regenerate_ontology.py` puis `python scripts/convert_owl_to_v2.py`
+
+```
+OWL (WebProtégé)
+   │
+   ▼  scripts/regenerate_ontology.py  (rdflib)
+ontology_from_owl.json   (plat : ID + nom + synonymes)
+   │
+   ▼  scripts/convert_owl_to_v2.py    (enrichissement)
+ontology_v2.json         (hiérarchie + poids + exclusions + requires/qualifier/support)
+   │
+   ▼  rag_pipeline/ontology_index.py  (embeddings OpenAI)
+rag_index/               (vecteurs + BM25 + métadonnées)
+```
+
+---
+
+## �🧪 Régénérer l'index RAG (si l'ontologie change)
 
 ```bash
 cd rag_pipeline
