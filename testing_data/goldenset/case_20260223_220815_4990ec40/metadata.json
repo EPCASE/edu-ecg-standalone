@@ -1,0 +1,47 @@
+{
+  "case_id": "case_20260223_220815_4990ec40",
+  "name": "3",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Fibrillation atriale",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Repolarisation précoce",
+      "category": "DESCRIPTEUR_ECG",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Fibrillation atriale"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Fibrillation atriale",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:08:15.738550",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "En cas de doute avec une arythmie organisée, observe bien la ligne de base en AVF et DIII : elle change ! C'est un signe de fibrillation atriale, et non de flutter. De plus, on voit des petites ondes fibrillatoires en AVF et DIII, ce qui confirme le diagnostic de fibrillation atriale."
+}

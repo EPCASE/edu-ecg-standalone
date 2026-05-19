@@ -1,0 +1,1422 @@
+{
+  "code": "ECG-BJLY",
+  "generated_at": "2026-04-06 00:21:19",
+  "pipeline_version": "RAG Neurosymbolique v1.0",
+  "average": 96.7,
+  "nb_answered": 3,
+  "cases": {
+    "1": {
+      "student_text": "",
+      "report": null
+    },
+    "2": {
+      "student_text": "",
+      "report": null
+    },
+    "3": {
+      "student_text": "",
+      "report": null
+    },
+    "4": {
+      "student_text": "Rythme sinusal régulier 66bpm, BAV1, axe normal, QRS fin et microvolté, pas de trouble de la ré polarisation",
+      "report": {
+        "score_final_pct": 100,
+        "nb_validants_trouves": 1,
+        "nb_validants_attendus": 1,
+        "nb_descripteurs_trouves": 2,
+        "nb_descripteurs_attendus": 3,
+        "latence_s": 7.76,
+        "concepts_extraits": [
+          {
+            "terme_brut": "Rythme sinusal",
+            "statut": "present",
+            "ontology_id": "RYTHME_SINUSAL",
+            "concept_name": "Rythme sinusal",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'rythme sinusal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "RYTHME_SINUSAL",
+                "concept_name": "Rythme sinusal",
+                "surface_form": "Rythme sinusal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.855296,
+                "bm25_score": 9.1881,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ARYTHMIE_ATRIALE",
+                "concept_name": "Arythmie atriale",
+                "surface_form": "rythme non sinusal",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.828609,
+                "bm25_score": 7.6681,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "MORPHOLOGIE_DE_L'ONDE_P_NON_SINUSALE",
+                "concept_name": "Morphologie de l'onde P non sinusale",
+                "surface_form": "rythme atrial non sinusal",
+                "rrf_score": 0.040323,
+                "cosine_score": 0.788913,
+                "bm25_score": 6.5796,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "RYTHME",
+                "concept_name": "Rythme",
+                "surface_form": "Rythme",
+                "rrf_score": 0.038363,
+                "cosine_score": 0.629432,
+                "bm25_score": 5.0096,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "IRRÉGULIER",
+                "concept_name": "Irrégulier",
+                "surface_form": "rythme irrégulier",
+                "rrf_score": 0.038352,
+                "cosine_score": 0.668982,
+                "bm25_score": 4.0166,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Normocarde",
+            "statut": "present",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "concept_name": "Frequence normale",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'normocarde' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "FREQUENCE_NORMALE",
+                "concept_name": "Frequence normale",
+                "surface_form": "Normocarde",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.929044,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "FREQUENCE",
+                "concept_name": "Frequence",
+                "surface_form": "frequence cardiaque",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.520113,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "QRS normoaxé",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.498787,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST",
+                "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+                "surface_form": "Syndrome coronarien avec sus-décalage",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.495575,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE",
+                "concept_name": "Infarctus du myocarde à la phase aigue",
+                "surface_form": "Syndrome coronarien aigu",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.493786,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "BAV1",
+            "statut": "present",
+            "ontology_id": "BAV_DE_TYPE_1",
+            "concept_name": "BAV de type 1",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'bav1' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BAV_DE_TYPE_1",
+                "concept_name": "BAV de type 1",
+                "surface_form": "BAV1",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.817753,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BAV_DE_TYPE_1",
+                "concept_name": "BAV de type 1",
+                "surface_form": "BAV 1",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.790167,
+                "bm25_score": 0.0,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BAV",
+                "concept_name": "BAV de type 2",
+                "surface_form": "BAV2",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.778252,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "BAV3",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.773538,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_2_MOBITZ_1",
+                "concept_name": "BAV 2 Mobitz 1",
+                "surface_form": "BAV2M1",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.751054,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Axe normal",
+            "statut": "present",
+            "ontology_id": "AXE_NORMAL_DU_QRS",
+            "concept_name": "Axe normal du QRS",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'axe normal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "axe normal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.999567,
+                "bm25_score": 9.3923,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.038856,
+                "cosine_score": 0.632906,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "PR_NORMAL",
+                "concept_name": "PR normal",
+                "surface_form": "PR normal",
+                "rrf_score": 0.038782,
+                "cosine_score": 0.667877,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.038228,
+                "cosine_score": 0.506392,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.037723,
+                "cosine_score": 0.485359,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "QRS fins",
+            "statut": "present",
+            "ontology_id": "QRS_FINS",
+            "concept_name": "QRS fins",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'qrs fins' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "QRS_FINS",
+                "concept_name": "QRS fins",
+                "surface_form": "QRS fins",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.714149,
+                "bm25_score": 10.1993,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "QRS",
+                "concept_name": "QRS",
+                "surface_form": "QRS",
+                "rrf_score": 0.039975,
+                "cosine_score": 0.536258,
+                "bm25_score": 4.4836,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_LARGE",
+                "concept_name": "QRS large",
+                "surface_form": "QRS large",
+                "rrf_score": 0.039121,
+                "cosine_score": 0.562938,
+                "bm25_score": 3.5948,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.038479,
+                "cosine_score": 0.514093,
+                "bm25_score": 3.5948,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ALTERNANCE_DES_QRS",
+                "concept_name": "alternance des QRS",
+                "surface_form": "alternance des QRS",
+                "rrf_score": 0.037313,
+                "cosine_score": 0.534425,
+                "bm25_score": 3.0001,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "microvolté",
+            "statut": "present",
+            "ontology_id": "MICROVOLTAGE",
+            "concept_name": "Microvoltage",
+            "method": "juge_llm",
+            "justification": "Le terme 'microvolté' dans le contexte de 'QRS fin et microvolté' fait référence à un diagnostic majeur qui est lié à un faible voltaje observé dans le tracé ECG. Les différentes options de 'Microvoltage' correspondent toutes au même concept, et étant un diagnostic majeur, cela l'emporte sur d'autres choix moins spécifiques.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "MICROVOLTAGE",
+                "concept_name": "Microvoltage",
+                "surface_form": "micro voltage",
+                "rrf_score": 0.016667,
+                "cosine_score": 0.582132,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "MICROVOLTAGE",
+                "concept_name": "Microvoltage",
+                "surface_form": "Microvoltage",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.570157,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+                "concept_name": "Voltage du QRS normal",
+                "surface_form": "normovolté",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.452028,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "MICROVOLTAGE",
+                "concept_name": "Microvoltage",
+                "surface_form": "microvoltage du QRS",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.391931,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AVL",
+                "concept_name": "AVL",
+                "surface_form": "AVL",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.347596,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 100
+          },
+          {
+            "terme_brut": "trouble de la ré polarisation",
+            "statut": "absent",
+            "ontology_id": "TROUBLE_DE_REPOLARISATION",
+            "concept_name": "Trouble de repolarisation",
+            "method": "juge_llm",
+            "justification": "Le terme de l'étudiant fait référence à un 'trouble de la répolarisation', qui correspond directement à l'option 'Trouble de repolarisation' proposée dans les candidats. Cette correspondance est basée sur le fait qu'il s'agit d'un simple descripteur ECG lié au phénomène de repolarisation.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "TROUBLE_DE_LA_DÉPOLARISATION_VENTRICULAIRE",
+                "concept_name": "Trouble de la dépolarisation ventriculaire",
+                "surface_form": "Trouble de la dépolarisation ventriculaire",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.606439,
+                "bm25_score": 7.777,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLE_DE_REPOLARISATION",
+                "concept_name": "Trouble de repolarisation",
+                "surface_form": "Trouble de repolarisation",
+                "rrf_score": 0.04086,
+                "cosine_score": 0.816788,
+                "bm25_score": 6.3212,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ",
+                "concept_name": "Troubles de conduction et de l'automaticité",
+                "surface_form": "trouble de la conduction",
+                "rrf_score": 0.040385,
+                "cosine_score": 0.555615,
+                "bm25_score": 8.881,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLE_DE_CONDUCTION_INTRAVENTRICULAIRE",
+                "concept_name": "Trouble de conduction intraventriculaire",
+                "surface_form": "Trouble de conduction intraventriculaire",
+                "rrf_score": 0.038302,
+                "cosine_score": 0.465866,
+                "bm25_score": 5.4239,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "PROBLÈME_DE_VITESSE_DE_DÉFILEMENT",
+                "concept_name": "Problème de vitesse de défilement",
+                "surface_form": "Problème de vitesse de défilement",
+                "rrf_score": 0.035757,
+                "cosine_score": 0.439656,
+                "bm25_score": 2.1446,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 100
+          }
+        ],
+        "validant_details": [
+          {
+            "golden_name": "Microvoltage",
+            "golden_id": "MICROVOLTAGE",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « Microvoltage » — correspondance exacte."
+          }
+        ],
+        "descripteur_details": [
+          {
+            "golden_name": "Amylose",
+            "golden_id": "AMYLOSE",
+            "found": true,
+            "match_type": "child_gen1"
+          },
+          {
+            "golden_name": "BAV de type 1",
+            "golden_id": "BAV_DE_TYPE_1",
+            "found": true,
+            "match_type": "exact"
+          },
+          {
+            "golden_name": "Perte des onde Q septales",
+            "golden_id": "PERTE_DES_ONDE_Q_SEPTALES",
+            "found": false,
+            "match_type": "missing"
+          }
+        ],
+        "decouvertes": [
+          {
+            "concept_name": "Frequence normale",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "QRS fins",
+            "ontology_id": "QRS_FINS",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Axe normal du QRS",
+            "ontology_id": "AXE_NORMAL_DU_QRS",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Rythme sinusal",
+            "ontology_id": "RYTHME_SINUSAL",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          }
+        ],
+        "feedback": null
+      }
+    },
+    "5": {
+      "student_text": "",
+      "report": null
+    },
+    "6": {
+      "student_text": "",
+      "report": null
+    },
+    "7": {
+      "student_text": "Rythme sinusal régulier 77bpm, BAV1, axe gauche aspect d’hemibloc antérieur gauche, BBD complet donc bloc bifasiculaire, discordance approprié",
+      "report": {
+        "score_final_pct": 100,
+        "nb_validants_trouves": 3,
+        "nb_validants_attendus": 3,
+        "nb_descripteurs_trouves": 0,
+        "nb_descripteurs_attendus": 0,
+        "latence_s": 11.76,
+        "concepts_extraits": [
+          {
+            "terme_brut": "Rythme sinusal régulier",
+            "statut": "present",
+            "ontology_id": "RYTHME_SINUSAL",
+            "concept_name": "Rythme sinusal",
+            "method": "juge_llm",
+            "justification": "Le terme 'Rythme sinusal régulier' correspond directement au concept 'Rythme sinusal' qui est un signe ECG pathologique décrivant un rythme cardiaque normal. Dans le contexte fourni, il désigne clairement que le rythme cardiaque est sinusal et régulier.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "RYTHME_RÉGULIER",
+                "concept_name": "rythme régulier",
+                "surface_form": "rythme régulier",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.822892,
+                "bm25_score": 10.0587,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "RYTHME_SINUSAL",
+                "concept_name": "Rythme sinusal",
+                "surface_form": "Rythme sinusal",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.809283,
+                "bm25_score": 9.1881,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ARYTHMIE_ATRIALE",
+                "concept_name": "Arythmie atriale",
+                "surface_form": "rythme non sinusal",
+                "rrf_score": 0.040067,
+                "cosine_score": 0.761288,
+                "bm25_score": 7.6681,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "MORPHOLOGIE_DE_L'ONDE_P_NON_SINUSALE",
+                "concept_name": "Morphologie de l'onde P non sinusale",
+                "surface_form": "rythme atrial non sinusal",
+                "rrf_score": 0.039062,
+                "cosine_score": 0.713933,
+                "bm25_score": 6.5796,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "IRRÉGULIER",
+                "concept_name": "Irrégulier",
+                "surface_form": "rythme irrégulier",
+                "rrf_score": 0.038188,
+                "cosine_score": 0.769954,
+                "bm25_score": 4.0166,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 95
+          },
+          {
+            "terme_brut": "Normocarde",
+            "statut": "present",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "concept_name": "Frequence normale",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'normocarde' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "FREQUENCE_NORMALE",
+                "concept_name": "Frequence normale",
+                "surface_form": "Normocarde",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.929044,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "FREQUENCE",
+                "concept_name": "Frequence",
+                "surface_form": "frequence cardiaque",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.520113,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "QRS normoaxé",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.498787,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST",
+                "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+                "surface_form": "Syndrome coronarien avec sus-décalage",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.495575,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE",
+                "concept_name": "Infarctus du myocarde à la phase aigue",
+                "surface_form": "Syndrome coronarien aigu",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.493786,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "BAV1",
+            "statut": "present",
+            "ontology_id": "BAV_DE_TYPE_1",
+            "concept_name": "BAV de type 1",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'bav1' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BAV_DE_TYPE_1",
+                "concept_name": "BAV de type 1",
+                "surface_form": "BAV1",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.817753,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BAV_DE_TYPE_1",
+                "concept_name": "BAV de type 1",
+                "surface_form": "BAV 1",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.790167,
+                "bm25_score": 0.0,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BAV",
+                "concept_name": "BAV de type 2",
+                "surface_form": "BAV2",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.778252,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "BAV3",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.773538,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_2_MOBITZ_1",
+                "concept_name": "BAV 2 Mobitz 1",
+                "surface_form": "BAV2M1",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.751054,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Déviation axiale gauche",
+            "statut": "present",
+            "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+            "concept_name": "Déviation axiale gauche",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'deviation axiale gauche' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+                "concept_name": "Déviation axiale gauche",
+                "surface_form": "Déviation axiale gauche",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.88252,
+                "bm25_score": 12.2071,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE",
+                "concept_name": "Déviation axiale",
+                "surface_form": "Déviation axiale",
+                "rrf_score": 0.040719,
+                "cosine_score": 0.77401,
+                "bm25_score": 11.3423,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE_DROITE",
+                "concept_name": "Déviation axiale droite",
+                "surface_form": "Déviation axiale droite",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.843076,
+                "bm25_score": 9.4659,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "POSTÉRIEUR_GAUCHE",
+                "concept_name": "Postérieur gauche",
+                "surface_form": "Postérieur gauche",
+                "rrf_score": 0.038352,
+                "cosine_score": 0.590958,
+                "bm25_score": 3.2846,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "VENTRICULE_GAUCHE",
+                "concept_name": "Ventricule gauche",
+                "surface_form": "Ventricule gauche",
+                "rrf_score": 0.037443,
+                "cosine_score": 0.58806,
+                "bm25_score": 3.2846,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "hemibloc antérieur gauche",
+            "statut": "present",
+            "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+            "concept_name": "Bloc fasciculaire antérieur gauche",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'hemibloc anterieur gauche' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+                "concept_name": "Bloc fasciculaire antérieur gauche",
+                "surface_form": "Hémibloc antérieur gauche",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.88222,
+                "bm25_score": 11.8127,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BLOC_FASCICULAIRE_POSTÉRIEUR_GAUCHE",
+                "concept_name": "Bloc fasciculaire postérieur gauche",
+                "surface_form": "Hémibloc postérieur gauche",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.861773,
+                "bm25_score": 7.7838,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ANTERIEUR_GAUCHE",
+                "concept_name": "Anterieur gauche",
+                "surface_form": "Anterieur gauche",
+                "rrf_score": 0.040215,
+                "cosine_score": 0.732531,
+                "bm25_score": 8.1122,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+                "concept_name": "Bloc fasciculaire antérieur gauche",
+                "surface_form": "Bloc fasciculaire antérieur gauche",
+                "rrf_score": 0.038822,
+                "cosine_score": 0.711247,
+                "bm25_score": 5.8091,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "POSTÉRIEUR_GAUCHE",
+                "concept_name": "Postérieur gauche",
+                "surface_form": "Postérieur gauche",
+                "rrf_score": 0.036984,
+                "cosine_score": 0.667747,
+                "bm25_score": 3.2846,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "BBD complet",
+            "statut": "present",
+            "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+            "concept_name": "Bloc de branche droit complet",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'bbd complet' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+                "concept_name": "Bloc de branche droit complet",
+                "surface_form": "BBD complet",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.809462,
+                "bm25_score": 10.8427,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "BBD_INCOMPLET",
+                "concept_name": "BBD incomplet",
+                "surface_form": "BBD incomplet",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.750653,
+                "bm25_score": 5.6711,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_DE_BRANCHE_DROIT",
+                "concept_name": "Bloc de branche droit",
+                "surface_form": "BBD",
+                "rrf_score": 0.040463,
+                "cosine_score": 0.688436,
+                "bm25_score": 7.0733,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "BAV complet",
+                "rrf_score": 0.039194,
+                "cosine_score": 0.648169,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "Bloc auriculo-ventriculaire complet",
+                "rrf_score": 0.023438,
+                "cosine_score": 0.0,
+                "bm25_score": 3.7034,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "bloc bifasiculaire",
+            "statut": "present",
+            "ontology_id": "BLOC_BIFASCICULAIRE",
+            "concept_name": "Bloc bifasciculaire",
+            "method": "juge_llm",
+            "justification": "Le terme 'bloc bifasiculaire' fait clairement référence à un diagnostic bien défini, qui est directement correspondant à l'option 'Bloc bifasciculaire'. Cela représente la combinaison d'un bloque de branche gauche complet et d'un hémibloc droit ou gauche, et est classé comme un diagnostic majeur dans cette situation.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BLOC_BIFASCICULAIRE",
+                "concept_name": "Bloc bifasciculaire",
+                "surface_form": "Bloc bifasciculaire",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.817247,
+                "bm25_score": 3.4976,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_FASCICULAIRE",
+                "concept_name": "Bloc fasciculaire",
+                "surface_form": "Bloc fasciculaire",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.70872,
+                "bm25_score": 3.4976,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_INTERATRIAL",
+                "concept_name": "Bloc interatrial",
+                "surface_form": "Bloc interauriculaire",
+                "rrf_score": 0.039578,
+                "cosine_score": 0.594888,
+                "bm25_score": 3.4976,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPÉCIFIQUE",
+                "concept_name": "Bloc intraventriculaire aspécifique",
+                "surface_form": "Bloc intraventriculaire aspécifique",
+                "rrf_score": 0.038363,
+                "cosine_score": 0.58456,
+                "bm25_score": 2.919,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_DE_BRANCHE",
+                "concept_name": "Bloc de branche",
+                "surface_form": "Bloc de branche",
+                "rrf_score": 0.038261,
+                "cosine_score": 0.616018,
+                "bm25_score": 2.919,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 100
+          },
+          {
+            "terme_brut": "discordance approprié",
+            "statut": "present",
+            "ontology_id": "NONE",
+            "concept_name": "",
+            "method": "juge_llm",
+            "justification": "Le terme 'discordance approprié' ne correspond pas cliniquement à l'un des concepts proposés. Il semble se référer à un critère d'interprétation ECG plutôt qu'à une entité spécifique de l'ontologie. Les candidats se concentrent sur des signes ECG pathologiques et des descripteurs spécifiques, mais aucun ne traite directement du concept de discordance en question.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "COURANT_DE_LÉSION_SOUS_ÉPICARDIQUE",
+                "concept_name": "Courant de lésion sous-épicardique",
+                "surface_form": "sus-décalage",
+                "rrf_score": 0.016667,
+                "cosine_score": 0.479428,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "COURANT_DE_LÉSION_SOUS_ENDOCARDIQUE",
+                "concept_name": "Courant de lésion sous-endocardique",
+                "surface_form": "sous décalage",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.439034,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE_DROITE",
+                "concept_name": "Déviation axiale droite",
+                "surface_form": "axe droit",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.393968,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BANDELETTE_MODÉRATRICE",
+                "concept_name": "Bandelette modératrice",
+                "surface_form": "Bandelette modératrice",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.392601,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ASPECT_DE_RETARD_DROIT",
+                "concept_name": "Aspect de retard droit",
+                "surface_form": "retard droit",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.388036,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 80
+          }
+        ],
+        "validant_details": [
+          {
+            "golden_name": "Bloc de branche droit complet",
+            "golden_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « Bloc de branche droit complet » — correspondance exacte."
+          },
+          {
+            "golden_name": "BAV de type 1",
+            "golden_id": "BAV_DE_TYPE_1",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « BAV de type 1 » — correspondance exacte."
+          },
+          {
+            "golden_name": "Bloc fasciculaire antérieur gauche",
+            "golden_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « Bloc fasciculaire antérieur gauche » — correspondance exacte."
+          }
+        ],
+        "descripteur_details": [],
+        "decouvertes": [
+          {
+            "concept_name": "Frequence normale",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Déviation axiale gauche",
+            "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Bloc bifasciculaire",
+            "ontology_id": "BLOC_BIFASCICULAIRE",
+            "categorie": "DIAGNOSTIC_MAJEUR"
+          },
+          {
+            "concept_name": "Rythme sinusal",
+            "ontology_id": "RYTHME_SINUSAL",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          }
+        ],
+        "feedback": null
+      }
+    },
+    "8": {
+      "student_text": "",
+      "report": null
+    },
+    "9": {
+      "student_text": "",
+      "report": null
+    },
+    "10": {
+      "student_text": "Rythme sinusal régulier 85bpm, PR normal, axe gauche, BBG complet, discordance approprié",
+      "report": {
+        "score_final_pct": 90.0,
+        "nb_validants_trouves": 1,
+        "nb_validants_attendus": 1,
+        "nb_descripteurs_trouves": 2,
+        "nb_descripteurs_attendus": 2,
+        "latence_s": 8.94,
+        "concepts_extraits": [
+          {
+            "terme_brut": "Rythme sinusal",
+            "statut": "present",
+            "ontology_id": "RYTHME_SINUSAL",
+            "concept_name": "Rythme sinusal",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'rythme sinusal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "RYTHME_SINUSAL",
+                "concept_name": "Rythme sinusal",
+                "surface_form": "Rythme sinusal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.855216,
+                "bm25_score": 9.1881,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ARYTHMIE_ATRIALE",
+                "concept_name": "Arythmie atriale",
+                "surface_form": "rythme non sinusal",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.828695,
+                "bm25_score": 7.6681,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "MORPHOLOGIE_DE_L'ONDE_P_NON_SINUSALE",
+                "concept_name": "Morphologie de l'onde P non sinusale",
+                "surface_form": "rythme atrial non sinusal",
+                "rrf_score": 0.040323,
+                "cosine_score": 0.788932,
+                "bm25_score": 6.5796,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "RYTHME",
+                "concept_name": "Rythme",
+                "surface_form": "Rythme",
+                "rrf_score": 0.038363,
+                "cosine_score": 0.629375,
+                "bm25_score": 5.0096,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "IRRÉGULIER",
+                "concept_name": "Irrégulier",
+                "surface_form": "rythme irrégulier",
+                "rrf_score": 0.038352,
+                "cosine_score": 0.668977,
+                "bm25_score": 4.0166,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Normocarde",
+            "statut": "present",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "concept_name": "Frequence normale",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'normocarde' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "FREQUENCE_NORMALE",
+                "concept_name": "Frequence normale",
+                "surface_form": "Normocarde",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.929044,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "FREQUENCE",
+                "concept_name": "Frequence",
+                "surface_form": "frequence cardiaque",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.520113,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "QRS normoaxé",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.498787,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST",
+                "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+                "surface_form": "Syndrome coronarien avec sus-décalage",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.495575,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE",
+                "concept_name": "Infarctus du myocarde à la phase aigue",
+                "surface_form": "Syndrome coronarien aigu",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.493786,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "PR normal",
+            "statut": "present",
+            "ontology_id": "PR_NORMAL",
+            "concept_name": "PR normal",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'pr normal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "PR_NORMAL",
+                "concept_name": "PR normal",
+                "surface_form": "PR normal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.914813,
+                "bm25_score": 8.7364,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.760734,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "axe normal",
+                "rrf_score": 0.039567,
+                "cosine_score": 0.711687,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.038462,
+                "cosine_score": 0.591962,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.037894,
+                "cosine_score": 0.529074,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Déviation axiale gauche",
+            "statut": "present",
+            "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+            "concept_name": "Déviation axiale gauche",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'deviation axiale gauche' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+                "concept_name": "Déviation axiale gauche",
+                "surface_form": "Déviation axiale gauche",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.88252,
+                "bm25_score": 12.2071,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE",
+                "concept_name": "Déviation axiale",
+                "surface_form": "Déviation axiale",
+                "rrf_score": 0.040719,
+                "cosine_score": 0.77401,
+                "bm25_score": 11.3423,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE_DROITE",
+                "concept_name": "Déviation axiale droite",
+                "surface_form": "Déviation axiale droite",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.843076,
+                "bm25_score": 9.4659,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "POSTÉRIEUR_GAUCHE",
+                "concept_name": "Postérieur gauche",
+                "surface_form": "Postérieur gauche",
+                "rrf_score": 0.038352,
+                "cosine_score": 0.590958,
+                "bm25_score": 3.2846,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "VENTRICULE_GAUCHE",
+                "concept_name": "Ventricule gauche",
+                "surface_form": "Ventricule gauche",
+                "rrf_score": 0.037443,
+                "cosine_score": 0.58806,
+                "bm25_score": 3.2846,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "BBG complet",
+            "statut": "present",
+            "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+            "concept_name": "Bloc de branche gauche",
+            "method": "fallback_subterm",
+            "justification": "Terme composé 'BBG complet' non résolu par le Juge. Sous-terme 'BBG' matche exactement BLOC_DE_BRANCHE_GAUCHE.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+                "concept_name": "Bloc de branche gauche",
+                "surface_form": "BBG",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.718675,
+                "bm25_score": 8.2374,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+                "concept_name": "Bloc de branche droit complet",
+                "surface_form": "BBD complet",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.678744,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "BAV complet",
+                "rrf_score": 0.039083,
+                "cosine_score": 0.466719,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BAV_COMPLET",
+                "concept_name": "BAV complet",
+                "surface_form": "Bloc auriculo-ventriculaire complet",
+                "rrf_score": 0.02381,
+                "cosine_score": 0.0,
+                "bm25_score": 3.7034,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+                "concept_name": "Bloc de branche droit complet",
+                "surface_form": "Bloc de branche droit complet",
+                "rrf_score": 0.023438,
+                "cosine_score": 0.0,
+                "bm25_score": 3.243,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 80
+          },
+          {
+            "terme_brut": "discordance approprié",
+            "statut": "present",
+            "ontology_id": "NONE",
+            "concept_name": "",
+            "method": "juge_llm",
+            "justification": "Le terme 'discordance approprié' ne correspond à aucune des options proposées qui concernent des signatures ECG spécifiques ou des descripteurs. Aucun terme dans la liste ne fournit une correspondance directe pour l'évaluation d'une discordance appropriée dans un contexte ECG.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "COURANT_DE_LÉSION_SOUS_ÉPICARDIQUE",
+                "concept_name": "Courant de lésion sous-épicardique",
+                "surface_form": "sus-décalage",
+                "rrf_score": 0.016667,
+                "cosine_score": 0.479428,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "COURANT_DE_LÉSION_SOUS_ENDOCARDIQUE",
+                "concept_name": "Courant de lésion sous-endocardique",
+                "surface_form": "sous décalage",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.439034,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "DÉVIATION_AXIALE_DROITE",
+                "concept_name": "Déviation axiale droite",
+                "surface_form": "axe droit",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.393968,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BANDELETTE_MODÉRATRICE",
+                "concept_name": "Bandelette modératrice",
+                "surface_form": "Bandelette modératrice",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.392601,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ASPECT_DE_RETARD_DROIT",
+                "concept_name": "Aspect de retard droit",
+                "surface_form": "retard droit",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.388036,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 85
+          }
+        ],
+        "validant_details": [
+          {
+            "golden_name": "Bloc de branche gauche complet",
+            "golden_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+            "found": true,
+            "score_pct": 90.0,
+            "match_type": "parent_gen1",
+            "found_via_name": "Bloc de branche gauche",
+            "explication": "🔴 Vous avez mentionné « Bloc de branche gauche » qui est un concept plus général que « Bloc de branche gauche complet » (ancêtre génération 1 → 90%)."
+          }
+        ],
+        "descripteur_details": [
+          {
+            "golden_name": "Rythme sinusal",
+            "golden_id": "RYTHME_SINUSAL",
+            "found": true,
+            "match_type": "exact"
+          },
+          {
+            "golden_name": "PR normal",
+            "golden_id": "PR_NORMAL",
+            "found": true,
+            "match_type": "exact"
+          }
+        ],
+        "decouvertes": [
+          {
+            "concept_name": "Frequence normale",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Déviation axiale gauche",
+            "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Bloc de branche gauche",
+            "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          }
+        ],
+        "feedback": null
+      }
+    },
+    "11": {
+      "student_text": "",
+      "report": null
+    },
+    "12": {
+      "student_text": "",
+      "report": null
+    },
+    "13": {
+      "student_text": "",
+      "report": null
+    },
+    "14": {
+      "student_text": "",
+      "report": null
+    },
+    "15": {
+      "student_text": "",
+      "report": null
+    }
+  }
+}

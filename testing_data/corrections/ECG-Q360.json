@@ -1,0 +1,69 @@
+{
+  "code": "ECG-Q360",
+  "generated_at": "2026-03-13 22:03:04",
+  "pipeline_version": "RAG Neurosymbolique v1.0",
+  "average": 0,
+  "nb_answered": 0,
+  "cases": {
+    "1": {
+      "student_text": "",
+      "report": null
+    },
+    "2": {
+      "student_text": "",
+      "report": null
+    },
+    "3": {
+      "student_text": "",
+      "report": null
+    },
+    "4": {
+      "student_text": "",
+      "report": null
+    },
+    "5": {
+      "student_text": "",
+      "report": null
+    },
+    "6": {
+      "student_text": "",
+      "report": null
+    },
+    "7": {
+      "student_text": "",
+      "report": null
+    },
+    "8": {
+      "student_text": "",
+      "report": null
+    },
+    "9": {
+      "student_text": "",
+      "report": null
+    },
+    "10": {
+      "student_text": "",
+      "report": null
+    },
+    "11": {
+      "student_text": "",
+      "report": null
+    },
+    "12": {
+      "student_text": "",
+      "report": null
+    },
+    "13": {
+      "student_text": "",
+      "report": null
+    },
+    "14": {
+      "student_text": "",
+      "report": null
+    },
+    "15": {
+      "student_text": "",
+      "report": null
+    }
+  }
+}

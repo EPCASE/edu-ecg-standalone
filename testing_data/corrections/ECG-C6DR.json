@@ -1,0 +1,908 @@
+{
+  "code": "ECG-C6DR",
+  "generated_at": "2026-04-06 00:31:50",
+  "pipeline_version": "RAG Neurosymbolique v1.0",
+  "average": 95.0,
+  "nb_answered": 2,
+  "cases": {
+    "1": {
+      "student_text": "",
+      "report": null
+    },
+    "2": {
+      "student_text": "",
+      "report": null
+    },
+    "3": {
+      "student_text": "FC 150bpm, tachycardie supra-ventriculaire à type de Flutter commun droit anti horaire, conduction variable, QRS intermédiaires, axe normal, repolarisation sans particularité. QTc normal.",
+      "report": {
+        "score_final_pct": 90.0,
+        "nb_validants_trouves": 1,
+        "nb_validants_attendus": 1,
+        "nb_descripteurs_trouves": 0,
+        "nb_descripteurs_attendus": 1,
+        "latence_s": 15.02,
+        "concepts_extraits": [
+          {
+            "terme_brut": "Tachycardie",
+            "statut": "present",
+            "ontology_id": "TACHYCARDIE_ATRIALE",
+            "concept_name": "Tachycardie atriale",
+            "method": "juge_llm",
+            "justification": "Le terme 'tachycardie' dans le contexte décrit correspond à une tachycardie supra-ventriculaire, qui est souvent classée comme tachycardie atriale, particulièrement dans le cas décrit de flutter. Cela en fait un diagnostic spécifique dans le contexte des tachycardies.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "TACHYCARDIE",
+                "concept_name": "Tachycardie",
+                "surface_form": "Tachycardie",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.951239,
+                "bm25_score": 4.1974,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+                "concept_name": "Tachycardie ventriculaire",
+                "surface_form": "Tachycardie ventriculaire",
+                "rrf_score": 0.040323,
+                "cosine_score": 0.779576,
+                "bm25_score": 3.3653,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_ATRIALE",
+                "concept_name": "Tachycardie atriale",
+                "surface_form": "Tachycardie atriale",
+                "rrf_score": 0.039831,
+                "cosine_score": 0.781315,
+                "bm25_score": 3.3653,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_SINUSALE",
+                "concept_name": "Tachycardie sinusale",
+                "surface_form": "Tachycardie sinusale",
+                "rrf_score": 0.039742,
+                "cosine_score": 0.699944,
+                "bm25_score": 3.3653,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_JONCTIONELLE",
+                "concept_name": "Tachycardie jonctionelle",
+                "surface_form": "Tachycardie jonctionelle",
+                "rrf_score": 0.039683,
+                "cosine_score": 0.712217,
+                "bm25_score": 3.3653,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 85
+          },
+          {
+            "terme_brut": "Tachycardie supra-ventriculaire",
+            "statut": "present",
+            "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+            "concept_name": "Tachycardie supra-ventriculaire",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'tachycardie supra ventriculaire' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+                "concept_name": "Tachycardie supra-ventriculaire",
+                "surface_form": "Tachycardie supra-ventriculaire",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.933211,
+                "bm25_score": 10.7068,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+                "concept_name": "Tachycardie ventriculaire",
+                "surface_form": "Tachycardie ventriculaire",
+                "rrf_score": 0.040984,
+                "cosine_score": 0.865571,
+                "bm25_score": 6.2247,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_VENTRICULAIRE_FASCICULAIRE",
+                "concept_name": "Tachycardie ventriculaire fasciculaire",
+                "surface_form": "Tachycardie ventriculaire fasciculaire",
+                "rrf_score": 0.040323,
+                "cosine_score": 0.799009,
+                "bm25_score": 5.1949,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+                "concept_name": "Tachycardie ventriculaire infundibulaire",
+                "surface_form": "Tachycardie ventriculaire infundibulaire",
+                "rrf_score": 0.0386,
+                "cosine_score": 0.789061,
+                "bm25_score": 5.1949,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CATHÉCHOLAMINERGIQUE",
+                "concept_name": "Tachycardie ventriculaire cathécholaminergique",
+                "surface_form": "Tachycardie ventriculaire cathécholaminergique",
+                "rrf_score": 0.038515,
+                "cosine_score": 0.738539,
+                "bm25_score": 5.1949,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Flutter commun droit anti horaire",
+            "statut": "present",
+            "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+            "concept_name": "Flutter droit typique",
+            "method": "juge_llm",
+            "justification": "Le terme décrit un Flutter à type droit (droit commun) et se réfère à sa direction antihoraire, ce qui correspond à Flutter droit typique. Ce dernier correspond le mieux étant donné le contexte et la spécificité recherchée.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "FLUTTER_ATRIAL_HORAIRE",
+                "concept_name": "Flutter atrial horaire",
+                "surface_form": "Flutter commun horaire",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.74695,
+                "bm25_score": 12.1324,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+                "concept_name": "Flutter atrial antihoraire",
+                "surface_form": "Flutter atrial anti-horaire",
+                "rrf_score": 0.040463,
+                "cosine_score": 0.530351,
+                "bm25_score": 11.5688,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+                "concept_name": "Flutter droit typique",
+                "surface_form": "Flutter droit commun",
+                "rrf_score": 0.040323,
+                "cosine_score": 0.571557,
+                "bm25_score": 10.5849,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+                "concept_name": "Flutter atrial antihoraire",
+                "surface_form": "Flutter commun antihoraire",
+                "rrf_score": 0.03947,
+                "cosine_score": 0.672693,
+                "bm25_score": 7.3994,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+                "concept_name": "Flutter droit typique",
+                "surface_form": "Flutter commun",
+                "rrf_score": 0.039435,
+                "cosine_score": 0.528694,
+                "bm25_score": 8.8662,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          },
+          {
+            "terme_brut": "Conduction variable",
+            "statut": "present",
+            "ontology_id": "CONDUCTION",
+            "concept_name": "Conduction",
+            "method": "fallback_subterm",
+            "justification": "Terme composé 'Conduction variable' non résolu par le Juge. Sous-terme 'Conduction' matche exactement CONDUCTION.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "CONDUCTION",
+                "concept_name": "Conduction",
+                "surface_form": "Conduction",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.682519,
+                "bm25_score": 5.8477,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ",
+                "concept_name": "Troubles de conduction et de l'automaticité",
+                "surface_form": "trouble de la conduction",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.563331,
+                "bm25_score": 3.3574,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLE_DE_CONDUCTION_INTRAVENTRICULAIRE",
+                "concept_name": "Trouble de conduction intraventriculaire",
+                "surface_form": "Trouble de conduction intraventriculaire",
+                "rrf_score": 0.040215,
+                "cosine_score": 0.420741,
+                "bm25_score": 3.3574,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "FAISCEAU_ACCESSOIRE_À_CONDUCTION_ANTÉROGRADE",
+                "concept_name": "Faisceau accessoire à conduction antérograde",
+                "surface_form": "Faisceau accessoire à conduction antérograde",
+                "rrf_score": 0.039939,
+                "cosine_score": 0.441617,
+                "bm25_score": 3.3574,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ",
+                "concept_name": "Troubles de conduction et de l'automaticité",
+                "surface_form": "Troubles de conduction et de l'automaticité",
+                "rrf_score": 0.0386,
+                "cosine_score": 0.430436,
+                "bm25_score": 2.615,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 85
+          },
+          {
+            "terme_brut": "Axe normal",
+            "statut": "present",
+            "ontology_id": "AXE_NORMAL_DU_QRS",
+            "concept_name": "Axe normal du QRS",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'axe normal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "axe normal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.999567,
+                "bm25_score": 9.3923,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.038856,
+                "cosine_score": 0.632906,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "PR_NORMAL",
+                "concept_name": "PR normal",
+                "surface_form": "PR normal",
+                "rrf_score": 0.038782,
+                "cosine_score": 0.667877,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.038228,
+                "cosine_score": 0.506392,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.037723,
+                "cosine_score": 0.485359,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "Repolarisation sans particularité",
+            "statut": "present",
+            "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+            "concept_name": "Pas d'anomalie de le repolarisation",
+            "method": "juge_llm",
+            "justification": "Le terme 'repolarisation sans particularité' dans le contexte donné indique qu'il n'y a pas d'anomalie observée lors de la repolarisation, ce qui correspond parfaitement au concept 'Pas d'anomalie de la repolarisation'.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "REPOLARISATION_PRÉCOCE",
+                "concept_name": "Repolarisation précoce",
+                "surface_form": "Repolarisation précoce",
+                "rrf_score": 0.041393,
+                "cosine_score": 0.672301,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+                "concept_name": "Pas d'anomalie de le repolarisation",
+                "surface_form": "Repolarisation normale",
+                "rrf_score": 0.041257,
+                "cosine_score": 0.67379,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLE_DE_REPOLARISATION",
+                "concept_name": "Trouble de repolarisation",
+                "surface_form": "Trouble de repolarisation",
+                "rrf_score": 0.039567,
+                "cosine_score": 0.671105,
+                "bm25_score": 4.316,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ECG_NORMAL",
+                "concept_name": "ECG normal",
+                "surface_form": "ECG sans anomalie",
+                "rrf_score": 0.038899,
+                "cosine_score": 0.431081,
+                "bm25_score": 4.5013,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_DE_REPOLARISATION_PRÉCOCE",
+                "concept_name": "Syndrome de repolarisation précoce",
+                "surface_form": "Syndrome de repolarisation précoce",
+                "rrf_score": 0.038702,
+                "cosine_score": 0.575636,
+                "bm25_score": 3.7034,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          },
+          {
+            "terme_brut": "QTc normal",
+            "statut": "present",
+            "ontology_id": "NONE",
+            "concept_name": "",
+            "method": "juge_llm",
+            "justification": "Le terme 'QTc normal' ne correspond à aucun des concepts proposés. Les options parlent de différents aspects de l'ECG mais ne mentionnent pas spécifiquement le QTc, qui est une mesure distincte du QT. 'QT normal' se rapproche mais ne fait pas référence spécifiquement à 'QTc'.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.04086,
+                "cosine_score": 0.645178,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.039939,
+                "cosine_score": 0.600782,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.039493,
+                "cosine_score": 0.549649,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ECG_NORMAL",
+                "concept_name": "ECG normal",
+                "surface_form": "ECG normal",
+                "rrf_score": 0.0386,
+                "cosine_score": 0.596192,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+                "concept_name": "Voltage du QRS normal",
+                "surface_form": "Voltage du QRS normal",
+                "rrf_score": 0.038452,
+                "cosine_score": 0.61775,
+                "bm25_score": 3.2687,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          }
+        ],
+        "validant_details": [
+          {
+            "golden_name": "Fibrillation atriale",
+            "golden_id": "FIBRILLATION_ATRIALE",
+            "found": true,
+            "score_pct": 90.0,
+            "match_type": "parent_gen1",
+            "found_via_name": "Tachycardie supra-ventriculaire",
+            "explication": "🔴 Vous avez mentionné « Tachycardie supra-ventriculaire » qui est un concept plus général que « Fibrillation atriale » (ancêtre génération 1 → 90%)."
+          }
+        ],
+        "descripteur_details": [
+          {
+            "golden_name": "Repolarisation précoce",
+            "golden_id": "REPOLARISATION_PRÉCOCE",
+            "found": false,
+            "match_type": "missing"
+          }
+        ],
+        "decouvertes": [
+          {
+            "concept_name": "Pas d'anomalie de le repolarisation",
+            "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          },
+          {
+            "concept_name": "Tachycardie supra-ventriculaire",
+            "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          },
+          {
+            "concept_name": "Conduction",
+            "ontology_id": "CONDUCTION",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Tachycardie atriale",
+            "ontology_id": "TACHYCARDIE_ATRIALE",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          },
+          {
+            "concept_name": "Axe normal du QRS",
+            "ontology_id": "AXE_NORMAL_DU_QRS",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "Flutter droit typique",
+            "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+            "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+          }
+        ],
+        "feedback": null
+      }
+    },
+    "4": {
+      "student_text": "",
+      "report": null
+    },
+    "5": {
+      "student_text": "",
+      "report": null
+    },
+    "6": {
+      "student_text": "Rythme electroentrainé en atriale, FC 80bpm, PR normal, HBAG, pas de troubles de la repolarisation. QTc normal.",
+      "report": {
+        "score_final_pct": 100,
+        "nb_validants_trouves": 2,
+        "nb_validants_attendus": 2,
+        "nb_descripteurs_trouves": 0,
+        "nb_descripteurs_attendus": 1,
+        "latence_s": 8.21,
+        "concepts_extraits": [
+          {
+            "terme_brut": "Rythme electroentrainé en atriale",
+            "statut": "present",
+            "ontology_id": "STIMULATION_ATRIALE",
+            "concept_name": "Stimulation atriale",
+            "method": "juge_llm",
+            "justification": "Le terme \"Rythme electroentrainé en atriale\" se réfère à un rythme qui est entraîné par une stimulation de l'oreillette, ce qui correspond exactement au concept de \"Stimulation atriale\" dans les options proposées.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "STIMULATION_ATRIALE",
+                "concept_name": "Stimulation atriale",
+                "surface_form": "Rythme atrial électroentrainé",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.871661,
+                "bm25_score": 8.864,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ARYTHMIE_ATRIALE",
+                "concept_name": "Arythmie atriale",
+                "surface_form": "Arythmie atriale",
+                "rrf_score": 0.038352,
+                "cosine_score": 0.717447,
+                "bm25_score": 4.0916,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TACHYCARDIE_ATRIALE",
+                "concept_name": "Tachycardie atriale",
+                "surface_form": "Tachycardie atriale",
+                "rrf_score": 0.03793,
+                "cosine_score": 0.66792,
+                "bm25_score": 4.0916,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "STIMULATION_ATRIALE",
+                "concept_name": "Stimulation atriale",
+                "surface_form": "Stimulation atriale",
+                "rrf_score": 0.036966,
+                "cosine_score": 0.658821,
+                "bm25_score": 4.0916,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ECHAPPEMENT_VENTRICULAIRE",
+                "concept_name": "Echappement ventriculaire",
+                "surface_form": "Rythme idioventriculaire",
+                "rrf_score": 0.035422,
+                "cosine_score": 0.680115,
+                "bm25_score": 4.0166,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          },
+          {
+            "terme_brut": "Normocarde",
+            "statut": "present",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "concept_name": "Frequence normale",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'normocarde' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "FREQUENCE_NORMALE",
+                "concept_name": "Frequence normale",
+                "surface_form": "Normocarde",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.929025,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "FREQUENCE",
+                "concept_name": "Frequence",
+                "surface_form": "frequence cardiaque",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.519988,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "QRS normoaxé",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.498806,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST",
+                "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+                "surface_form": "Syndrome coronarien avec sus-décalage",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.495556,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE",
+                "concept_name": "Infarctus du myocarde à la phase aigue",
+                "surface_form": "Syndrome coronarien aigu",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.493797,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "PR normal",
+            "statut": "present",
+            "ontology_id": "PR_NORMAL",
+            "concept_name": "PR normal",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'pr normal' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "PR_NORMAL",
+                "concept_name": "PR normal",
+                "surface_form": "PR normal",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.914813,
+                "bm25_score": 8.7364,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.040587,
+                "cosine_score": 0.760734,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "AXE_NORMAL_DU_QRS",
+                "concept_name": "Axe normal du QRS",
+                "surface_form": "axe normal",
+                "rrf_score": 0.039567,
+                "cosine_score": 0.711687,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.038462,
+                "cosine_score": 0.591962,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.037894,
+                "cosine_score": 0.529074,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "HBAG",
+            "statut": "present",
+            "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+            "concept_name": "Bloc fasciculaire antérieur gauche",
+            "method": "coupe_circuit",
+            "justification": "Match exact normalisé : 'hbag' == surface_form du concept.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+                "concept_name": "Bloc fasciculaire antérieur gauche",
+                "surface_form": "HBAG",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.750077,
+                "bm25_score": 8.2374,
+                "is_exact_match": true
+              },
+              {
+                "ontology_id": "HYPERTROPHIE_ATRIALE_GAUCHE",
+                "concept_name": "Hypertrophie atriale gauche",
+                "surface_form": "HAG",
+                "rrf_score": 0.016393,
+                "cosine_score": 0.62488,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "BLOC_FASCICULAIRE_POSTÉRIEUR_GAUCHE",
+                "concept_name": "Bloc fasciculaire postérieur gauche",
+                "surface_form": "HBPG",
+                "rrf_score": 0.016129,
+                "cosine_score": 0.599665,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_GAUCHE",
+                "concept_name": "Hypertrophie ventriculaire gauche",
+                "surface_form": "HVG",
+                "rrf_score": 0.015873,
+                "cosine_score": 0.554149,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "HYPERTROPHIE_ATRIALE_DROITE",
+                "concept_name": "Hypertrophie atriale droite",
+                "surface_form": "HAD",
+                "rrf_score": 0.015625,
+                "cosine_score": 0.551338,
+                "bm25_score": 0.0,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": -1
+          },
+          {
+            "terme_brut": "troubles de la repolarisation",
+            "statut": "absent",
+            "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+            "concept_name": "Pas d'anomalie de le repolarisation",
+            "method": "juge_llm",
+            "justification": "Le terme de l'étudiant mentionne 'pas de troubles de la repolarisation', ce qui correspond au concept de 'pas d'anomalie de la repolarisation'.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "TROUBLE_DE_REPOLARISATION",
+                "concept_name": "Trouble de repolarisation",
+                "surface_form": "Trouble de repolarisation",
+                "rrf_score": 0.041667,
+                "cosine_score": 0.877445,
+                "bm25_score": 6.1359,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "SYNDROME_DE_REPOLARISATION_PRÉCOCE",
+                "concept_name": "Syndrome de repolarisation précoce",
+                "surface_form": "Syndrome de repolarisation précoce",
+                "rrf_score": 0.039578,
+                "cosine_score": 0.6356,
+                "bm25_score": 5.2649,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+                "concept_name": "Pas d'anomalie de le repolarisation",
+                "surface_form": "Repolarisation normale",
+                "rrf_score": 0.039435,
+                "cosine_score": 0.649858,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "REPOLARISATION_PRÉCOCE",
+                "concept_name": "Repolarisation précoce",
+                "surface_form": "Repolarisation précoce",
+                "rrf_score": 0.039311,
+                "cosine_score": 0.676741,
+                "bm25_score": 5.1716,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ",
+                "concept_name": "Troubles de conduction et de l'automaticité",
+                "surface_form": "Troubles de conduction et de l'automaticité",
+                "rrf_score": 0.039296,
+                "cosine_score": 0.553575,
+                "bm25_score": 5.6378,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          },
+          {
+            "terme_brut": "QTc normal",
+            "statut": "present",
+            "ontology_id": "NONE",
+            "concept_name": "",
+            "method": "juge_llm",
+            "justification": "Le terme 'QTc normal' ne correspond à aucun concept proposé. Les options font référence à des éléments ECG différents et ne comprennent pas spécifiquement le QTc. Par conséquent, aucune option n'est adéquate.",
+            "top_k_candidats": [
+              {
+                "ontology_id": "QRS_NORMAL",
+                "concept_name": "QRS normal",
+                "surface_form": "QRS normal",
+                "rrf_score": 0.04086,
+                "cosine_score": 0.645178,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "QT_NORMAL",
+                "concept_name": "QT normal",
+                "surface_form": "QT normal",
+                "rrf_score": 0.039939,
+                "cosine_score": 0.600782,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ST_NORMAL",
+                "concept_name": "ST normal",
+                "surface_form": "ST normal",
+                "rrf_score": 0.039493,
+                "cosine_score": 0.549649,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "ECG_NORMAL",
+                "concept_name": "ECG normal",
+                "surface_form": "ECG normal",
+                "rrf_score": 0.0386,
+                "cosine_score": 0.596192,
+                "bm25_score": 4.5646,
+                "is_exact_match": false
+              },
+              {
+                "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+                "concept_name": "Voltage du QRS normal",
+                "surface_form": "Voltage du QRS normal",
+                "rrf_score": 0.038452,
+                "cosine_score": 0.61775,
+                "bm25_score": 3.2687,
+                "is_exact_match": false
+              }
+            ],
+            "llm_confiance": 90
+          }
+        ],
+        "validant_details": [
+          {
+            "golden_name": "Stimulation atriale",
+            "golden_id": "STIMULATION_ATRIALE",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « Stimulation atriale » — correspondance exacte."
+          },
+          {
+            "golden_name": "Bloc fasciculaire antérieur gauche",
+            "golden_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+            "found": true,
+            "score_pct": 100.0,
+            "match_type": "exact",
+            "found_via_name": "",
+            "explication": "✅ Vous avez identifié « Bloc fasciculaire antérieur gauche » — correspondance exacte."
+          }
+        ],
+        "descripteur_details": [
+          {
+            "golden_name": "Bloc intraventriculaire aspécifique",
+            "golden_id": "BLOC_INTRAVENTRICULAIRE_ASPÉCIFIQUE",
+            "found": false,
+            "match_type": "missing"
+          }
+        ],
+        "decouvertes": [
+          {
+            "concept_name": "Frequence normale",
+            "ontology_id": "FREQUENCE_NORMALE",
+            "categorie": "DESCRIPTEUR_ECG"
+          },
+          {
+            "concept_name": "PR normal",
+            "ontology_id": "PR_NORMAL",
+            "categorie": "DESCRIPTEUR_ECG"
+          }
+        ],
+        "feedback": null
+      }
+    },
+    "7": {
+      "student_text": "",
+      "report": null
+    },
+    "8": {
+      "student_text": "",
+      "report": null
+    },
+    "9": {
+      "student_text": "",
+      "report": null
+    },
+    "10": {
+      "student_text": "",
+      "report": null
+    },
+    "11": {
+      "student_text": "",
+      "report": null
+    },
+    "12": {
+      "student_text": "",
+      "report": null
+    },
+    "13": {
+      "student_text": "",
+      "report": null
+    },
+    "14": {
+      "student_text": "",
+      "report": null
+    },
+    "15": {
+      "student_text": "",
+      "report": null
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "case_20260223_221605_4689fb25",
+  "name": "4",
+  "category": "Autre",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Amylose",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    },
+    {
+      "concept": "BAV de type 1",
+      "category": "DESCRIPTEUR_ECG",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Perte des onde Q septales",
+      "category": "DESCRIPTEUR_ECG",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Microvoltage",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Microvoltage"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Microvoltage",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:16:05.392168",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": ""
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "case_20260223_222313_16e7dac4",
+  "name": "11",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Tachycardie ventriculaire",
+      "category": "DIAGNOSTIC_URGENT",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Tachycardie ventriculaire"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Tachycardie ventriculaire",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:23:13.885869",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "QRS large, monomorphe, régulier, à plus de 100 bpm, sans onde P visible : c'est une tachycardie ventriculaire monomorphe régulière. C'est un diagnostic urgent qui nécessite une prise en charge rapide. Pas de dissociation atrioventriculaire visible, il ne fallait pas manquer la capture du dernier complexe ventriculaire"
+}

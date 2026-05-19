@@ -34,6 +34,9 @@ python examples/02_score_only.py
 
 # 6. Tester le pipeline complet (avec appels GPT, ~0.02$/run)
 python examples/01_run_pipeline_v3.py
+
+# 7. Re-jouer le pipeline sur un vrai cas du goldenset (avec une réponse étudiante)
+python examples/03_run_on_goldenset.py
 ```
 
 ---
@@ -69,7 +72,12 @@ edu-ecg-standalone/
 │
 ├── examples/                    ← Exemples prêts à l'emploi
 │   ├── 01_run_pipeline_v3.py    ← Pipeline complet sur un texte
-│   └── 02_score_only.py         ← Scoring V3 seul (sans LLM, sans clé)
+│   ├── 02_score_only.py         ← Scoring V3 seul (sans LLM, sans clé)
+│   └── 03_run_on_goldenset.py   ← Re-jouer le pipeline sur un cas réel
+│
+├── testing_data/                ← 🧪 Données anonymisées pour tester (36 Mo)
+│   ├── goldenset/               ← 15 cas annotés (image + metadata.json)
+│   └── corrections/             ← 43 corrections étudiantes
 │
 ├── requirements.txt
 ├── .env.example
@@ -219,9 +227,13 @@ Coût : ~$0.01 d'embeddings OpenAI, ~30 secondes.
 
 ## 🔒 Données privées (non incluses dans ce dépôt)
 
-Ce dépôt ne contient **que le code et l'ontologie**. Les données sensibles
-(images ECG, cas du golden set, corrections étudiantes) sont fournies séparément
-sous forme de zip privé. Voir `.gitignore` pour la liste des dossiers exclus.
+Ce dépôt contient un **jeu de test anonymisé** dans `testing_data/` :
+- **15 cas du goldenset** (image ECG + annotations expert)
+- **43 corrections étudiantes** (réponses + sorties pipeline V3)
+- Voir `testing_data/README.md` pour les détails
+
+Les **sessions live** (`sessions/`) générées par l'app de collecte Streamlit
+sont en revanche exclues via `.gitignore`.
 
 ---
 

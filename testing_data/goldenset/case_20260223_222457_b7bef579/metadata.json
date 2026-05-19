@@ -1,0 +1,49 @@
+{
+  "case_id": "case_20260223_222457_b7bef579",
+  "name": "13",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Faisceau accessoire à conduction antérograde",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Faisceau accessoire à conduction antérograde"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Faisceau accessoire à conduction antérograde",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:24:57.449609",
+  "type": "simple",
+  "territory_selections": {
+    "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST": {
+      "territories": [
+        "Antérieur",
+        "Latéral"
+      ],
+      "mirrors": [
+        "Inférieur"
+      ]
+    }
+  },
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "Les plus experimenté identifieront une localisation laterale gauche à confirmer"
+}

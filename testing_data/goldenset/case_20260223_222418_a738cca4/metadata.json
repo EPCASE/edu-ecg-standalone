@@ -1,0 +1,49 @@
+{
+  "case_id": "case_20260223_222418_a738cca4",
+  "name": "12",
+  "category": "Infarctus",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "category": "DIAGNOSTIC_URGENT",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:24:18.906432",
+  "type": "simple",
+  "territory_selections": {
+    "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST": {
+      "territories": [
+        "Antérieur",
+        "Latéral"
+      ],
+      "mirrors": [
+        "Inférieur"
+      ]
+    }
+  },
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": ""
+}

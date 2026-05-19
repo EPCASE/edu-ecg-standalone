@@ -1,0 +1,48 @@
+{
+  "case_id": "case_20260223_221705_cfb8219d",
+  "name": "5",
+  "category": "Bloc de Conduction",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Hyperkaliémie",
+      "category": "DIAGNOSTIC_URGENT",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    },
+    {
+      "concept": "BAV de haut grade",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Hyperkaliémie",
+    "BAV de haut grade"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Hyperkaliémie",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:17:05.353919",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "Plusieurs ondes P bloquées sont visibles, ce qui correspond à un bloc auriculo-ventriculaire de haut grade. De plus, les ondes T sont très pointues et asymétriques, ce qui est très evocateur d'une hyperkaliémie. Mais ce n'est pas un BAV complet car certaines onde P capture le ventricule qui est donc irrégulier !"
+}

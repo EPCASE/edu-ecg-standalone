@@ -10,14 +10,9 @@ __pycache__/
 venv/
 *.egg-info/
 
-# Données privées (cas étudiants, golden set, images ECG)
-goldenset/
-corrections/
+# Données privées (sessions live de l'app de collecte uniquement)
 sessions/
-images_ecg/
-*.png
-*.jpg
-*.jpeg
+# Note : testing_data/ EST committé (goldenset + corrections anonymisés pour la démo)
 
 # Notebooks outputs
 .ipynb_checkpoints/

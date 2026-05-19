@@ -1,0 +1,39 @@
+{
+  "case_id": "case_20260223_222002_b2b597c1",
+  "name": "8",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Flutter droit typique",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "Flutter droit typique"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "Flutter droit typique",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:20:02.884233",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": ""
+}

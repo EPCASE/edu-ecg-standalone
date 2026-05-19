@@ -1,0 +1,47 @@
+{
+  "case_id": "case_20260223_220733_b885d5ef",
+  "name": "2",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "BAV complet",
+      "category": "DIAGNOSTIC_URGENT",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Echappement ventriculaire",
+      "category": "DESCRIPTEUR_ECG",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "BAV complet"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "BAV complet",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:07:33.571021",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": ""
+}

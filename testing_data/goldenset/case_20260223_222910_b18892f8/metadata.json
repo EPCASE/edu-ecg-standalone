@@ -1,0 +1,53 @@
+{
+  "case_id": "case_20260223_222910_b18892f8",
+  "name": "14",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Extrasystole ventriculaire",
+      "category": "SIGNE_ECG_PATHOLOGIQUE",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [],
+  "has_exclusions": false,
+  "diagnostic_principal": "Extrasystole ventriculaire",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:29:10.991016",
+  "type": "simple",
+  "territory_selections": {
+    "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST": {
+      "territories": [
+        "Antérieur",
+        "Latéral"
+      ],
+      "mirrors": [
+        "Inférieur"
+      ]
+    },
+    "Extrasystole ventriculaire": {
+      "territories": [
+        "Chambre de chasse du ventricule droit"
+      ],
+      "mirrors": null
+    }
+  },
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "Monomoprhe, à couplage long et infundibulaire droite, un classique"
+}

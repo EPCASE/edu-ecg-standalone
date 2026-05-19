@@ -1,0 +1,355 @@
+{
+  "1": {
+    "diagnostic_principal": "ECG normal",
+    "category": "Normal",
+    "commentaire_correcteur": "C'est ECG est normal, mais il existe toute de meme un aspect biphasique de l'onde P en DII AVF et DIII evoquant un délai deconduction interatrial, un bloc interatrial",
+    "annotations": [
+      {
+        "concept": "Bloc interatrial",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "ECG normal",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "2": {
+    "diagnostic_principal": "BAV complet",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "BAV complet",
+        "category": "DIAGNOSTIC_URGENT",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Echappement ventriculaire",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "3": {
+    "diagnostic_principal": "Fibrillation atriale",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "En cas de doute avec une arythmie organisée, observe bien la ligne de base en AVF et DIII : elle change ! C'est un signe de fibrillation atriale, et non de flutter. De plus, on voit des petites ondes fibrillatoires en AVF et DIII, ce qui confirme le diagnostic de fibrillation atriale.",
+    "annotations": [
+      {
+        "concept": "Fibrillation atriale",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Repolarisation précoce",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "4": {
+    "diagnostic_principal": "Microvoltage",
+    "category": "Autre",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Amylose",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "BAV de type 1",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Perte des onde Q septales",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Microvoltage",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "5": {
+    "diagnostic_principal": "Hyperkaliémie",
+    "category": "Bloc de Conduction",
+    "commentaire_correcteur": "Plusieurs ondes P bloquées sont visibles, ce qui correspond à un bloc auriculo-ventriculaire de haut grade. De plus, les ondes T sont très pointues et asymétriques, ce qui est très evocateur d'une hyperkaliémie. Mais ce n'est pas un BAV complet car certaines onde P capture le ventricule qui est donc irrégulier !",
+    "annotations": [
+      {
+        "concept": "Hyperkaliémie",
+        "category": "DIAGNOSTIC_URGENT",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "BAV de haut grade",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "6": {
+    "diagnostic_principal": "Stimulation atriale",
+    "category": "Bloc de Conduction",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Stimulation atriale",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Bloc fasciculaire antérieur gauche",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Bloc intraventriculaire aspécifique",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "7": {
+    "diagnostic_principal": "Bloc de branche droit complet",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Bloc de branche droit complet",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "BAV de type 1",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Bloc fasciculaire antérieur gauche",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "8": {
+    "diagnostic_principal": "Flutter droit typique",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Flutter droit typique",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "9": {
+    "diagnostic_principal": "BAV 2 Mobitz 2",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "BAV 2 Mobitz 2",
+        "category": "DIAGNOSTIC_URGENT",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Bloc de branche droit",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Bloc fasciculaire postérieur gauche",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "10": {
+    "diagnostic_principal": "Bloc de branche gauche complet",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Bloc de branche gauche complet",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Rythme sinusal",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      },
+      {
+        "concept": "PR normal",
+        "category": "DESCRIPTEUR_ECG",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "📝 Description",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "11": {
+    "diagnostic_principal": "Tachycardie ventriculaire",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "QRS large, monomorphe, régulier, à plus de 100 bpm, sans onde P visible : c'est une tachycardie ventriculaire monomorphe régulière. C'est un diagnostic urgent qui nécessite une prise en charge rapide. Pas de dissociation atrioventriculaire visible, il ne fallait pas manquer la capture du dernier complexe ventriculaire",
+    "annotations": [
+      {
+        "concept": "Tachycardie ventriculaire",
+        "category": "DIAGNOSTIC_URGENT",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "12": {
+    "diagnostic_principal": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+    "category": "Infarctus",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+        "category": "DIAGNOSTIC_URGENT",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "13": {
+    "diagnostic_principal": "Faisceau accessoire à conduction antérograde",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "Les plus experimenté identifieront une localisation laterale gauche à confirmer",
+    "annotations": [
+      {
+        "concept": "Faisceau accessoire à conduction antérograde",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "14": {
+    "diagnostic_principal": "Extrasystole ventriculaire",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "Monomoprhe, à couplage long et infundibulaire droite, un classique",
+    "annotations": [
+      {
+        "concept": "Extrasystole ventriculaire",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  },
+  "15": {
+    "diagnostic_principal": "Bloc de branche gauche complet",
+    "category": "Troubles du Rythme",
+    "commentaire_correcteur": "",
+    "annotations": [
+      {
+        "concept": "Bloc de branche gauche complet",
+        "category": "SIGNE_ECG_PATHOLOGIQUE",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      },
+      {
+        "concept": "Fibrillation atriale",
+        "category": "DIAGNOSTIC_MAJEUR",
+        "type": "expert",
+        "coefficient": 1.0,
+        "annotation_role": "🎯 Diagnostic validant",
+        "is_exclusion": false
+      }
+    ]
+  }
+}

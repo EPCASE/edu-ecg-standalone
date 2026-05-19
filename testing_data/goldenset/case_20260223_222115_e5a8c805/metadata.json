@@ -1,0 +1,55 @@
+{
+  "case_id": "case_20260223_222115_e5a8c805",
+  "name": "9",
+  "category": "Troubles du Rythme",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "BAV 2 Mobitz 2",
+      "category": "DIAGNOSTIC_URGENT",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Bloc de branche droit",
+      "category": "SIGNE_ECG_PATHOLOGIQUE",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    },
+    {
+      "concept": "Bloc fasciculaire postérieur gauche",
+      "category": "SIGNE_ECG_PATHOLOGIQUE",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "BAV 2 Mobitz 2"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "BAV 2 Mobitz 2",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:21:15.735273",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": ""
+}

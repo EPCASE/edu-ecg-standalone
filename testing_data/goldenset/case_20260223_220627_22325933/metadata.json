@@ -1,0 +1,47 @@
+{
+  "case_id": "case_20260223_220627_22325933",
+  "name": "1",
+  "category": "Normal",
+  "difficulty": "🟢 Débutant",
+  "description": "",
+  "annotations": [
+    {
+      "concept": "Bloc interatrial",
+      "category": "SIGNE_ECG_PATHOLOGIQUE",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "📝 Description",
+      "is_exclusion": false
+    },
+    {
+      "concept": "ECG normal",
+      "category": "DIAGNOSTIC_MAJEUR",
+      "type": "expert",
+      "coefficient": 1.0,
+      "annotation_role": "🎯 Diagnostic validant",
+      "is_exclusion": false
+    }
+  ],
+  "expected_concepts": [
+    "ECG normal"
+  ],
+  "has_exclusions": false,
+  "diagnostic_principal": "ECG normal",
+  "clinical_context": "",
+  "num_ecg": 1,
+  "created_date": "2026-02-23T22:06:27.033908",
+  "type": "simple",
+  "territory_selections": {},
+  "metadata": {
+    "created_by": "ecg_session_builder",
+    "version": "1.0"
+  },
+  "ecgs": [
+    {
+      "filename": "ecg_1.png",
+      "index": 1,
+      "type": "image/png"
+    }
+  ],
+  "commentaire_correcteur": "C'est ECG est normal, mais il existe toute de meme un aspect biphasique de l'onde P en DII AVF et DIII evoquant un délai deconduction interatrial, un bloc interatrial"
+}
