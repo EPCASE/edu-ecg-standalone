@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Données privées (cas étudiants, golden set, images ECG)
+goldenset/
+corrections/
+sessions/
+images_ecg/
+*.png
+*.jpg
+*.jpeg
+
+# Notebooks outputs
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

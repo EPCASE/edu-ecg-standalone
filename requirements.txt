@@ -1,0 +1,13 @@
+# Edu-ECG — Pipeline RAG neurosymbolique V3
+# Dépendances minimales pour faire tourner le pipeline complet
+
+openai>=1.30.0
+numpy>=1.26.0
+rank-bm25>=0.2.2
+rdflib>=7.0.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Notebooks (optionnel)
+jupyter>=1.0.0
+ipykernel>=6.29.0

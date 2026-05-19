@@ -1,0 +1,5989 @@
+{
+  "concept_categories": {
+    "DIAGNOSTIC_URGENT": {
+      "poids": 4,
+      "couleur_ui": "#D32F2F",
+      "concepts": [
+        {
+          "ontology_id": "EMBOLIE_PULMONAIRE",
+          "concept_name": "Embolie pulmonaire",
+          "label_en": "Pulmonary embolism",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TACHYCARDIE_PAR_RÉENTRÉE_DE_BRANCHE_À_BRANCHE",
+          "concept_name": "Tachycardie par réentrée de branche à branche",
+          "label_en": "Bundle-branch reentrant tachycardia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "EXTRASYSTOLE_À_COUPLAGE_COURT",
+          "concept_name": "Extrasystole à couplage court",
+          "label_en": "Short coupled ectopy",
+          "poids": 4
+        },
+        {
+          "ontology_id": "HYPOKALIÉMIE",
+          "concept_name": "Hypokaliémie",
+          "label_en": "Hypokalemia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST",
+          "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+          "label_en": "Infarctus à la phase aiguës avec sus-décalage du segment ST",
+          "poids": 4
+        },
+        {
+          "ontology_id": "ASYSTOLIE",
+          "concept_name": "Asystolie",
+          "label_en": "Asystole",
+          "poids": 4
+        },
+        {
+          "ontology_id": "ISCHÉMIE_SOUS_ENDOCARDIQUE",
+          "concept_name": "Ischémie sous-endocardique",
+          "label_en": "Sub-endocardial ischemia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_SANS_ÉLÉVATION_DU_SEGMENT_ST",
+          "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+          "label_en": "Acute myocardial infarction without ST elevation",
+          "poids": 4
+        },
+        {
+          "ontology_id": "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE",
+          "concept_name": "Infarctus du myocarde à la phase aigue",
+          "label_en": "Acute myocardial infarction",
+          "poids": 4
+        },
+        {
+          "ontology_id": "STIMULATION_DANS_L'ONDE_T",
+          "concept_name": "Stimulation dans l'onde T",
+          "label_en": "T-wave pacing",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_BIDIRECTIONNELLE",
+          "concept_name": "Tachycardie ventriculaire bidirectionnelle",
+          "label_en": "Bidirectional ventricular tachycardia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TORSADE_DE_POINTES",
+          "concept_name": "Torsade de pointes",
+          "label_en": "Torsade de pointes",
+          "poids": 4
+        },
+        {
+          "ontology_id": "HYPERKALIÉMIE",
+          "concept_name": "Hyperkaliémie",
+          "label_en": "Hyperkalemia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "ISCHÉMIE_SOUS_ÉPICARDIQUE",
+          "concept_name": "Ischémie sous-épicardique",
+          "label_en": "Sub-epicardial ischemia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CICATRICIELLE",
+          "concept_name": "Tachycardie ventriculaire cicatricielle",
+          "label_en": "Scar-related ventricular tachycardia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "FIBRILLATION_VENTRICULAIRE",
+          "concept_name": "Fibrillation ventriculaire",
+          "label_en": "Ventricular fibrillation",
+          "poids": 4
+        },
+        {
+          "ontology_id": "BAV_2_MOBITZ_2",
+          "concept_name": "BAV 2 Mobitz 2",
+          "label_en": "Mobitz 2 type 2 AV block",
+          "poids": 4
+        },
+        {
+          "ontology_id": "BAV_COMPLET",
+          "concept_name": "BAV complet",
+          "label_en": "BAV complet",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TAMPONNADE",
+          "concept_name": "Tamponnade",
+          "label_en": "Tamponnade",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CATHÉCHOLAMINERGIQUE",
+          "concept_name": "Tachycardie ventriculaire cathécholaminergique",
+          "label_en": "Catecholaminergic polymorphic ventricular tachycardia",
+          "poids": 4
+        },
+        {
+          "ontology_id": "WOLF_MALIN",
+          "concept_name": "Wolf malin",
+          "label_en": "Super-wolf",
+          "poids": 4
+        },
+        {
+          "ontology_id": "CARDIOVERSION_ÉLECTRIQUE",
+          "concept_name": "Cardioversion électrique",
+          "label_en": "Electrical cardioversion",
+          "poids": 4
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+          "concept_name": "Tachycardie ventriculaire",
+          "label_en": "Ventricular tachycardia",
+          "poids": 4
+        }
+      ]
+    },
+    "DIAGNOSTIC_MAJEUR": {
+      "poids": 3,
+      "couleur_ui": "#F57C00",
+      "concepts": [
+        {
+          "ontology_id": "HYPOTHERMIE",
+          "concept_name": "Hypothermie",
+          "label_en": "Hypothermia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "FAISCEAU_ACCESSOIRE_À_CONDUCTION_ANTÉROGRADE",
+          "concept_name": "Faisceau accessoire à conduction antérograde",
+          "label_en": "Faisceau accessoire à conduction antérograde",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TJ_ORTHODROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+          "concept_name": "TJ orthodromique utilisant une voie accessoire",
+          "label_en": "Orthodromic AVRT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_3",
+          "concept_name": "Aspect de Brugada de type 3",
+          "label_en": "Type 3 Brugada pattern",
+          "poids": 3
+        },
+        {
+          "ontology_id": "SYNDROME_DU_QT_LONG",
+          "concept_name": "Syndrome du QT long",
+          "label_en": "Long QT syndrome",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONELLE_PAR_REENTRÉE_INTRANODALE_SLOW_SLOW",
+          "concept_name": "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+          "label_en": "Slow-slow AVNRT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "MICROVOLTAGE",
+          "concept_name": "Microvoltage",
+          "label_en": "Low amplitude QRS",
+          "poids": 3
+        },
+        {
+          "ontology_id": "SARCOIDOSE",
+          "concept_name": "Sarcoidose",
+          "label_en": "Sarcoidosis",
+          "poids": 3
+        },
+        {
+          "ontology_id": "DOUBLET_VENTRICULAIRE",
+          "concept_name": "Doublet ventriculaire",
+          "label_en": "Doublet ventriculaire",
+          "poids": 3
+        },
+        {
+          "ontology_id": "GÉNÉTIQUE",
+          "concept_name": "Génétique",
+          "label_en": "Genetic",
+          "poids": 3
+        },
+        {
+          "ontology_id": "FIBRILLATION_ATRIALE",
+          "concept_name": "Fibrillation atriale",
+          "label_en": "Atrial fibrillation",
+          "poids": 3
+        },
+        {
+          "ontology_id": "QT_COURT",
+          "concept_name": "QT court",
+          "label_en": "Short QT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_SUR_FIBRE_DE_MAHAIM",
+          "concept_name": "Tachycardie sur fibre de Mahaim",
+          "label_en": "Mahaim fiber tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TJ_ANTIDROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+          "concept_name": "TJ antidromique utilisant une voie accessoire",
+          "label_en": "Antidromic AVRT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_TYPIQUE",
+          "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+          "label_en": "Slow-fast AVNRT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ALTERNANCE_DES_ONDES_T",
+          "concept_name": "Alternance des ondes T",
+          "label_en": "T-wave alternans",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ASPECT_DE_BRUGADA",
+          "concept_name": "Aspect de Brugada",
+          "label_en": "Brugada pattern",
+          "poids": 3
+        },
+        {
+          "ontology_id": "SYNDROME_DE_BRUGADA",
+          "concept_name": "Syndrome de Brugada",
+          "label_en": "Brugada syndrome",
+          "poids": 3
+        },
+        {
+          "ontology_id": "DIGITALIQUES",
+          "concept_name": "Digitaliques",
+          "label_en": "Digitalis",
+          "poids": 3
+        },
+        {
+          "ontology_id": "DYSFONCTION_SINUSALE",
+          "concept_name": "Dysfonction sinusale",
+          "label_en": "Sinus node dysfunction",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPOCALCÉMIE",
+          "concept_name": "Hypocalcémie",
+          "label_en": "Hypocalcemia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "INFARCTUS_ATRIAL",
+          "concept_name": "Infarctus atrial",
+          "label_en": "Atrial myocardial infarction",
+          "poids": 3
+        },
+        {
+          "ontology_id": "PRÉEXCITATION_VENTRICULAIRE_PAR_FIBRE_DE_MAHAÏM",
+          "concept_name": "Préexcitation ventriculaire par fibre de Mahaïm",
+          "label_en": "Mahaim fiber ventricular preexcitation",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+          "concept_name": "Tachycardie ventriculaire infundibulaire",
+          "label_en": "Outflow tract ventricular tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "AMYLOSE",
+          "concept_name": "Amylose",
+          "label_en": "Amyloidosis",
+          "poids": 3
+        },
+        {
+          "ontology_id": "INSUFFISANCE_CHRONOTROPE",
+          "concept_name": "Insuffisance chronotrope",
+          "label_en": "Insuffisance chronotrope",
+          "poids": 3
+        },
+        {
+          "ontology_id": "INTOXICATION_DIGITALIQUE",
+          "concept_name": "intoxication digitalique",
+          "label_en": "Digitalis intoxication",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPONATRÉMIE",
+          "concept_name": "Hyponatrémie",
+          "label_en": "Hyponatremia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_2",
+          "concept_name": "Aspect de Brugada de type 2",
+          "label_en": "Type 2 Brugada pattern",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_ATRIALE_FOCALE",
+          "concept_name": "Tachycardie atriale focale",
+          "label_en": "Ectopic atrial tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BAV_2_MOBITZ_1",
+          "concept_name": "BAV 2 Mobitz 1",
+          "label_en": "Mobitz 1 type 2 AV block",
+          "poids": 3
+        },
+        {
+          "ontology_id": "RYTHME_IDIOVENTRICULAIRE_ACCÉLÉRÉ",
+          "concept_name": "Rythme idioventriculaire accéléré",
+          "label_en": "Accelerated idioventricular rhythm",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+          "concept_name": "Bloc de branche droit complet",
+          "label_en": "Complete RBBB",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ECG_NORMAL",
+          "concept_name": "ECG normal",
+          "label_en": "Normal ECG",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONELLE",
+          "concept_name": "Tachycardie jonctionelle",
+          "label_en": "Tachycardie jonctionelle",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_ATYPIQUE",
+          "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+          "label_en": "Atypical atrioventricular nodal reentrant tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_PAR_REENTRÉE_ÉLECTRONIQUE",
+          "concept_name": "Tachycardie par reentrée électronique",
+          "label_en": "Pacemaker mediated tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HÉMOCHROMATOSE",
+          "concept_name": "Hémochromatose",
+          "label_en": "Hemochromatosis",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPERNATRÉMIE",
+          "concept_name": "Hypernatrémie",
+          "label_en": "Hypernatremia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "RYTHME_D'ÉCHAPPEMENT_JONCTIONNEL",
+          "concept_name": "Rythme d'échappement jonctionnel",
+          "label_en": "Junctional escape rhythm",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BLOC_SINO_ATRIAL",
+          "concept_name": "Bloc sino-atrial",
+          "label_en": "Sino-atrial block",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONELLE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+          "concept_name": "Tachycardie jonctionelle utilisant une voie accessoire",
+          "label_en": "Atrioventricular reciprocating tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "PARALYSIE_SINUSALE",
+          "concept_name": "Paralysie sinusale",
+          "label_en": "Sinus arrest",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONNELLE_ECTOPIQUE",
+          "concept_name": "Tachycardie jonctionnelle ectopique",
+          "label_en": "Junctional ectopic tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "PERTE_DE_CAPTURE_VENTRICULAIRE",
+          "concept_name": "Perte de capture ventriculaire",
+          "label_en": "Ventricular loss of capture",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_DROITE",
+          "concept_name": "Hypertrophie ventriculaire droite",
+          "label_en": "Right ventricular hypertrophy",
+          "poids": 3
+        },
+        {
+          "ontology_id": "\"WANDERING_PACEMAKER\"",
+          "concept_name": "\"Wandering pacemaker\"",
+          "label_en": "Wandering pacemaker",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BLOC_BIFASCICULAIRE",
+          "concept_name": "Bloc bifasciculaire",
+          "label_en": "Bloc bifasciculaire",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ANÉVRYSME_VENTRICULAIRE",
+          "concept_name": "Anévrysme ventriculaire",
+          "label_en": "Ventricular aneurysm",
+          "poids": 3
+        },
+        {
+          "ontology_id": "DYSPLASIE_ARRHYTHMOGÈNE_DU_VENTRICULE_DROIT",
+          "concept_name": "Dysplasie arrhythmogène du ventricule droit",
+          "label_en": "Arrhythmogenic right ventricular cardiomyopathy",
+          "poids": 3
+        },
+        {
+          "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_1",
+          "concept_name": "Aspect de Brugada de type 1",
+          "label_en": "Type 1 Brugada pattern",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_FAST_SLOW",
+          "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+          "label_en": "Atrioventricular nodal reentry tachycardia fast-slow",
+          "poids": 3
+        },
+        {
+          "ontology_id": "CARDIOMYOPATHIE_HYPERTROPHIQUE_APICALE",
+          "concept_name": "Cardiomyopathie hypertrophique apicale",
+          "label_en": "Apical hypertrophic cardiomyopathy",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_GAUCHE",
+          "concept_name": "Hypertrophie ventriculaire gauche",
+          "label_en": "Left ventricular hypertrophy",
+          "poids": 3
+        },
+        {
+          "ontology_id": "QT_LONG",
+          "concept_name": "QT long",
+          "label_en": "Long QT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BAV_DE_HAUT_GRADE",
+          "concept_name": "BAV de haut grade",
+          "label_en": "High grade AV block",
+          "poids": 3
+        },
+        {
+          "ontology_id": "HYPERCALCÉMIE",
+          "concept_name": "Hypercalcémie",
+          "label_en": "Hypercalcemia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "BAV_2_POUR_1",
+          "concept_name": "BAV 2 pour 1",
+          "label_en": "BAV 2 pour 1",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TRIPLET_VENTRICULAIRE",
+          "concept_name": "Triplet ventriculaire",
+          "label_en": "Premature ventricular complex triplet",
+          "poids": 3
+        },
+        {
+          "ontology_id": "PERICARDITE",
+          "concept_name": "Pericardite",
+          "label_en": "Pericarditis",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_FASCICULAIRE",
+          "concept_name": "Tachycardie ventriculaire fasciculaire",
+          "label_en": "Fascicular VT",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_DE_COUMEL",
+          "concept_name": "Tachycardie de Coumel",
+          "label_en": "Permanent junctional reciprocating tachycardia",
+          "poids": 3
+        },
+        {
+          "ontology_id": "SYNDROME_DE_REPOLARISATION_PRÉCOCE",
+          "concept_name": "Syndrome de repolarisation précoce",
+          "label_en": "Early repolarization syndrome",
+          "poids": 3
+        },
+        {
+          "ontology_id": "IMPRÉGNATION_DIGITALIQUE",
+          "concept_name": "Imprégnation digitalique",
+          "label_en": "Digitalis effect",
+          "poids": 3
+        },
+        {
+          "ontology_id": "CARDIOMYOPATHIE_HYPERTROPHIQUE",
+          "concept_name": "Cardiomyopathie hypertrophique",
+          "label_en": "Hypertrophic cardiomyopathy",
+          "poids": 3
+        },
+        {
+          "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE",
+          "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale",
+          "label_en": "Atrioventricular nodal reentrant tachycardia",
+          "poids": 3
+        }
+      ]
+    },
+    "SIGNE_ECG_PATHOLOGIQUE": {
+      "poids": 2,
+      "couleur_ui": "#FFA726",
+      "concepts": [
+        {
+          "ontology_id": "SURDÉTECTION_ATRIALE",
+          "concept_name": "Surdétection atriale",
+          "label_en": "Atrial oversensing",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TACHYCARDIE_VENTRICULAIRE_POLYMORPHE",
+          "concept_name": "Tachycardie ventriculaire polymorphe",
+          "label_en": "Polymorphic ventricular tachycardia",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_INTERATRIAL",
+          "concept_name": "Bloc interatrial",
+          "label_en": "Bloc interatrial",
+          "poids": 2
+        },
+        {
+          "ontology_id": "CAPTURE_SUPRAVENTRICULAIRE",
+          "concept_name": "Capture supraventriculaire",
+          "label_en": "Supraventricular capture beat",
+          "poids": 2
+        },
+        {
+          "ontology_id": "VOIE_LENTE",
+          "concept_name": "Voie lente",
+          "label_en": "Slow pathway",
+          "poids": 2
+        },
+        {
+          "ontology_id": "EXTRASYSTOLE_ATRIALE",
+          "concept_name": "Extrasystole atriale",
+          "label_en": "Premature atrial contraction",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BBD_INCOMPLET",
+          "concept_name": "BBD incomplet",
+          "label_en": "Incomplete RBBB",
+          "poids": 2
+        },
+        {
+          "ontology_id": "PROBLÈME_DE_VITESSE_DE_DÉFILEMENT",
+          "concept_name": "Problème de vitesse de défilement",
+          "label_en": "Paper scroll rate issue",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ESA_MONOMORPHE_ISOLÉE",
+          "concept_name": "ESA monomorphe isolée",
+          "label_en": "ESA monomorphe isolée",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+          "concept_name": "Bloc de branche gauche complet",
+          "label_en": "Complete LBBB",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ARYTHMIE_SINUSALE",
+          "concept_name": "Arythmie sinusale",
+          "label_en": "Respiratory sinus arrhythmia",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+          "concept_name": "Bloc de branche gauche",
+          "label_en": "Left bundle branch block",
+          "poids": 2
+        },
+        {
+          "ontology_id": "EXTRASYSTOLE_VENTRICULAIRE",
+          "concept_name": "Extrasystole ventriculaire",
+          "label_en": "Premature ventricular contraction",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TRIGÉMINISME_VENTRICULAIRE",
+          "concept_name": "Trigéminisme ventriculaire",
+          "label_en": "Ventricular trigeminy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_INCOMPLET",
+          "concept_name": "Bloc de branche gauche incomplet",
+          "label_en": "Incomplete LBBB",
+          "poids": 2
+        },
+        {
+          "ontology_id": "PERTE_DE_CAPTURE_ATRIALE",
+          "concept_name": "Perte de capture atriale",
+          "label_en": "Atrial loss of capture",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ABERRATION_VENTRICULAIRE",
+          "concept_name": "Aberration ventriculaire",
+          "label_en": "Ventricular aberrancy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "RYTHME_SINUSAL",
+          "concept_name": "Rythme sinusal",
+          "label_en": "Sinus rythm",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TACHYCARDIE_ATRIALE",
+          "concept_name": "Tachycardie atriale",
+          "label_en": "Atrial tachycardia",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ONDE_T_NORMALES",
+          "concept_name": "Onde T normales",
+          "label_en": "Onde T normales",
+          "poids": 2
+        },
+        {
+          "ontology_id": "COURANT_DE_LÉSION_SOUS_ENDOCARDIQUE",
+          "concept_name": "Courant de lésion sous-endocardique",
+          "label_en": "Sub-endocardial lesion",
+          "poids": 2
+        },
+        {
+          "ontology_id": "PAS_D'ANOMALIE_DE_LE_REPOLARISATION",
+          "concept_name": "Pas d'anomalie de le repolarisation",
+          "label_en": "Pas d'anomalie de le repolarisation",
+          "poids": 2
+        },
+        {
+          "ontology_id": "COURANT_DE_LÉSION_SOUS_ÉPICARDIQUE",
+          "concept_name": "Courant de lésion sous-épicardique",
+          "label_en": "Sub-epicardial lesion",
+          "poids": 2
+        },
+        {
+          "ontology_id": "INVERSION_D'ÉLECTRODES",
+          "concept_name": "Inversion d'électrodes",
+          "label_en": "Lead Misplacement",
+          "poids": 2
+        },
+        {
+          "ontology_id": "HYPERTROPHIE_ATRIALE_GAUCHE",
+          "concept_name": "Hypertrophie atriale gauche",
+          "label_en": "Left atrial hypertrophy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "SYNDROME_DE_LOWN,_GANONG,_ET_LEVINE",
+          "concept_name": "Syndrome de Lown, Ganong, et Levine",
+          "label_en": "Lown, Ganong and Levine Syndrom",
+          "poids": 2
+        },
+        {
+          "ontology_id": "EFFET_CHATTERJEE",
+          "concept_name": "Effet Chatterjee",
+          "label_en": "Chatterjee effect",
+          "poids": 2
+        },
+        {
+          "ontology_id": "SOUS_DÉTECTION_ATRIALE",
+          "concept_name": "Sous-détection atriale",
+          "label_en": "Atrial undersensing",
+          "poids": 2
+        },
+        {
+          "ontology_id": "CARDIOPATHIE_ISCHÉMIQUE_CHRONIQUE",
+          "concept_name": "Cardiopathie ischémique chronique",
+          "label_en": "Ischemic cardiomyopathy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "HYPERTROPHIE_ATRIALE_DROITE",
+          "concept_name": "Hypertrophie atriale droite",
+          "label_en": "Right atrial hypertrophy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BIGEMINISME_VENTRICULAIRE",
+          "concept_name": "Bigeminisme ventriculaire",
+          "label_en": "Ventricular bigeminy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "SALVE_ESA",
+          "concept_name": "Salve ESA",
+          "label_en": "Salve ESA",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ONDE_P_NORMALE",
+          "concept_name": "Onde P normale",
+          "label_en": "Onde P normale",
+          "poids": 2
+        },
+        {
+          "ontology_id": "QRS_NORMAL",
+          "concept_name": "QRS normal",
+          "label_en": "QRS normal",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TRIGÉMINISME_ATRIALE",
+          "concept_name": "Trigéminisme atriale",
+          "label_en": "Atrial trigeminy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "DISSOCIATION_ATRIO_VENTRICULAIRE",
+          "concept_name": "Dissociation atrio-ventriculaire",
+          "label_en": "Dissociation atrio-ventriculaire",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_FASCICULAIRE_POSTÉRIEUR_GAUCHE",
+          "concept_name": "Bloc fasciculaire postérieur gauche",
+          "label_en": "Left posterior fascicular block",
+          "poids": 2
+        },
+        {
+          "ontology_id": "STIMULATION_EN_FENÊTRE_DE_SÉCURITÉ",
+          "concept_name": "Stimulation en fenêtre de sécurité",
+          "label_en": "Stimulation en fenêtre de sécurité",
+          "poids": 2
+        },
+        {
+          "ontology_id": "STIMULATION_INAPPROPRIÉE",
+          "concept_name": "Stimulation inappropriée",
+          "label_en": "Inappropriate pacing",
+          "poids": 2
+        },
+        {
+          "ontology_id": "EXTRASYSTOLE_ATRIALE_BIGÉMINÉE",
+          "concept_name": "Extrasystole atriale bigéminée",
+          "label_en": "Atrial bigeminy",
+          "poids": 2
+        },
+        {
+          "ontology_id": "RÉPONSE_VENTRICULAIRE_LENTE",
+          "concept_name": "Réponse ventriculaire lente",
+          "label_en": "Slow ventricular response",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE_DROIT",
+          "concept_name": "Bloc de branche droit",
+          "label_en": "Right bundle branch block",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPÉCIFIQUE",
+          "concept_name": "Bloc intraventriculaire aspécifique",
+          "label_en": "Nonspecific intraventricular conduction disorder",
+          "poids": 2
+        },
+        {
+          "ontology_id": "RYTHME_ATRIAL_ECTOPIQUE",
+          "concept_name": "Rythme atrial ectopique",
+          "label_en": "Ectopic atrial rhythm",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ONDE_J_D'OSBORN",
+          "concept_name": "Onde J d'Osborn",
+          "label_en": "Osborn waves",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+          "concept_name": "Tachycardie supra-ventriculaire",
+          "label_en": "Supra-ventricular tachycardia",
+          "poids": 2
+        },
+        {
+          "ontology_id": "RYTHME_JONCTIONELLE_ACCÉLÉRÉ",
+          "concept_name": "Rythme jonctionelle accéléré",
+          "label_en": "Rythme jonctionelle accéléré",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ARTEFACTE",
+          "concept_name": "Artefacte",
+          "label_en": "Artefact",
+          "poids": 2
+        },
+        {
+          "ontology_id": "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE",
+          "concept_name": "Bloc fasciculaire antérieur gauche",
+          "label_en": "Left anterior fascicular block",
+          "poids": 2
+        },
+        {
+          "ontology_id": "SÉQUELLE_DE_NÉCROSE",
+          "concept_name": "Séquelle de nécrose",
+          "label_en": "Previous myocardial infarction",
+          "poids": 2
+        },
+        {
+          "ontology_id": "STIMULATION_ANTITACHYCARDIQUE",
+          "concept_name": "Stimulation antitachycardique",
+          "label_en": "Antitachycardia pacing",
+          "poids": 2
+        },
+        {
+          "ontology_id": "ESA_MONOMORPHES_MULTIPLES",
+          "concept_name": "ESA monomorphes multiples",
+          "label_en": "Multiple monomorphic PACs",
+          "poids": 2
+        },
+        {
+          "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+          "concept_name": "Flutter droit typique",
+          "label_en": "CTI-dependent atrial flutter",
+          "poids": 2
+        },
+        {
+          "ontology_id": "TACHYCARDIE_SINUSALE",
+          "concept_name": "Tachycardie sinusale",
+          "label_en": "Sinus tachycardia",
+          "poids": 2
+        },
+        {
+          "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+          "concept_name": "Flutter atrial antihoraire",
+          "label_en": "Counter-clockwise CTI-dependent flutter",
+          "poids": 2
+        },
+        {
+          "ontology_id": "FLUTTER_ATRIAL_HORAIRE",
+          "concept_name": "Flutter atrial horaire",
+          "label_en": "Clockwise CTI-dependent flutter",
+          "poids": 2
+        },
+        {
+          "ontology_id": "FLUTTER_ATRIAL_ATYPIQUE",
+          "concept_name": "Flutter atrial atypique",
+          "label_en": "Atypical atrial flutter",
+          "poids": 2
+        }
+      ]
+    },
+    "DESCRIPTEUR_ECG": {
+      "poids": 1,
+      "couleur_ui": "#66BB6A",
+      "concepts": [
+        {
+          "ontology_id": "ABSENCE_D'ONDE_P",
+          "concept_name": "Absence d'onde P",
+          "label_en": "Absence d'onde P",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SEPTUM_INTERVENTRICULAIRE",
+          "concept_name": "Septum interventriculaire",
+          "label_en": "Septum",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLE_DE_REPOLARISATION",
+          "concept_name": "Trouble de repolarisation",
+          "label_en": "Repolarization anomaly",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CIRCONFÉRENTIEL",
+          "concept_name": "Circonférentiel",
+          "label_en": "Circumferential",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QUALIFICATION_D'ORGANISATION",
+          "concept_name": "Qualification d'organisation",
+          "label_en": "Qualification d'organisation",
+          "poids": 1
+        },
+        {
+          "ontology_id": "RABOTAGE_DE_L'ONDE_R",
+          "concept_name": "Rabotage de l'onde R",
+          "label_en": "Rabotage de l'onde R",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INTERPOLÉ",
+          "concept_name": "Interpolé",
+          "label_en": "Interpolé",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MONOMORPHE",
+          "concept_name": "monomorphe",
+          "label_en": "monomorphe",
+          "poids": 1
+        },
+        {
+          "ontology_id": "COMPLEXE_DE_FUSION",
+          "concept_name": "Complexe de fusion",
+          "label_en": "Fusion beat",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V2_HAUT",
+          "concept_name": "V2 haut",
+          "label_en": "V2 haut",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BLOC_DE_BRANCHE",
+          "concept_name": "Bloc de branche",
+          "label_en": "Bundle branch block",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PÉRIPHÉRIQUES",
+          "concept_name": "Périphériques",
+          "label_en": "Limb leads",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_T_NÉGATIVE",
+          "concept_name": "Onde T négative",
+          "label_en": "Onde T négative",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PORTION_BASALE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Portion basale du ventricule gauche",
+          "label_en": "Left ventricule basal part",
+          "poids": 1
+        },
+        {
+          "ontology_id": "POLYMORPHE",
+          "concept_name": "polymorphe",
+          "label_en": "polymorphe",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CRITÈRES_DE_SGARBOSSA",
+          "concept_name": "Critères de Sgarbossa",
+          "label_en": "Sgarbossa criteria",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ISOLÉ",
+          "concept_name": "Isolé",
+          "label_en": "Isolé",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_U",
+          "concept_name": "onde U",
+          "label_en": "onde U",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_F",
+          "concept_name": "Onde F",
+          "label_en": "Onde F",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DI",
+          "concept_name": "DI",
+          "label_en": "DI",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉRIVATIONS_ECG",
+          "concept_name": "Dérivations ECG",
+          "label_en": "ECG leads",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MORPHOLOGIE_DE_L'ONDE_P_NON_SINUSALE",
+          "concept_name": "Morphologie de l'onde P non sinusale",
+          "label_en": "Morphologie de l'onde P non sinusale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INTERVALLE_PR",
+          "concept_name": "Intervalle PR",
+          "label_en": "Intervalle PR",
+          "poids": 1
+        },
+        {
+          "ontology_id": "AVF",
+          "concept_name": "AVF",
+          "label_en": "AVF",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAROI_LIBRE_DU_VENTRICULE_DROIT",
+          "concept_name": "Paroi libre du ventricule droit",
+          "label_en": "Right ventricle free wall",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANOMALIE_DE_DURÉE_DU_QT",
+          "concept_name": "Anomalie de durée du QT",
+          "label_en": "QT duration anomaly",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SOUTENU",
+          "concept_name": "soutenu",
+          "label_en": "soutenu",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ABSENCE_D'ONDE_Q_PATHOLOGIQUE",
+          "concept_name": "Absence d'onde Q pathologique",
+          "label_en": "Absence d'onde Q pathologique",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_T_APLATIE",
+          "concept_name": "Onde T aplatie",
+          "label_en": "Onde T aplatie",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉSORGANISÉE",
+          "concept_name": "Désorganisée",
+          "label_en": "Désorganisée",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ESV_ÉPICARDIQUE",
+          "concept_name": "ESV épicardique",
+          "label_en": "Epicardial PVC",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LENT",
+          "concept_name": "lent",
+          "label_en": "lent",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MORPHOLOGIE_ONDE_P_SINUSALE",
+          "concept_name": "Morphologie onde P sinusale",
+          "label_en": "Morphologie onde P sinusale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CONTINUITÉ_MITRO_AORTIQUE",
+          "concept_name": "Continuité mitro-aortique",
+          "label_en": "Mitro-aortic continuity",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DESCRIPTION_ECG",
+          "concept_name": "Description ECG",
+          "label_en": "Description ECG",
+          "poids": 1
+        },
+        {
+          "ontology_id": "1/1",
+          "concept_name": "1/1",
+          "label_en": "1/1",
+          "poids": 1
+        },
+        {
+          "ontology_id": "4/1",
+          "concept_name": "4/1",
+          "label_en": "4/1",
+          "poids": 1
+        },
+        {
+          "ontology_id": "AVL",
+          "concept_name": "AVL",
+          "label_en": "AVL",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAROI_INFÉRIEURE_DU_VENTRICULE_DROIT",
+          "concept_name": "Paroi inférieure du ventricule droit",
+          "label_en": "Right ventricle inferior wall",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+          "concept_name": "Voltage du QRS normal",
+          "label_en": "QRS voltage",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANOMALIE_DES_ONDES_T",
+          "concept_name": "Anomalie des ondes T",
+          "label_en": "T-wave anomaly",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INTERVALLE_QT",
+          "concept_name": "Intervalle QT",
+          "label_en": "Intervalle QT",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SUS_DÉCALAGE_DE_L'ONDE_J",
+          "concept_name": "Sus-décalage de l'onde J",
+          "label_en": "Sus-décalage de l'onde J",
+          "poids": 1
+        },
+        {
+          "ontology_id": "RAPIDE",
+          "concept_name": "rapide",
+          "label_en": "rapide",
+          "poids": 1
+        },
+        {
+          "ontology_id": "AVR",
+          "concept_name": "AVR",
+          "label_en": "AVR",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_P_PROLONGÉE",
+          "concept_name": "Onde P prolongée",
+          "label_en": "Onde P prolongée",
+          "poids": 1
+        },
+        {
+          "ontology_id": "UNE_ONDE_P_BLOQUÉE",
+          "concept_name": "Une onde P bloquée",
+          "label_en": "Une onde P bloquée",
+          "poids": 1
+        },
+        {
+          "ontology_id": "NON_SOUTENU",
+          "concept_name": "Non soutenu",
+          "label_en": "Non soutenu",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TRÉMULATION_DE_LA_LIGNE_DE_BASE",
+          "concept_name": "Trémulation de la ligne de base",
+          "label_en": "Trémulation de la ligne de base",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PERTE_DES_ONDE_Q_SEPTALES",
+          "concept_name": "Perte des onde Q septales",
+          "label_en": "Loss of septal Q waves",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VENTRICULE_GAUCHE",
+          "concept_name": "Ventricule gauche",
+          "label_en": "Left ventricle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VENTRICULE_DROIT",
+          "concept_name": "Ventricule droit",
+          "label_en": "Right ventricle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BRADYCARDIE_SINUSALE",
+          "concept_name": "Bradycardie sinusale",
+          "label_en": "Sinus bradycardia",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V3R",
+          "concept_name": "V3R",
+          "label_en": "V3R",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CUPULE_DIGITALIQUE",
+          "concept_name": "Cupule digitalique",
+          "label_en": "Cupule digitalique",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V2",
+          "concept_name": "V2",
+          "label_en": "V2",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PR_COURT",
+          "concept_name": "PR court",
+          "label_en": "Short PR interval",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ASPECT_EN_SELLE_DE_CHEVAL",
+          "concept_name": "Aspect en selle de cheval",
+          "label_en": "Aspect en selle de cheval",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LEWIS_LEAD",
+          "concept_name": "Lewis lead",
+          "label_en": "Lewis lead",
+          "poids": 1
+        },
+        {
+          "ontology_id": "RYTHME",
+          "concept_name": "Rythme",
+          "label_en": "Heart Rythm",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LATÉRAL",
+          "concept_name": "Latéral",
+          "label_en": "Lateral",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QRS_LARGE",
+          "concept_name": "QRS large",
+          "label_en": "QRS large",
+          "poids": 1
+        },
+        {
+          "ontology_id": "POSTÉRO_SEPTAL_GAUCHE",
+          "concept_name": "Postéro-septal gauche",
+          "label_en": "Left postero-septal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANTÉRO_SEPTAL",
+          "concept_name": "Antéro-septal",
+          "label_en": "Antero-septal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "FREQUENCE",
+          "concept_name": "Frequence",
+          "label_en": "Frequence",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MIROIR",
+          "concept_name": "Miroir",
+          "label_en": "Miroir",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VOLTAGE_DE_L'ONDE_P_<_2.5_MM",
+          "concept_name": "Voltage de l'onde P < 2.5 mm",
+          "label_en": "P-wave voltage < 2.5 mm",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_EPSILON",
+          "concept_name": "Onde epsilon",
+          "label_en": "Epsilon wave",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SEGMENT_ST",
+          "concept_name": "segment ST",
+          "label_en": "segment ST",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QRS_>_120_MS",
+          "concept_name": "QRS > 120 ms",
+          "label_en": "QRS > 120 ms",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLE_DE_LA_DÉPOLARISATION_VENTRICULAIRE",
+          "concept_name": "Trouble de la dépolarisation ventriculaire",
+          "label_en": "Trouble de la dépolarisation ventriculaire",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V6",
+          "concept_name": "V6",
+          "label_en": "V6",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TOPOGRAPHIE",
+          "concept_name": "Topographie",
+          "label_en": "Localization",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLE_DE_LA_DÉPOLARISATION_ATRIAL",
+          "concept_name": "Trouble de la dépolarisation atrial",
+          "label_en": "Trouble de la dépolarisation atrial",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CHAMBRE_DE_CHASSE",
+          "concept_name": "Chambre de chasse",
+          "label_en": "Outflow track",
+          "poids": 1
+        },
+        {
+          "ontology_id": "APICALE",
+          "concept_name": "Apicale",
+          "label_en": "Apical",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ARYTHMIE_ATRIALE",
+          "concept_name": "Arythmie atriale",
+          "label_en": "Arythmie atriale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANTÉRIEUR",
+          "concept_name": "Antérieur",
+          "label_en": "Anterior",
+          "poids": 1
+        },
+        {
+          "ontology_id": "REPOLARISATION_PRÉCOCE",
+          "concept_name": "Repolarisation précoce",
+          "label_en": "Early repolarization",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INFÉRIEUR",
+          "concept_name": "Inférieur",
+          "label_en": "Inférieur",
+          "poids": 1
+        },
+        {
+          "ontology_id": "UNIQUE",
+          "concept_name": "unique",
+          "label_en": "unique",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V2R",
+          "concept_name": "V2R",
+          "label_en": "V2R",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ECHAPPEMENT_VENTRICULAIRE",
+          "concept_name": "Echappement ventriculaire",
+          "label_en": "Echappement ventriculaire",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_P",
+          "concept_name": "Onde P",
+          "label_en": "Onde P",
+          "poids": 1
+        },
+        {
+          "ontology_id": "POSTÉRIEUR",
+          "concept_name": "Postérieur",
+          "label_en": "Posterior",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V8",
+          "concept_name": "V8",
+          "label_en": "V8",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SEPTAL",
+          "concept_name": "Septal",
+          "label_en": "Septal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANTERIEUR_GAUCHE",
+          "concept_name": "Anterieur gauche",
+          "label_en": "Left anterior",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PR_NORMAL",
+          "concept_name": "PR normal",
+          "label_en": "PR normal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LOCALISATION_IDM",
+          "concept_name": "Localisation IDM",
+          "label_en": "MI localization",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_DELTA",
+          "concept_name": "Onde delta",
+          "label_en": "Onde delta",
+          "poids": 1
+        },
+        {
+          "ontology_id": "RYTHME_RÉGULIER",
+          "concept_name": "rythme régulier",
+          "label_en": "rythme régulier",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_P_AMPLE",
+          "concept_name": "Onde P ample",
+          "label_en": "Onde P ample",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_P_ANORMALE",
+          "concept_name": "Onde P anormale",
+          "label_en": "Onde P anormale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAUSE",
+          "concept_name": "Pause",
+          "label_en": "Pause",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DII",
+          "concept_name": "DII",
+          "label_en": "DII",
+          "poids": 1
+        },
+        {
+          "ontology_id": "COUPLET",
+          "concept_name": "Couplet",
+          "label_en": "Couplet",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PRESENCE_D'ONDE_Q_PATHOLOGIQUE",
+          "concept_name": "Presence d'onde Q pathologique",
+          "label_en": "Presence d'onde Q pathologique",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V3",
+          "concept_name": "V3",
+          "label_en": "V3",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ECHAPPEMENT",
+          "concept_name": "Echappement",
+          "label_en": "Echappement",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INDICE_DE_SOKOLOW_>_35_MM",
+          "concept_name": "Indice de sokolow > 35 mm",
+          "label_en": "Indice de sokolow > 35 mm",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Chambre de chasse du ventricule gauche",
+          "label_en": "Left ventricle outflow track",
+          "poids": 1
+        },
+        {
+          "ontology_id": "APEX",
+          "concept_name": "Apex",
+          "label_en": "Apex",
+          "poids": 1
+        },
+        {
+          "ontology_id": "POSTÉRIEUR_GAUCHE",
+          "concept_name": "Postérieur gauche",
+          "label_en": "Left posterior",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉRIVATIONS_PRÉCORDIALES",
+          "concept_name": "Dérivations précordiales",
+          "label_en": "Precordial leads",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PHENOMENE_R/T",
+          "concept_name": "Phenomene R/T",
+          "label_en": "Phenomene R/T",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V5",
+          "concept_name": "V5",
+          "label_en": "V5",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DURÉE_ONDE_P_<_120_MS",
+          "concept_name": "Durée onde P < 120 ms",
+          "label_en": "Durée onde P < 120 ms",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LOCALISATION_ESV",
+          "concept_name": "localisation ESV",
+          "label_en": "PVC localization",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANTÉRO_LATÉRAL_DROIT",
+          "concept_name": "Antéro-latéral droit",
+          "label_en": "Right antero-lateral",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ST_RAIDE",
+          "concept_name": "ST raide",
+          "label_en": "ST raide",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MUSCLE_PAPILLAIRE",
+          "concept_name": "Muscle papillaire",
+          "label_en": "Papillary muscle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_U_NORMALE",
+          "concept_name": "Onde U normale",
+          "label_en": "Onde U normale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BANDELETTE_MODÉRATRICE",
+          "concept_name": "Bandelette modératrice",
+          "label_en": "Bandelette modératrice",
+          "poids": 1
+        },
+        {
+          "ontology_id": "AXE_NORMAL_DU_QRS",
+          "concept_name": "Axe normal du QRS",
+          "label_en": "Axe normal du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TOIT_D'USINE",
+          "concept_name": "Toit d'usine",
+          "label_en": "Toit d'usine",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAROI_INFÉRIEURE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Paroi inférieure du ventricule gauche",
+          "label_en": "Left ventricle inferior wall",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ABSENCE_D'ISCHÉMIE",
+          "concept_name": "Absence d'ischémie",
+          "label_en": "Absence d'ischémie",
+          "poids": 1
+        },
+        {
+          "ontology_id": "STIMULATION_VD",
+          "concept_name": "Stimulation VD",
+          "label_en": "RV pacing",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ORGANISÉE",
+          "concept_name": "Organisée",
+          "label_en": "Organisée",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QRS_FINS",
+          "concept_name": "QRS fins",
+          "label_en": "QRS fins",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TACHYCARDIE",
+          "concept_name": "Tachycardie",
+          "label_en": "Tachycardie",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAROI_LATÉRALE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Paroi latérale du ventricule gauche",
+          "label_en": "Left ventricle Lateral wall",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V4",
+          "concept_name": "V4",
+          "label_en": "V4",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LATÉRAL_DROIT",
+          "concept_name": "Latéral droit",
+          "label_en": "Right lateral",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LATÉRAL_GAUCHE",
+          "concept_name": "Latéral gauche",
+          "label_en": "Left lateral",
+          "poids": 1
+        },
+        {
+          "ontology_id": "RÉSEAU_DE_PURKINJE",
+          "concept_name": "Réseau de purkinje",
+          "label_en": "Purkinje network",
+          "poids": 1
+        },
+        {
+          "ontology_id": "FILTRE_PASSE_BANDE_INADAPTÉ",
+          "concept_name": "Filtre passe-bande inadapté",
+          "label_en": "Inappropriate bandpass filter configuration",
+          "poids": 1
+        },
+        {
+          "ontology_id": "FREQUENCE_NORMALE",
+          "concept_name": "Frequence normale",
+          "label_en": "Frequence normale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V1_HAUT",
+          "concept_name": "V1 haut",
+          "label_en": "V1 haut",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V7",
+          "concept_name": "V7",
+          "label_en": "V7",
+          "poids": 1
+        },
+        {
+          "ontology_id": "2/1",
+          "concept_name": "2/1",
+          "label_en": "2/1",
+          "poids": 1
+        },
+        {
+          "ontology_id": "3/1",
+          "concept_name": "3/1",
+          "label_en": "3/1",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PORTION_MÉDIALE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Portion médiale du ventricule gauche",
+          "label_en": "Left ventricle medial part",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DIII",
+          "concept_name": "DIII",
+          "label_en": "DIII",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ",
+          "concept_name": "Troubles de conduction et de l'automaticité",
+          "label_en": "Conduction and automaticity defects",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BLOC_FASCICULAIRE",
+          "concept_name": "Bloc fasciculaire",
+          "label_en": "Fascicular block",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MID_SEPTAL",
+          "concept_name": "Mid-septal",
+          "label_en": "Mid-septal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V1",
+          "concept_name": "V1",
+          "label_en": "V1",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QRS_FRAGMENTÉ",
+          "concept_name": "QRS fragmenté",
+          "label_en": "Fragmented QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "STIMULATION_VG",
+          "concept_name": "Stimulation VG",
+          "label_en": "LV pacing",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BRANCHE_DROITE",
+          "concept_name": "Branche droite",
+          "label_en": "Branche droite",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MUSCLE_PAPILLAIRE_ANTÉRO_LATÉRAL",
+          "concept_name": "Muscle papillaire antéro-latéral",
+          "label_en": "Antero-lateral papillary muscle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+          "concept_name": "Stimulation biventriculaire",
+          "label_en": "Biventricular pacing",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BRANCHE_GAUCHE",
+          "concept_name": "Branche gauche",
+          "label_en": "Branche gauche",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MUSCLE_PAPILLAIRE_POSTERO_MEDIAL",
+          "concept_name": "Muscle papillaire postero-medial",
+          "label_en": "Postero-medial papillary muscle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ARYTHMIE_JONCTIONELLE",
+          "concept_name": "Arythmie jonctionelle",
+          "label_en": "Arythmie jonctionelle",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_T",
+          "concept_name": "Onde T",
+          "label_en": "Onde T",
+          "poids": 1
+        },
+        {
+          "ontology_id": "INFÉRIEUR_DROIT",
+          "concept_name": "Inférieur droit",
+          "label_en": "Right inferior",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MODE_DE_CONDUCTION_AV",
+          "concept_name": "Mode de conduction AV",
+          "label_en": "Mode de conduction AV",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_DROIT",
+          "concept_name": "Chambre de chasse du ventricule droit",
+          "label_en": "Right ventricle outflow track",
+          "poids": 1
+        },
+        {
+          "ontology_id": "STIMULATION_ATRIALE",
+          "concept_name": "Stimulation atriale",
+          "label_en": "Atrial pacing",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PAROI_ANTÉRIEURE_DU_VENTRICULE_GAUCHE",
+          "concept_name": "Paroi antérieure du ventricule gauche",
+          "label_en": "Left ventricle anterior wall",
+          "poids": 1
+        },
+        {
+          "ontology_id": "V9",
+          "concept_name": "V9",
+          "label_en": "V9",
+          "poids": 1
+        },
+        {
+          "ontology_id": "POSTÉRO_SEPTAL_DROIT",
+          "concept_name": "Postéro-septal droit",
+          "label_en": "Right postero-septal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SOUS_PQ",
+          "concept_name": "sous-PQ",
+          "label_en": "sous-PQ",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PRESENCE_DE_QRS",
+          "concept_name": "Presence de QRS",
+          "label_en": "Presence de QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ANOMALIES_DU_SEGMENT_ST",
+          "concept_name": "Anomalies du segment ST",
+          "label_en": "ST-segment anomaly",
+          "poids": 1
+        },
+        {
+          "ontology_id": "HYPERTROPHIE_VENTRICULAIRE",
+          "concept_name": "Hypertrophie ventriculaire",
+          "label_en": "Hypertrophie ventriculaire",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MORPHOLOGIE_DU_QRS",
+          "concept_name": "Morphologie du QRS",
+          "label_en": "Morphologie du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CONDUCTION",
+          "concept_name": "Conduction",
+          "label_en": "Conduction",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_T_AMPLE",
+          "concept_name": "Onde T ample",
+          "label_en": "Onde T ample",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MORPHOLOGIE_ANORMALE_DU_QRS",
+          "concept_name": "Morphologie anormale du QRS",
+          "label_en": "Morphologie anormale du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "IRRÉGULIER",
+          "concept_name": "Irrégulier",
+          "label_en": "Irrégulier",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QUALIFICATEUR_EPISODE",
+          "concept_name": "Qualificateur episode",
+          "label_en": "Qualificateur episode",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLE_DE_CONDUCTION_INTRA_ATRIAL",
+          "concept_name": "Trouble de conduction intra-atrial",
+          "label_en": "Intra-atrial conduction disorder",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QRS",
+          "concept_name": "QRS",
+          "label_en": "QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SEGMENT_PQ",
+          "concept_name": "Segment PQ",
+          "label_en": "Segment PQ",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BAV_DE_TYPE_2",
+          "concept_name": "BAV de type 2",
+          "label_en": "Type 2 AV block",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BRADYCARDIE",
+          "concept_name": "Bradycardie",
+          "label_en": "Bradycardie",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ALLONGEMENT_PROGRESSIF_DE_L'INTERVALLE_PR",
+          "concept_name": "Allongement progressif de l'intervalle PR",
+          "label_en": "Allongement progressif de l'intervalle PR",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BAV_DE_TYPE_1",
+          "concept_name": "BAV de type 1",
+          "label_en": "Type 1 AV block",
+          "poids": 1
+        },
+        {
+          "ontology_id": "BLOC_AURICULO_VENTRICULAIRE",
+          "concept_name": "Bloc auriculo-ventriculaire",
+          "label_en": "AV block",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PR_ALLONGÉ",
+          "concept_name": "PR allongé",
+          "label_en": "PR allongé",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ABSENCE_DE_QRS",
+          "concept_name": "Absence de QRS",
+          "label_en": "Absence de QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ASPECT_DE_RETARD_GAUCHE",
+          "concept_name": "Aspect de retard gauche",
+          "label_en": "Aspect de retard gauche",
+          "poids": 1
+        },
+        {
+          "ontology_id": "SUS_PQ",
+          "concept_name": "Sus PQ",
+          "label_en": "Sus PQ",
+          "poids": 1
+        },
+        {
+          "ontology_id": "LOCALISATION_FAISCEAU_ACCESSOIRE",
+          "concept_name": "Localisation faisceau accessoire",
+          "label_en": "Kent localization",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PR_ANORMAL",
+          "concept_name": "PR anormal",
+          "label_en": "PR anormal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ASPECT_DE_RETARD_DROIT",
+          "concept_name": "Aspect de retard droit",
+          "label_en": "Aspect de retard droit",
+          "poids": 1
+        },
+        {
+          "ontology_id": "TROUBLE_DE_CONDUCTION_INTRAVENTRICULAIRE",
+          "concept_name": "Trouble de conduction intraventriculaire",
+          "label_en": "Intraventricular conduction anomaly",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_J",
+          "concept_name": "Onde J",
+          "label_en": "J-wave",
+          "poids": 1
+        },
+        {
+          "ontology_id": "MORPHOLOGIE_DU_QRS_NORMALE",
+          "concept_name": "Morphologie du QRS normale",
+          "label_en": "Morphologie du QRS normale",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉVIATION_AXIALE",
+          "concept_name": "Déviation axiale",
+          "label_en": "Axis deviation",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ST_NORMAL",
+          "concept_name": "ST normal",
+          "label_en": "ST normal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VOLTAGE_DU_QRS",
+          "concept_name": "Voltage du QRS",
+          "label_en": "Voltage du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "AXE_DU_QRS",
+          "concept_name": "Axe du QRS",
+          "label_en": "Axe du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "REPOS_COMPENSATEUR",
+          "concept_name": "Repos compensateur",
+          "label_en": "Repos compensateur",
+          "poids": 1
+        },
+        {
+          "ontology_id": "PREMATURÉ",
+          "concept_name": "Prematuré",
+          "label_en": "Prematuré",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉVIATION_AXIALE_DROITE",
+          "concept_name": "Déviation axiale droite",
+          "label_en": "Right axis deviation",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ONDE_P_PRÉSENTE",
+          "concept_name": "Onde P présente",
+          "label_en": "Onde P présente",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ALTERNANCE_DES_QRS",
+          "concept_name": "alternance des QRS",
+          "label_en": "alternance des QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉRIVATIONS_SPÉCIFIQUES",
+          "concept_name": "Dérivations spécifiques",
+          "label_en": "Special leads",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QT_NORMAL",
+          "concept_name": "QT normal",
+          "label_en": "QT normal",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DUREE_DU_QRS",
+          "concept_name": "Duree du QRS",
+          "label_en": "Duree du QRS",
+          "poids": 1
+        },
+        {
+          "ontology_id": "HÉMI_BRANCHE_ANTÉRIEURE_DROITE",
+          "concept_name": "hémi-branche antérieure droite",
+          "label_en": "hémi-branche antérieure droite",
+          "poids": 1
+        },
+        {
+          "ontology_id": "ABSENCE_D'ALLONGEMENT_DE_L'INTERVALLE_PR",
+          "concept_name": "Absence d'allongement de l'intervalle PR",
+          "label_en": "Absence d'allongement de l'intervalle PR",
+          "poids": 1
+        },
+        {
+          "ontology_id": "HÉMI_BRANCHE_ANTÉRIEURE_GAUCHE",
+          "concept_name": "hémi-branche antérieure gauche",
+          "label_en": "hémi-branche antérieure gauche",
+          "poids": 1
+        },
+        {
+          "ontology_id": "DÉVIATION_AXIALE_GAUCHE",
+          "concept_name": "Déviation axiale gauche",
+          "label_en": "Left axis deviation",
+          "poids": 1
+        },
+        {
+          "ontology_id": "QUALIFICATION_PATTERN",
+          "concept_name": "qualification pattern",
+          "label_en": "qualification pattern",
+          "poids": 1
+        },
+        {
+          "ontology_id": "CONDUCTION_VARIABLE",
+          "concept_name": "conduction variable",
+          "label_en": "conduction variable",
+          "poids": 1
+        },
+        {
+          "ontology_id": "VOLTAGE_DU_QRS_ANORMAL",
+          "concept_name": "Voltage du QRS anormal",
+          "label_en": "Voltage du QRS anormal",
+          "poids": 1
+        }
+      ]
+    }
+  },
+  "territoires_ecg": {
+    "SOUS-PQ": {
+      "nom": "sous-PQ",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "CIRCONFÉRENTIEL": {
+      "nom": "Circonférentiel",
+      "electrodes": [
+        "AVF",
+        "V3",
+        "V1",
+        "DII",
+        "V6",
+        "V5",
+        "AVL",
+        "V4",
+        "V2"
+      ]
+    },
+    "ONDE_T_NÉGATIVE": {
+      "nom": "Onde T négative",
+      "electrodes": [
+        "Dérivations ECG"
+      ]
+    },
+    "IRRÉGULIER": {
+      "nom": "Irrégulier",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "PERTE_DES_ONDE_Q_SEPTALES": {
+      "nom": "Perte des onde Q septales",
+      "electrodes": [
+        "V5",
+        "V6"
+      ]
+    },
+    "VENTRICULE_DROIT": {
+      "nom": "Ventricule droit",
+      "electrodes": [
+        "V3R",
+        "V2R",
+        "V1"
+      ]
+    },
+    "LATÉRAL": {
+      "nom": "Latéral",
+      "electrodes": [
+        "DI",
+        "V6",
+        "AVL"
+      ]
+    },
+    "ALLONGEMENT_PROGRESSIF_DE_L'INTERVALLE_PR": {
+      "nom": "Allongement progressif de l'intervalle PR",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "PR_ALLONGÉ": {
+      "nom": "PR allongé",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "ABSENCE_DE_QRS": {
+      "nom": "Absence de QRS",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "APICALE": {
+      "nom": "Apicale",
+      "electrodes": [
+        "V4",
+        "V3"
+      ]
+    },
+    "ANTÉRIEUR": {
+      "nom": "Antérieur",
+      "electrodes": [
+        "V1",
+        "V3",
+        "V2"
+      ]
+    },
+    "POSTÉRIEUR": {
+      "nom": "Postérieur",
+      "electrodes": [
+        "AVF",
+        "DII",
+        "V8",
+        "DIII",
+        "V7",
+        "V9"
+      ]
+    },
+    "DÉVIATION_AXIALE": {
+      "nom": "Déviation axiale",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "DÉVIATION_AXIALE_DROITE": {
+      "nom": "Déviation axiale droite",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "ABSENCE_D'ALLONGEMENT_DE_L'INTERVALLE_PR": {
+      "nom": "Absence d'allongement de l'intervalle PR",
+      "electrodes": [
+        "descriptif"
+      ]
+    },
+    "DÉVIATION_AXIALE_GAUCHE": {
+      "nom": "Déviation axiale gauche",
+      "electrodes": [
+        "descriptif"
+      ]
+    }
+  },
+  "concept_mappings": {
+    "HYPOTHERMIE": {
+      "concept_name": "Hypothermie",
+      "synonymes": [],
+      "implications": [
+        "Onde J d'Osborn"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "FAISCEAU_ACCESSOIRE_À_CONDUCTION_ANTÉROGRADE": {
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "synonymes": [
+        "Faisceau de Kent",
+        "Onde delta",
+        "Pré-excitation",
+        "Pré-excitation ventriculaire",
+        "Préexcitation ventriculaire $",
+        "Voie accessoire",
+        "WPW",
+        "Wolff-Parkinson-White"
+      ],
+      "implications": [
+        "PR court",
+        "Onde delta",
+        "Wolf malin"
+      ],
+      "territoires_possibles": [
+        "Localisation faisceau accessoire"
+      ],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TJ_ORTHODROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE": {
+      "concept_name": "TJ orthodromique utilisant une voie accessoire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation faisceau accessoire"
+      ],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "SURDÉTECTION_ATRIALE": {
+      "concept_name": "Surdétection atriale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ASPECT_DE_BRUGADA_DE_TYPE_3": {
+      "concept_name": "Aspect de Brugada de type 3",
+      "synonymes": [],
+      "implications": [
+        "ECG normal"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ABSENCE_D'ONDE_P": {
+      "concept_name": "Absence d'onde P",
+      "synonymes": [
+        "Onde P absente"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SEPTUM_INTERVENTRICULAIRE": {
+      "concept_name": "Septum interventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLE_DE_REPOLARISATION": {
+      "concept_name": "Trouble de repolarisation",
+      "synonymes": [],
+      "implications": [
+        "Anomalie des ondes T"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CIRCONFÉRENTIEL": {
+      "concept_name": "Circonférentiel",
+      "synonymes": [
+        "Antérieur étendu"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SYNDROME_DU_QT_LONG": {
+      "concept_name": "Syndrome du QT long",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "QUALIFICATION_D'ORGANISATION": {
+      "concept_name": "Qualification d'organisation",
+      "synonymes": [],
+      "implications": [
+        "monomorphe",
+        "polymorphe",
+        "Désorganisée",
+        "Organisée"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_JONCTIONELLE_PAR_REENTRÉE_INTRANODALE_SLOW_SLOW": {
+      "concept_name": "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+      "synonymes": [
+        "RIN slow-slow"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_POLYMORPHE": {
+      "concept_name": "Tachycardie ventriculaire polymorphe",
+      "synonymes": [
+        "Polymorphic VT",
+        "TV polymorphe"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "RABOTAGE_DE_L'ONDE_R": {
+      "concept_name": "Rabotage de l'onde R",
+      "synonymes": [
+        "QS antérieur"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "INTERPOLÉ": {
+      "concept_name": "Interpolé",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MONOMORPHE": {
+      "concept_name": "monomorphe",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_INTERATRIAL": {
+      "concept_name": "Bloc interatrial",
+      "synonymes": [
+        "Bloc inter-auriculaire",
+        "Bloc interauriculaire",
+        "Onde P biphasique en inférieur"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "COMPLEXE_DE_FUSION": {
+      "concept_name": "Complexe de fusion",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V2_HAUT": {
+      "concept_name": "V2 haut",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MICROVOLTAGE": {
+      "concept_name": "Microvoltage",
+      "synonymes": [
+        "QRS de faible amplitude",
+        "micro voltage",
+        "microvoltage du QRS"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "BLOC_DE_BRANCHE": {
+      "concept_name": "Bloc de branche",
+      "synonymes": [],
+      "implications": [
+        "Bloc de branche gauche",
+        "Bloc de branche droit"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SARCOIDOSE": {
+      "concept_name": "Sarcoidose",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "DOUBLET_VENTRICULAIRE": {
+      "concept_name": "Doublet ventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "GÉNÉTIQUE": {
+      "concept_name": "Génétique",
+      "synonymes": [],
+      "implications": [
+        "Syndrome du QT long",
+        "Syndrome de Brugada",
+        "Dysplasie arrhythmogène du ventricule droit",
+        "Tachycardie ventriculaire cathécholaminergique",
+        "Syndrome de repolarisation précoce"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PÉRIPHÉRIQUES": {
+      "concept_name": "Périphériques",
+      "synonymes": [],
+      "implications": [
+        "DI",
+        "AVF",
+        "AVL",
+        "AVR",
+        "DII",
+        "DIII"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_T_NÉGATIVE": {
+      "concept_name": "Onde T négative",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FIBRILLATION_ATRIALE": {
+      "concept_name": "Fibrillation atriale",
+      "synonymes": [
+        "AF",
+        "FA"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CAPTURE_SUPRAVENTRICULAIRE": {
+      "concept_name": "Capture supraventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PORTION_BASALE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Portion basale du ventricule gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "VOIE_LENTE": {
+      "concept_name": "Voie lente",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "EMBOLIE_PULMONAIRE": {
+      "concept_name": "Embolie pulmonaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "QT_COURT": {
+      "concept_name": "QT court",
+      "synonymes": [
+        "QT raccourci"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_PAR_RÉENTRÉE_DE_BRANCHE_À_BRANCHE": {
+      "concept_name": "Tachycardie par réentrée de branche à branche",
+      "synonymes": [],
+      "implications": [
+        "Bloc de branche"
+      ],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "POLYMORPHE": {
+      "concept_name": "polymorphe",
+      "synonymes": [
+        "multifocale"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CRITÈRES_DE_SGARBOSSA": {
+      "concept_name": "Critères de Sgarbossa",
+      "synonymes": [],
+      "implications": [
+        "Bloc de branche gauche complet"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ISOLÉ": {
+      "concept_name": "Isolé",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_U": {
+      "concept_name": "onde U",
+      "synonymes": [],
+      "implications": [
+        "Onde U normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_F": {
+      "concept_name": "Onde F",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_SUR_FIBRE_DE_MAHAIM": {
+      "concept_name": "Tachycardie sur fibre de Mahaim",
+      "synonymes": [
+        "Guiraudon-Klein fiber tachycardia",
+        "Tachycardie sur fibre de Guiraudon-Klein"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "EXTRASYSTOLE_À_COUPLAGE_COURT": {
+      "concept_name": "Extrasystole à couplage court",
+      "synonymes": [
+        "ESV à couplage court"
+      ],
+      "implications": [
+        "Extrasystole ventriculaire",
+        "Phenomene R/T"
+      ],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "DI": {
+      "concept_name": "DI",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉRIVATIONS_ECG": {
+      "concept_name": "Dérivations ECG",
+      "synonymes": [],
+      "implications": [
+        "Périphériques",
+        "Dérivations précordiales",
+        "Dérivations spécifiques"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MORPHOLOGIE_DE_L'ONDE_P_NON_SINUSALE": {
+      "concept_name": "Morphologie de l'onde P non sinusale",
+      "synonymes": [
+        "onde P pas sinusal",
+        "rythme atrial anormal",
+        "rythme atrial non sinusal"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TJ_ANTIDROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE": {
+      "concept_name": "TJ antidromique utilisant une voie accessoire",
+      "synonymes": [
+        "Antidromic AVRT ($ AP)",
+        "TJ antidromique utilisant une VA $"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation faisceau accessoire"
+      ],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "EXTRASYSTOLE_ATRIALE": {
+      "concept_name": "Extrasystole atriale",
+      "synonymes": [
+        "ESA",
+        "PAC"
+      ],
+      "implications": [
+        "ESA monomorphes multiples",
+        "ESA monomorphe isolée"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BBD_INCOMPLET": {
+      "concept_name": "BBD incomplet",
+      "synonymes": [
+        "BBDi",
+        "Bloc de branche droit incomplet",
+        "iRBBB"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_TYPIQUE": {
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "synonymes": [
+        "RIN typique",
+        "Typical AVNRT",
+        "Typical atrioventricular nodal reentry tachycardia"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PROBLÈME_DE_VITESSE_DE_DÉFILEMENT": {
+      "concept_name": "Problème de vitesse de défilement",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ALTERNANCE_DES_ONDES_T": {
+      "concept_name": "Alternance des ondes T",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "INTERVALLE_PR": {
+      "concept_name": "Intervalle PR",
+      "synonymes": [
+        "PR"
+      ],
+      "implications": [
+        "PR court",
+        "PR anormal",
+        "PR normal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AVF": {
+      "concept_name": "AVF",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PAROI_LIBRE_DU_VENTRICULE_DROIT": {
+      "concept_name": "Paroi libre du ventricule droit",
+      "synonymes": [],
+      "implications": [
+        "Aspect de retard gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ASPECT_DE_BRUGADA": {
+      "concept_name": "Aspect de Brugada",
+      "synonymes": [
+        "BRS"
+      ],
+      "implications": [
+        "Aspect de Brugada de type 3",
+        "Aspect de Brugada de type 2",
+        "Aspect de Brugada de type 1"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ANOMALIE_DE_DURÉE_DU_QT": {
+      "concept_name": "Anomalie de durée du QT",
+      "synonymes": [],
+      "implications": [
+        "QT court",
+        "QT long"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SOUTENU": {
+      "concept_name": "soutenu",
+      "synonymes": [
+        "prolongé"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPOKALIÉMIE": {
+      "concept_name": "Hypokaliémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ABSENCE_D'ONDE_Q_PATHOLOGIQUE": {
+      "concept_name": "Absence d'onde Q pathologique",
+      "synonymes": [
+        "Onde Q physiologique",
+        "Pas d'onde Q",
+        "transition précordiale normale",
+        "transition précordiale physiologique"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_T_APLATIE": {
+      "concept_name": "Onde T aplatie",
+      "synonymes": [
+        "Applatissement onde T"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉSORGANISÉE": {
+      "concept_name": "Désorganisée",
+      "synonymes": [],
+      "implications": [
+        "Trémulation de la ligne de base"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ESA_MONOMORPHE_ISOLÉE": {
+      "concept_name": "ESA monomorphe isolée",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ESV_ÉPICARDIQUE": {
+      "concept_name": "ESV épicardique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SYNDROME_DE_BRUGADA": {
+      "concept_name": "Syndrome de Brugada",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "LENT": {
+      "concept_name": "lent",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MORPHOLOGIE_ONDE_P_SINUSALE": {
+      "concept_name": "Morphologie onde P sinusale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CONTINUITÉ_MITRO_AORTIQUE": {
+      "concept_name": "Continuité mitro-aortique",
+      "synonymes": [],
+      "implications": [
+        "Aspect de retard droit"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DESCRIPTION_ECG": {
+      "concept_name": "Description ECG",
+      "synonymes": [],
+      "implications": [
+        "onde U",
+        "Onde F",
+        "Conduction",
+        "Intervalle PR",
+        "QRS",
+        "Segment PQ",
+        "Intervalle QT",
+        "Rythme",
+        "Frequence",
+        "Pas d'anomalie de le repolarisation",
+        "segment ST",
+        "Onde P",
+        "Onde J",
+        "Phenomene R/T",
+        "Repos compensateur",
+        "qualification pattern",
+        "Onde T"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DIGITALIQUES": {
+      "concept_name": "Digitaliques",
+      "synonymes": [],
+      "implications": [
+        "Cupule digitalique",
+        "intoxication digitalique",
+        "Imprégnation digitalique"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "DYSFONCTION_SINUSALE": {
+      "concept_name": "Dysfonction sinusale",
+      "synonymes": [
+        "SND"
+      ],
+      "implications": [
+        "Bradycardie sinusale",
+        "Bloc sino-atrial",
+        "Paralysie sinusale"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_AVEC_SUS_DÉCALAGE_DU_SEGMENT_ST": {
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "synonymes": [
+        "SCA ST +",
+        "SCA ST+",
+        "SCA-ST +",
+        "STEMI",
+        "Syndrome coronarien avec sus-décalage",
+        "infarctus st+"
+      ],
+      "implications": [
+        "Courant de lésion sous-épicardique"
+      ],
+      "territoires_possibles": [
+        "Miroir",
+        "Localisation IDM"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "1/1": {
+      "concept_name": "1/1",
+      "synonymes": [
+        "1 pour 1",
+        "conduction en 1 pour 1"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "4/1": {
+      "concept_name": "4/1",
+      "synonymes": [
+        "4 pour 1",
+        "conduction en 4 pour 1"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AVL": {
+      "concept_name": "AVL",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPOCALCÉMIE": {
+      "concept_name": "Hypocalcémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PAROI_INFÉRIEURE_DU_VENTRICULE_DROIT": {
+      "concept_name": "Paroi inférieure du ventricule droit",
+      "synonymes": [],
+      "implications": [
+        "Aspect de retard gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "INFARCTUS_ATRIAL": {
+      "concept_name": "Infarctus atrial",
+      "synonymes": [],
+      "implications": [
+        "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+        "Sus PQ"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "VOLTAGE_DU_QRS_NORMAL": {
+      "concept_name": "Voltage du QRS normal",
+      "synonymes": [
+        "Amplitude normale du QRS",
+        "normovolté"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ANOMALIE_DES_ONDES_T": {
+      "concept_name": "Anomalie des ondes T",
+      "synonymes": [
+        "$ T-wave anomaly",
+        "Inversion $ des ondes T",
+        "Onde T anormale"
+      ],
+      "implications": [
+        "Onde T négative",
+        "Alternance des ondes T",
+        "Onde T ample",
+        "Onde T aplatie",
+        "Ischémie sous-endocardique",
+        "Ischémie sous-épicardique"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_DE_BRANCHE_GAUCHE_COMPLET": {
+      "concept_name": "Bloc de branche gauche complet",
+      "synonymes": [
+        "BBGc",
+        "cLBBB"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PRÉEXCITATION_VENTRICULAIRE_PAR_FIBRE_DE_MAHAÏM": {
+      "concept_name": "Préexcitation ventriculaire par fibre de Mahaïm",
+      "synonymes": [
+        "Guiraudon-Klein fiber ventricular preexcitation",
+        "Préexcitation ventriculaire par fibre de Guiraudon-Klein"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ASYSTOLIE": {
+      "concept_name": "Asystolie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ARYTHMIE_SINUSALE": {
+      "concept_name": "Arythmie sinusale",
+      "synonymes": [
+        "Arythmie sinusale respiratoire"
+      ],
+      "implications": [
+        "Irrégulier",
+        "Rythme sinusal"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BLOC_DE_BRANCHE_GAUCHE": {
+      "concept_name": "Bloc de branche gauche",
+      "synonymes": [
+        "BBG",
+        "LBBB"
+      ],
+      "implications": [
+        "Bloc de branche gauche complet",
+        "Bloc de branche gauche incomplet"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "EXTRASYSTOLE_VENTRICULAIRE": {
+      "concept_name": "Extrasystole ventriculaire",
+      "synonymes": [
+        "ESV",
+        "Extra-systole ventriculaire",
+        "PVC"
+      ],
+      "implications": [
+        "Absence d'onde P",
+        "QRS large",
+        "Prematuré",
+        "Doublet ventriculaire",
+        "Trigéminisme ventriculaire",
+        "Bigeminisme ventriculaire",
+        "Triplet ventriculaire"
+      ],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "INTERVALLE_QT": {
+      "concept_name": "Intervalle QT",
+      "synonymes": [],
+      "implications": [
+        "Anomalie de durée du QT",
+        "QT normal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE": {
+      "concept_name": "Tachycardie ventriculaire infundibulaire",
+      "synonymes": [
+        "TV de Gallavardin",
+        "TV infundibulaire",
+        "Tachycardie ventriculaire de Gallavardin"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "SUS_DÉCALAGE_DE_L'ONDE_J": {
+      "concept_name": "Sus-décalage de l'onde J",
+      "synonymes": [
+        "Sus-décallage du points J"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "RAPIDE": {
+      "concept_name": "rapide",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AVR": {
+      "concept_name": "AVR",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_P_PROLONGÉE": {
+      "concept_name": "Onde P prolongée",
+      "synonymes": [
+        "Onde P > 120 ms"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "UNE_ONDE_P_BLOQUÉE": {
+      "concept_name": "Une onde P bloquée",
+      "synonymes": [
+        "onde P bloquée",
+        "onde P bloquées"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "NON_SOUTENU": {
+      "concept_name": "Non soutenu",
+      "synonymes": [
+        "NS",
+        "en salve"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TRÉMULATION_DE_LA_LIGNE_DE_BASE": {
+      "concept_name": "Trémulation de la ligne de base",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TRIGÉMINISME_VENTRICULAIRE": {
+      "concept_name": "Trigéminisme ventriculaire",
+      "synonymes": [
+        "Trigéminisme"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PERTE_DES_ONDE_Q_SEPTALES": {
+      "concept_name": "Perte des onde Q septales",
+      "synonymes": [
+        "Rabotage de l'onde R",
+        "Rabotage de l'onde R en antérieur"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AMYLOSE": {
+      "concept_name": "Amylose",
+      "synonymes": [
+        "Cardiopathie amyloide"
+      ],
+      "implications": [
+        "Microvoltage"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "BLOC_DE_BRANCHE_GAUCHE_INCOMPLET": {
+      "concept_name": "Bloc de branche gauche incomplet",
+      "synonymes": [
+        "BBGi",
+        "iLBBB"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "VENTRICULE_GAUCHE": {
+      "concept_name": "Ventricule gauche",
+      "synonymes": [],
+      "implications": [
+        "Aspect de retard gauche",
+        "Portion basale du ventricule gauche",
+        "Paroi inférieure du ventricule gauche",
+        "Paroi latérale du ventricule gauche",
+        "Portion médiale du ventricule gauche",
+        "Paroi antérieure du ventricule gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "VENTRICULE_DROIT": {
+      "concept_name": "Ventricule droit",
+      "synonymes": [],
+      "implications": [
+        "Aspect de retard gauche",
+        "Paroi libre du ventricule droit",
+        "Paroi inférieure du ventricule droit"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PERTE_DE_CAPTURE_ATRIALE": {
+      "concept_name": "Perte de capture atriale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BRADYCARDIE_SINUSALE": {
+      "concept_name": "Bradycardie sinusale",
+      "synonymes": [],
+      "implications": [
+        "Bradycardie",
+        "Rythme sinusal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V3R": {
+      "concept_name": "V3R",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "INSUFFISANCE_CHRONOTROPE": {
+      "concept_name": "Insuffisance chronotrope",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CUPULE_DIGITALIQUE": {
+      "concept_name": "Cupule digitalique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ABERRATION_VENTRICULAIRE": {
+      "concept_name": "Aberration ventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "V2": {
+      "concept_name": "V2",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PR_COURT": {
+      "concept_name": "PR court",
+      "synonymes": [
+        "PR < 120 ms"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "RYTHME_SINUSAL": {
+      "concept_name": "Rythme sinusal",
+      "synonymes": [
+        "RS",
+        "sinusal"
+      ],
+      "implications": [
+        "Morphologie onde P sinusale",
+        "Frequence normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "INTOXICATION_DIGITALIQUE": {
+      "concept_name": "intoxication digitalique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "HYPONATRÉMIE": {
+      "concept_name": "Hyponatrémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ASPECT_EN_SELLE_DE_CHEVAL": {
+      "concept_name": "Aspect en selle de cheval",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "LEWIS_LEAD": {
+      "concept_name": "Lewis lead",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "RYTHME": {
+      "concept_name": "Rythme",
+      "synonymes": [],
+      "implications": [
+        "Irrégulier",
+        "rythme régulier"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "LATÉRAL": {
+      "concept_name": "Latéral",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "QRS_LARGE": {
+      "concept_name": "QRS large",
+      "synonymes": [],
+      "implications": [
+        "QRS > 120 ms"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_ATRIALE": {
+      "concept_name": "Tachycardie atriale",
+      "synonymes": [
+        "AT",
+        "Flutter atrial",
+        "TA"
+      ],
+      "implications": [
+        "Flutter droit typique",
+        "Tachycardie atriale focale",
+        "Flutter atrial atypique"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ASPECT_DE_BRUGADA_DE_TYPE_2": {
+      "concept_name": "Aspect de Brugada de type 2",
+      "synonymes": [],
+      "implications": [
+        "Sus-décalage de l'onde J"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_ATRIALE_FOCALE": {
+      "concept_name": "Tachycardie atriale focale",
+      "synonymes": [
+        "AT",
+        "TAF",
+        "Tachycardie atriale ectopique"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "POSTÉRO_SEPTAL_GAUCHE": {
+      "concept_name": "Postéro-septal gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ANTÉRO_SEPTAL": {
+      "concept_name": "Antéro-septal",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FREQUENCE": {
+      "concept_name": "Frequence",
+      "synonymes": [
+        "frequence cardiaque"
+      ],
+      "implications": [
+        "Bradycardie",
+        "Tachycardie",
+        "Frequence normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MIROIR": {
+      "concept_name": "Miroir",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ISCHÉMIE_SOUS_ENDOCARDIQUE": {
+      "concept_name": "Ischémie sous-endocardique",
+      "synonymes": [],
+      "implications": [
+        "Onde T ample"
+      ],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "BAV_2_MOBITZ_1": {
+      "concept_name": "BAV 2 Mobitz 1",
+      "synonymes": [
+        "BAV 2 type 1",
+        "BAV2M1",
+        "Bloc auriculo-ventriculaire du 2ème degré type 1",
+        "Mobitz I"
+      ],
+      "implications": [
+        "Une onde P bloquée",
+        "Allongement progressif de l'intervalle PR"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ONDE_T_NORMALES": {
+      "concept_name": "Onde T normales",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "COURANT_DE_LÉSION_SOUS_ENDOCARDIQUE": {
+      "concept_name": "Courant de lésion sous-endocardique",
+      "synonymes": [
+        "$ ST-segment depression",
+        "ST moins",
+        "ST-",
+        "ST-segment depression",
+        "Sous-décalage du segment ST",
+        "Sous-décalage du segment ST $",
+        "sous décalage"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "RYTHME_IDIOVENTRICULAIRE_ACCÉLÉRÉ": {
+      "concept_name": "Rythme idioventriculaire accéléré",
+      "synonymes": [
+        "RIVA"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PAS_D'ANOMALIE_DE_LE_REPOLARISATION": {
+      "concept_name": "Pas d'anomalie de le repolarisation",
+      "synonymes": [
+        "Repolarisation normale"
+      ],
+      "implications": [
+        "Onde T normales",
+        "ST normal"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "VOLTAGE_DE_L'ONDE_P_<_2.5_MM": {
+      "concept_name": "Voltage de l'onde P < 2.5 mm",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "COURANT_DE_LÉSION_SOUS_ÉPICARDIQUE": {
+      "concept_name": "Courant de lésion sous-épicardique",
+      "synonymes": [
+        "$ ST-segment elevation",
+        "ST +",
+        "ST plus",
+        "ST surelevé",
+        "ST+",
+        "ST-segment elevation",
+        "Sus-décalage du segment ST",
+        "Sus-décalage du segment ST $",
+        "sus-décalage"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "INVERSION_D'ÉLECTRODES": {
+      "concept_name": "Inversion d'électrodes",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BLOC_DE_BRANCHE_DROIT_COMPLET": {
+      "concept_name": "Bloc de branche droit complet",
+      "synonymes": [
+        "BBD complet",
+        "BBDc",
+        "cRBBB"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ONDE_EPSILON": {
+      "concept_name": "Onde epsilon",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SYNDROME_CORONARIEN_À_LA_PHASE_AIGUE_SANS_ÉLÉVATION_DU_SEGMENT_ST": {
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "synonymes": [
+        "Infarctus à la phase aigue sans élevation du segment ST",
+        "NSTEMI",
+        "SCA sans ST +",
+        "Syndrome coronarien ST -"
+      ],
+      "implications": [
+        "Courant de lésion sous-épicardique",
+        "ECG normal",
+        "Ischémie sous-épicardique"
+      ],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "SEGMENT_ST": {
+      "concept_name": "segment ST",
+      "synonymes": [],
+      "implications": [
+        "Anomalies du segment ST",
+        "ST normal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "QRS_>_120_MS": {
+      "concept_name": "QRS > 120 ms",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLE_DE_LA_DÉPOLARISATION_VENTRICULAIRE": {
+      "concept_name": "Trouble de la dépolarisation ventriculaire",
+      "synonymes": [],
+      "implications": [
+        "Faisceau accessoire à conduction antérograde",
+        "Hypertrophie ventriculaire"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V6": {
+      "concept_name": "V6",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ECG_NORMAL": {
+      "concept_name": "ECG normal",
+      "synonymes": [
+        "ECG physiologique",
+        "ECG sans anomalie",
+        "Pas d'anomalie",
+        "Tracé normal"
+      ],
+      "implications": [
+        "Rythme sinusal",
+        "Pas d'anomalie de le repolarisation",
+        "PR normal",
+        "QRS normal",
+        "Frequence normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_JONCTIONELLE": {
+      "concept_name": "Tachycardie jonctionelle",
+      "synonymes": [],
+      "implications": [
+        "Tachycardie jonctionelle utilisant une voie accessoire",
+        "Tachycardie jonctionnelle ectopique",
+        "Tachycardie jonctionnelle par réentrée intra-nodale"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TOPOGRAPHIE": {
+      "concept_name": "Topographie",
+      "synonymes": [],
+      "implications": [
+        "Localisation faisceau accessoire",
+        "Localisation IDM",
+        "localisation ESV"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLE_DE_LA_DÉPOLARISATION_ATRIAL": {
+      "concept_name": "Trouble de la dépolarisation atrial",
+      "synonymes": [],
+      "implications": [
+        "Trouble de conduction intra-atrial",
+        "Hypertrophie atriale droite"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CHAMBRE_DE_CHASSE": {
+      "concept_name": "Chambre de chasse",
+      "synonymes": [],
+      "implications": [
+        "Continuité mitro-aortique",
+        "Chambre de chasse du ventricule gauche",
+        "Chambre de chasse du ventricule droit"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "APICALE": {
+      "concept_name": "Apicale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_ATYPIQUE": {
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "synonymes": [
+        "Atypical AVNRT",
+        "RIN atypique",
+        "Uncommon AVNRT"
+      ],
+      "implications": [
+        "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+        "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ARYTHMIE_ATRIALE": {
+      "concept_name": "Arythmie atriale",
+      "synonymes": [
+        "rythme non sinusal"
+      ],
+      "implications": [
+        "Extrasystole atriale",
+        "Arythmie sinusale",
+        "Bradycardie sinusale",
+        "\"Wandering pacemaker\"",
+        "Tachycardie supra-ventriculaire"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_PAR_REENTRÉE_ÉLECTRONIQUE": {
+      "concept_name": "Tachycardie par reentrée électronique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ANTÉRIEUR": {
+      "concept_name": "Antérieur",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HÉMOCHROMATOSE": {
+      "concept_name": "Hémochromatose",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "REPOLARISATION_PRÉCOCE": {
+      "concept_name": "Repolarisation précoce",
+      "synonymes": [
+        "ERS",
+        "Notch",
+        "slurre"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERNATRÉMIE": {
+      "concept_name": "Hypernatrémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "INFÉRIEUR": {
+      "concept_name": "Inférieur",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERTROPHIE_ATRIALE_GAUCHE": {
+      "concept_name": "Hypertrophie atriale gauche",
+      "synonymes": [
+        "HAG"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "UNIQUE": {
+      "concept_name": "unique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "RYTHME_D'ÉCHAPPEMENT_JONCTIONNEL": {
+      "concept_name": "Rythme d'échappement jonctionnel",
+      "synonymes": [
+        "RIJA",
+        "Rythme jonctionnel",
+        "échappement jonctionnel"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "V2R": {
+      "concept_name": "V2R",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_SINO_ATRIAL": {
+      "concept_name": "Bloc sino-atrial",
+      "synonymes": [
+        "BSA"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ECHAPPEMENT_VENTRICULAIRE": {
+      "concept_name": "Echappement ventriculaire",
+      "synonymes": [
+        "Rythme d'échappement ventriculaire",
+        "Rythme idioventriculaire"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SYNDROME_DE_LOWN,_GANONG,_ET_LEVINE": {
+      "concept_name": "Syndrome de Lown, Ganong, et Levine",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ONDE_P": {
+      "concept_name": "Onde P",
+      "synonymes": [],
+      "implications": [
+        "Absence d'onde P",
+        "Onde P présente"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "POSTÉRIEUR": {
+      "concept_name": "Postérieur",
+      "synonymes": [
+        "inférieur"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V8": {
+      "concept_name": "V8",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "EFFET_CHATTERJEE": {
+      "concept_name": "Effet Chatterjee",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "SEPTAL": {
+      "concept_name": "Septal",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SOUS_DÉTECTION_ATRIALE": {
+      "concept_name": "Sous-détection atriale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ANTERIEUR_GAUCHE": {
+      "concept_name": "Anterieur gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_JONCTIONELLE_UTILISANT_UNE_VOIE_ACCESSOIRE": {
+      "concept_name": "Tachycardie jonctionelle utilisant une voie accessoire",
+      "synonymes": [
+        "AVRT",
+        "TJ utilisant une voie accessoire"
+      ],
+      "implications": [
+        "TJ orthodromique utilisant une voie accessoire",
+        "Tachycardie sur fibre de Mahaim",
+        "TJ antidromique utilisant une voie accessoire",
+        "Tachycardie de Coumel"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CARDIOPATHIE_ISCHÉMIQUE_CHRONIQUE": {
+      "concept_name": "Cardiopathie ischémique chronique",
+      "synonymes": [
+        "Séquelle d'infarctus"
+      ],
+      "implications": [
+        "Anévrysme ventriculaire",
+        "Séquelle de nécrose"
+      ],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PR_NORMAL": {
+      "concept_name": "PR normal",
+      "synonymes": [
+        "PR < 200 ms",
+        "PR entre 120 et 200 ms"
+      ],
+      "implications": [
+        "Absence d'allongement de l'intervalle PR"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERTROPHIE_ATRIALE_DROITE": {
+      "concept_name": "Hypertrophie atriale droite",
+      "synonymes": [
+        "HAD"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "LOCALISATION_IDM": {
+      "concept_name": "Localisation IDM",
+      "synonymes": [],
+      "implications": [
+        "Circonférentiel",
+        "Latéral",
+        "Apicale",
+        "Antérieur",
+        "Inférieur",
+        "Postérieur",
+        "Septal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_DELTA": {
+      "concept_name": "Onde delta",
+      "synonymes": [
+        "Preexitation ventriculaire"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BIGEMINISME_VENTRICULAIRE": {
+      "concept_name": "Bigeminisme ventriculaire",
+      "synonymes": [
+        "Bigéminisme",
+        "Bigéminisme ventriculaire"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "RYTHME_RÉGULIER": {
+      "concept_name": "rythme régulier",
+      "synonymes": [
+        "régulier"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SALVE_ESA": {
+      "concept_name": "Salve ESA",
+      "synonymes": [
+        "Salve d'extrasystoles"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ONDE_P_AMPLE": {
+      "concept_name": "Onde P ample",
+      "synonymes": [
+        "Grande onde P",
+        "Onde P > 2.5 mm"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PARALYSIE_SINUSALE": {
+      "concept_name": "Paralysie sinusale",
+      "synonymes": [],
+      "implications": [
+        "Absence d'onde P"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ONDE_P_ANORMALE": {
+      "concept_name": "Onde P anormale",
+      "synonymes": [
+        "onde P pas normale"
+      ],
+      "implications": [
+        "Morphologie de l'onde P non sinusale",
+        "Onde P prolongée",
+        "Onde P ample"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PAUSE": {
+      "concept_name": "Pause",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "INFARCTUS_DU_MYOCARDE_À_LA_PHASE_AIGUE": {
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "synonymes": [
+        "Acute MI",
+        "IDM",
+        "Infarctus du myocarde",
+        "SCA",
+        "Syndrome coronarien aigu"
+      ],
+      "implications": [
+        "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+        "Syndrome coronarien à la phase aigue sans élévation du segment ST"
+      ],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "STIMULATION_DANS_L'ONDE_T": {
+      "concept_name": "Stimulation dans l'onde T",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "DII": {
+      "concept_name": "DII",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "COUPLET": {
+      "concept_name": "Couplet",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_P_NORMALE": {
+      "concept_name": "Onde P normale",
+      "synonymes": [],
+      "implications": [
+        "Morphologie onde P sinusale",
+        "Voltage de l'onde P < 2.5 mm",
+        "Durée onde P < 120 ms"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PRESENCE_D'ONDE_Q_PATHOLOGIQUE": {
+      "concept_name": "Presence d'onde Q pathologique",
+      "synonymes": [
+        "Aspect QS",
+        "Onde Q de nécrose",
+        "Trou électrique"
+      ],
+      "implications": [
+        "Rabotage de l'onde R"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_JONCTIONNELLE_ECTOPIQUE": {
+      "concept_name": "Tachycardie jonctionnelle ectopique",
+      "synonymes": [
+        "JET"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PERTE_DE_CAPTURE_VENTRICULAIRE": {
+      "concept_name": "Perte de capture ventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "QRS_NORMAL": {
+      "concept_name": "QRS normal",
+      "synonymes": [],
+      "implications": [
+        "Absence d'onde Q pathologique",
+        "QRS fins"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "V3": {
+      "concept_name": "V3",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERTROPHIE_VENTRICULAIRE_DROITE": {
+      "concept_name": "Hypertrophie ventriculaire droite",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ECHAPPEMENT": {
+      "concept_name": "Echappement",
+      "synonymes": [
+        "rythme d'échappement"
+      ],
+      "implications": [
+        "Rythme d'échappement jonctionnel",
+        "Echappement ventriculaire"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "INDICE_DE_SOKOLOW_>_35_MM": {
+      "concept_name": "Indice de sokolow > 35 mm",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "\"WANDERING_PACEMAKER\"": {
+      "concept_name": "\"Wandering pacemaker\"",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CHAMBRE_DE_CHASSE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Chambre de chasse du ventricule gauche",
+      "synonymes": [
+        "CCVG",
+        "LVOT"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "APEX": {
+      "concept_name": "Apex",
+      "synonymes": [
+        "apical"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TRIGÉMINISME_ATRIALE": {
+      "concept_name": "Trigéminisme atriale",
+      "synonymes": [
+        "ESA trigéminée"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "DISSOCIATION_ATRIO_VENTRICULAIRE": {
+      "concept_name": "Dissociation atrio-ventriculaire",
+      "synonymes": [
+        "Pas de conduction entre les oreillettes et les ventricules",
+        "absence de conduction atrio-ventriculaire"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BLOC_BIFASCICULAIRE": {
+      "concept_name": "Bloc bifasciculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "POSTÉRIEUR_GAUCHE": {
+      "concept_name": "Postérieur gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉRIVATIONS_PRÉCORDIALES": {
+      "concept_name": "Dérivations précordiales",
+      "synonymes": [],
+      "implications": [
+        "V3R",
+        "V2",
+        "V6",
+        "V2R",
+        "V8",
+        "V3",
+        "V5",
+        "V4",
+        "V7",
+        "V1",
+        "V9"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PHENOMENE_R/T": {
+      "concept_name": "Phenomene R/T",
+      "synonymes": [
+        "R/T"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_FASCICULAIRE_POSTÉRIEUR_GAUCHE": {
+      "concept_name": "Bloc fasciculaire postérieur gauche",
+      "synonymes": [
+        "HBPG",
+        "Hémibloc postérieur gauche",
+        "LPFB"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_BIDIRECTIONNELLE": {
+      "concept_name": "Tachycardie ventriculaire bidirectionnelle",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ANÉVRYSME_VENTRICULAIRE": {
+      "concept_name": "Anévrysme ventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "DYSPLASIE_ARRHYTHMOGÈNE_DU_VENTRICULE_DROIT": {
+      "concept_name": "Dysplasie arrhythmogène du ventricule droit",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ASPECT_DE_BRUGADA_DE_TYPE_1": {
+      "concept_name": "Aspect de Brugada de type 1",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE_FAST_SLOW": {
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+      "synonymes": [
+        "Fast-slow AVNRT",
+        "RIN fast-slow"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "V5": {
+      "concept_name": "V5",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DURÉE_ONDE_P_<_120_MS": {
+      "concept_name": "Durée onde P < 120 ms",
+      "synonymes": [
+        "Onde P < 120 ms",
+        "P < 120 ms"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TORSADE_DE_POINTES": {
+      "concept_name": "Torsade de pointes",
+      "synonymes": [],
+      "implications": [
+        "Tachycardie ventriculaire polymorphe"
+      ],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "LOCALISATION_ESV": {
+      "concept_name": "localisation ESV",
+      "synonymes": [],
+      "implications": [
+        "Septum interventriculaire",
+        "ESV épicardique",
+        "Ventricule gauche",
+        "Ventricule droit",
+        "Chambre de chasse",
+        "Apex"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERKALIÉMIE": {
+      "concept_name": "Hyperkaliémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ISCHÉMIE_SOUS_ÉPICARDIQUE": {
+      "concept_name": "Ischémie sous-épicardique",
+      "synonymes": [
+        "$ T-waves inversion",
+        "Inversion des ondes T $"
+      ],
+      "implications": [
+        "Onde T négative"
+      ],
+      "territoires_possibles": [
+        "Localisation IDM"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_CICATRICIELLE": {
+      "concept_name": "Tachycardie ventriculaire cicatricielle",
+      "synonymes": [
+        "Scar-related VT",
+        "TV cicatricielle"
+      ],
+      "implications": [],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ANTÉRO_LATÉRAL_DROIT": {
+      "concept_name": "Antéro-latéral droit",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ST_RAIDE": {
+      "concept_name": "ST raide",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MUSCLE_PAPILLAIRE": {
+      "concept_name": "Muscle papillaire",
+      "synonymes": [
+        "Mitral pillar",
+        "Pillier mitral"
+      ],
+      "implications": [
+        "Muscle papillaire antéro-latéral",
+        "Muscle papillaire postero-medial"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "STIMULATION_EN_FENÊTRE_DE_SÉCURITÉ": {
+      "concept_name": "Stimulation en fenêtre de sécurité",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "CARDIOMYOPATHIE_HYPERTROPHIQUE_APICALE": {
+      "concept_name": "Cardiomyopathie hypertrophique apicale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "ONDE_U_NORMALE": {
+      "concept_name": "Onde U normale",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BANDELETTE_MODÉRATRICE": {
+      "concept_name": "Bandelette modératrice",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AXE_NORMAL_DU_QRS": {
+      "concept_name": "Axe normal du QRS",
+      "synonymes": [
+        "Axe entre -30 et 90 degré",
+        "Axe physiologique du QRS",
+        "QRS normoaxé",
+        "axe normal"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERTROPHIE_VENTRICULAIRE_GAUCHE": {
+      "concept_name": "Hypertrophie ventriculaire gauche",
+      "synonymes": [
+        "HVG"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "FIBRILLATION_VENTRICULAIRE": {
+      "concept_name": "Fibrillation ventriculaire",
+      "synonymes": [
+        "FV",
+        "VF"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "TOIT_D'USINE": {
+      "concept_name": "Toit d'usine",
+      "synonymes": [
+        "Dent de scie"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PAROI_INFÉRIEURE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Paroi inférieure du ventricule gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ABSENCE_D'ISCHÉMIE": {
+      "concept_name": "Absence d'ischémie",
+      "synonymes": [],
+      "implications": [
+        "Pas d'anomalie de le repolarisation"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "STIMULATION_VD": {
+      "concept_name": "Stimulation VD",
+      "synonymes": [
+        "Stimulation ventriculaire droite"
+      ],
+      "implications": [
+        "Pacemaker",
+        "Aspect de retard gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ORGANISÉE": {
+      "concept_name": "Organisée",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "STIMULATION_INAPPROPRIÉE": {
+      "concept_name": "Stimulation inappropriée",
+      "synonymes": [],
+      "implications": [
+        "Stimulation dans l'onde T"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "EXTRASYSTOLE_ATRIALE_BIGÉMINÉE": {
+      "concept_name": "Extrasystole atriale bigéminée",
+      "synonymes": [
+        "ESA bigéminée"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "RÉPONSE_VENTRICULAIRE_LENTE": {
+      "concept_name": "Réponse ventriculaire lente",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "QRS_FINS": {
+      "concept_name": "QRS fins",
+      "synonymes": [
+        "QRS < 120 ms"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE": {
+      "concept_name": "Tachycardie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PAROI_LATÉRALE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Paroi latérale du ventricule gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "QT_LONG": {
+      "concept_name": "QT long",
+      "synonymes": [
+        "LQT",
+        "QT allongé"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "V4": {
+      "concept_name": "V4",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "LATÉRAL_DROIT": {
+      "concept_name": "Latéral droit",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "LATÉRAL_GAUCHE": {
+      "concept_name": "Latéral gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_DE_BRANCHE_DROIT": {
+      "concept_name": "Bloc de branche droit",
+      "synonymes": [
+        "BBD",
+        "RBBB"
+      ],
+      "implications": [
+        "Aspect de retard droit",
+        "BBD incomplet",
+        "Bloc de branche droit complet"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "RÉSEAU_DE_PURKINJE": {
+      "concept_name": "Réseau de purkinje",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BAV_2_MOBITZ_2": {
+      "concept_name": "BAV 2 Mobitz 2",
+      "synonymes": [
+        "BAV 2 M 2",
+        "BAV 2 type 2",
+        "BAV2M2",
+        "Bloc auriculo-ventriculaire du 2ème degré type 2",
+        "Mobitz II"
+      ],
+      "implications": [
+        "Une onde P bloquée",
+        "Absence d'allongement de l'intervalle PR"
+      ],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "FILTRE_PASSE_BANDE_INADAPTÉ": {
+      "concept_name": "Filtre passe-bande inadapté",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FREQUENCE_NORMALE": {
+      "concept_name": "Frequence normale",
+      "synonymes": [
+        "Normocarde"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V1_HAUT": {
+      "concept_name": "V1 haut",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BAV_COMPLET": {
+      "concept_name": "BAV complet",
+      "synonymes": [
+        "BAV III",
+        "BAV de troisieme degré",
+        "BAV de type 3",
+        "BAV3",
+        "Bloc auriculo-ventriculaire complet",
+        "Complete AV block"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "BLOC_INTRAVENTRICULAIRE_ASPÉCIFIQUE": {
+      "concept_name": "Bloc intraventriculaire aspécifique",
+      "synonymes": [
+        "Elargissement du QRS",
+        "NICD",
+        "QRS enlargement"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "V7": {
+      "concept_name": "V7",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BAV_DE_HAUT_GRADE": {
+      "concept_name": "BAV de haut grade",
+      "synonymes": [
+        "BAV de haut degré",
+        "BAV haut degré"
+      ],
+      "implications": [
+        "BAV 2 pour 1"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TAMPONNADE": {
+      "concept_name": "Tamponnade",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "2/1": {
+      "concept_name": "2/1",
+      "synonymes": [
+        "2 pour 1",
+        "conduction en 2 pour 1"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "3/1": {
+      "concept_name": "3/1",
+      "synonymes": [
+        "3 pour 1",
+        "conduction en 3 pour 1"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PORTION_MÉDIALE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Portion médiale du ventricule gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DIII": {
+      "concept_name": "DIII",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLES_DE_CONDUCTION_ET_DE_L'AUTOMATICITÉ": {
+      "concept_name": "Troubles de conduction et de l'automaticité",
+      "synonymes": [
+        "trouble de la conduction"
+      ],
+      "implications": [
+        "Dysfonction sinusale",
+        "Préexcitation ventriculaire par fibre de Mahaïm",
+        "Asystolie",
+        "Insuffisance chronotrope",
+        "Bloc auriculo-ventriculaire",
+        "Syndrome de Lown, Ganong, et Levine",
+        "Trouble de conduction intraventriculaire",
+        "Réponse ventriculaire lente"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_FASCICULAIRE": {
+      "concept_name": "Bloc fasciculaire",
+      "synonymes": [],
+      "implications": [
+        "Bloc fasciculaire postérieur gauche",
+        "Bloc fasciculaire antérieur gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MID_SEPTAL": {
+      "concept_name": "Mid-septal",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "V1": {
+      "concept_name": "V1",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERCALCÉMIE": {
+      "concept_name": "Hypercalcémie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "QRS_FRAGMENTÉ": {
+      "concept_name": "QRS fragmenté",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "STIMULATION_VG": {
+      "concept_name": "Stimulation VG",
+      "synonymes": [
+        "Stimulation ventriculaire gauche"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "RYTHME_ATRIAL_ECTOPIQUE": {
+      "concept_name": "Rythme atrial ectopique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ONDE_J_D'OSBORN": {
+      "concept_name": "Onde J d'Osborn",
+      "synonymes": [],
+      "implications": [
+        "Sus-décalage de l'onde J"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "BAV_2_POUR_1": {
+      "concept_name": "BAV 2 pour 1",
+      "synonymes": [
+        "BAV 2:1"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_CATHÉCHOLAMINERGIQUE": {
+      "concept_name": "Tachycardie ventriculaire cathécholaminergique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "BRANCHE_DROITE": {
+      "concept_name": "Branche droite",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MUSCLE_PAPILLAIRE_ANTÉRO_LATÉRAL": {
+      "concept_name": "Muscle papillaire antéro-latéral",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_SUPRA_VENTRICULAIRE": {
+      "concept_name": "Tachycardie supra-ventriculaire",
+      "synonymes": [
+        "SVT",
+        "TSV"
+      ],
+      "implications": [
+        "Fibrillation atriale",
+        "Tachycardie atriale",
+        "Tachycardie sinusale",
+        "Tachycardie jonctionelle",
+        "Rythme atrial ectopique"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "WOLF_MALIN": {
+      "concept_name": "Wolf malin",
+      "synonymes": [
+        "Faisceau accessoire à conduction antérograde maligne",
+        "Periode refractaire antérograde < 250 ms",
+        "Super-wolf"
+      ],
+      "implications": [
+        "Faisceau accessoire à conduction antérograde",
+        "QRS large",
+        "Onde delta"
+      ],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "STIMULATION_BIVENTRICULAIRE": {
+      "concept_name": "Stimulation biventriculaire",
+      "synonymes": [
+        "BiV pacing",
+        "Biventricular resynchronisation",
+        "Pacing BiV",
+        "Resynchronisation biventriculaire",
+        "Resynchronisation cardiaque",
+        "Stimulation ventriculaire gauche cardiaque"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TRIPLET_VENTRICULAIRE": {
+      "concept_name": "Triplet ventriculaire",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "BRANCHE_GAUCHE": {
+      "concept_name": "Branche gauche",
+      "synonymes": [],
+      "implications": [
+        "hémi-branche antérieure droite",
+        "hémi-branche antérieure gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MUSCLE_PAPILLAIRE_POSTERO_MEDIAL": {
+      "concept_name": "Muscle papillaire postero-medial",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ARYTHMIE_JONCTIONELLE": {
+      "concept_name": "Arythmie jonctionelle",
+      "synonymes": [],
+      "implications": [
+        "Rythme jonctionelle accéléré"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CARDIOVERSION_ÉLECTRIQUE": {
+      "concept_name": "Cardioversion électrique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "RYTHME_JONCTIONELLE_ACCÉLÉRÉ": {
+      "concept_name": "Rythme jonctionelle accéléré",
+      "synonymes": [
+        "RIJA"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PERICARDITE": {
+      "concept_name": "Pericardite",
+      "synonymes": [],
+      "implications": [
+        "Tamponnade"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_VENTRICULAIRE_FASCICULAIRE": {
+      "concept_name": "Tachycardie ventriculaire fasciculaire",
+      "synonymes": [
+        "TV de Belhassen"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "TACHYCARDIE_VENTRICULAIRE": {
+      "concept_name": "Tachycardie ventriculaire",
+      "synonymes": [
+        "TV",
+        "VT"
+      ],
+      "implications": [
+        "QRS large",
+        "Tachycardie",
+        "Tachycardie ventriculaire polymorphe",
+        "Tachycardie par réentrée de branche à branche",
+        "Tachycardie ventriculaire infundibulaire",
+        "Tachycardie ventriculaire bidirectionnelle",
+        "Tachycardie ventriculaire cicatricielle",
+        "Tachycardie ventriculaire fasciculaire"
+      ],
+      "territoires_possibles": [
+        "localisation ESV"
+      ],
+      "poids": 4,
+      "categorie": "DIAGNOSTIC_URGENT"
+    },
+    "ARTEFACTE": {
+      "concept_name": "Artefacte",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ONDE_T": {
+      "concept_name": "Onde T",
+      "synonymes": [],
+      "implications": [
+        "Anomalie des ondes T",
+        "Onde T normales"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_FASCICULAIRE_ANTÉRIEUR_GAUCHE": {
+      "concept_name": "Bloc fasciculaire antérieur gauche",
+      "synonymes": [
+        "HBAG",
+        "Hémibloc antérieur gauche",
+        "LAFB"
+      ],
+      "implications": [
+        "Déviation axiale gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "INFÉRIEUR_DROIT": {
+      "concept_name": "Inférieur droit",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MODE_DE_CONDUCTION_AV": {
+      "concept_name": "Mode de conduction AV",
+      "synonymes": [],
+      "implications": [
+        "1/1",
+        "4/1",
+        "2/1",
+        "3/1",
+        "conduction variable"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_DE_COUMEL": {
+      "concept_name": "Tachycardie de Coumel",
+      "synonymes": [
+        "PJRT"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CHAMBRE_DE_CHASSE_DU_VENTRICULE_DROIT": {
+      "concept_name": "Chambre de chasse du ventricule droit",
+      "synonymes": [
+        "CCVD",
+        "RVOT"
+      ],
+      "implications": [
+        "Aspect de retard gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "STIMULATION_ATRIALE": {
+      "concept_name": "Stimulation atriale",
+      "synonymes": [
+        "Electroentrainement atrial",
+        "Rythme atrial électroentrainé"
+      ],
+      "implications": [
+        "Perte de capture atriale"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SYNDROME_DE_REPOLARISATION_PRÉCOCE": {
+      "concept_name": "Syndrome de repolarisation précoce",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "IMPRÉGNATION_DIGITALIQUE": {
+      "concept_name": "Imprégnation digitalique",
+      "synonymes": [],
+      "implications": [
+        "Cupule digitalique"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "PAROI_ANTÉRIEURE_DU_VENTRICULE_GAUCHE": {
+      "concept_name": "Paroi antérieure du ventricule gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SÉQUELLE_DE_NÉCROSE": {
+      "concept_name": "Séquelle de nécrose",
+      "synonymes": [],
+      "implications": [
+        "Presence d'onde Q pathologique"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "CARDIOMYOPATHIE_HYPERTROPHIQUE": {
+      "concept_name": "Cardiomyopathie hypertrophique",
+      "synonymes": [
+        "CMH",
+        "HCM"
+      ],
+      "implications": [
+        "Cardiomyopathie hypertrophique apicale"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "STIMULATION_ANTITACHYCARDIQUE": {
+      "concept_name": "Stimulation antitachycardique",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "V9": {
+      "concept_name": "V9",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "POSTÉRO_SEPTAL_DROIT": {
+      "concept_name": "Postéro-septal droit",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SOUS_PQ": {
+      "concept_name": "sous-PQ",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PRESENCE_DE_QRS": {
+      "concept_name": "Presence de QRS",
+      "synonymes": [],
+      "implications": [
+        "Morphologie du QRS",
+        "QRS normal",
+        "Voltage du QRS",
+        "Axe du QRS",
+        "Duree du QRS"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ANOMALIES_DU_SEGMENT_ST": {
+      "concept_name": "Anomalies du segment ST",
+      "synonymes": [
+        "Segment ST anormal"
+      ],
+      "implications": [
+        "Critères de Sgarbossa",
+        "Courant de lésion sous-endocardique",
+        "Courant de lésion sous-épicardique",
+        "ST raide"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HYPERTROPHIE_VENTRICULAIRE": {
+      "concept_name": "Hypertrophie ventriculaire",
+      "synonymes": [],
+      "implications": [
+        "Hypertrophie ventriculaire droite",
+        "Hypertrophie ventriculaire gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ESA_MONOMORPHES_MULTIPLES": {
+      "concept_name": "ESA monomorphes multiples",
+      "synonymes": [],
+      "implications": [
+        "Salve ESA",
+        "Trigéminisme atriale",
+        "Extrasystole atriale bigéminée"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "MORPHOLOGIE_DU_QRS": {
+      "concept_name": "Morphologie du QRS",
+      "synonymes": [],
+      "implications": [
+        "Morphologie anormale du QRS",
+        "Morphologie du QRS normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "CONDUCTION": {
+      "concept_name": "Conduction",
+      "synonymes": [],
+      "implications": [
+        "Une onde P bloquée",
+        "Pause",
+        "Dissociation atrio-ventriculaire",
+        "Mode de conduction AV"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_T_AMPLE": {
+      "concept_name": "Onde T ample",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MORPHOLOGIE_ANORMALE_DU_QRS": {
+      "concept_name": "Morphologie anormale du QRS",
+      "synonymes": [],
+      "implications": [
+        "Perte des onde Q septales",
+        "Onde epsilon",
+        "Aspect de retard gauche",
+        "Aspect de retard droit",
+        "Onde delta",
+        "Presence d'onde Q pathologique",
+        "alternance des QRS",
+        "QRS fragmenté"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "IRRÉGULIER": {
+      "concept_name": "Irrégulier",
+      "synonymes": [
+        "rythme irrégulier"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FLUTTER_DROIT_TYPIQUE": {
+      "concept_name": "Flutter droit typique",
+      "synonymes": [
+        "Flutter atrial commun",
+        "Flutter atrial dépendant de l'ICT",
+        "Flutter commun",
+        "Flutter droit commun",
+        "Flutter isthmique",
+        "Flutter typique"
+      ],
+      "implications": [
+        "Flutter atrial antihoraire",
+        "Flutter atrial horaire"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "QUALIFICATEUR_EPISODE": {
+      "concept_name": "Qualificateur episode",
+      "synonymes": [],
+      "implications": [
+        "soutenu",
+        "Non soutenu",
+        "unique"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLE_DE_CONDUCTION_INTRA_ATRIAL": {
+      "concept_name": "Trouble de conduction intra-atrial",
+      "synonymes": [],
+      "implications": [
+        "Bloc interatrial",
+        "Hypertrophie atriale gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "QRS": {
+      "concept_name": "QRS",
+      "synonymes": [],
+      "implications": [
+        "Presence de QRS",
+        "Absence de QRS"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SEGMENT_PQ": {
+      "concept_name": "Segment PQ",
+      "synonymes": [],
+      "implications": [
+        "sous-PQ",
+        "Sus PQ"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BAV_DE_TYPE_2": {
+      "concept_name": "BAV de type 2",
+      "synonymes": [
+        "BAV 2",
+        "BAV2"
+      ],
+      "implications": [
+        "BAV 2 Mobitz 1",
+        "BAV 2 Mobitz 2"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BRADYCARDIE": {
+      "concept_name": "Bradycardie",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_SINUSALE": {
+      "concept_name": "Tachycardie sinusale",
+      "synonymes": [],
+      "implications": [
+        "Rythme sinusal",
+        "Tachycardie"
+      ],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ALLONGEMENT_PROGRESSIF_DE_L'INTERVALLE_PR": {
+      "concept_name": "Allongement progressif de l'intervalle PR",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BAV_DE_TYPE_1": {
+      "concept_name": "BAV de type 1",
+      "synonymes": [
+        "BAV 1",
+        "BAV I",
+        "BAV1",
+        "Bloc AV du premier degré",
+        "Bloc auriculo-ventriculaire du 1er degré"
+      ],
+      "implications": [
+        "PR allongé"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "BLOC_AURICULO_VENTRICULAIRE": {
+      "concept_name": "Bloc auriculo-ventriculaire",
+      "synonymes": [
+        "Atrio-ventricular block",
+        "BAV"
+      ],
+      "implications": [
+        "BAV de type 2",
+        "BAV de type 1",
+        "BAV complet",
+        "BAV de haut grade"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FLUTTER_ATRIAL_ANTIHORAIRE": {
+      "concept_name": "Flutter atrial antihoraire",
+      "synonymes": [
+        "CCW common flutter",
+        "Flutter atrial anti-horaire",
+        "Flutter commun antihoraire"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "PR_ALLONGÉ": {
+      "concept_name": "PR allongé",
+      "synonymes": [
+        "PR > 200 ms",
+        "PR prolongé"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ABSENCE_DE_QRS": {
+      "concept_name": "Absence de QRS",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ASPECT_DE_RETARD_GAUCHE": {
+      "concept_name": "Aspect de retard gauche",
+      "synonymes": [
+        "Aspect de bloc de branche gauche",
+        "Retard gauche",
+        "retard G"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "SUS_PQ": {
+      "concept_name": "Sus PQ",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "LOCALISATION_FAISCEAU_ACCESSOIRE": {
+      "concept_name": "Localisation faisceau accessoire",
+      "synonymes": [
+        "Accessory pathway localization"
+      ],
+      "implications": [
+        "Postéro-septal gauche",
+        "Antéro-septal",
+        "Anterieur gauche",
+        "Postérieur gauche",
+        "Antéro-latéral droit",
+        "Latéral droit",
+        "Latéral gauche",
+        "Mid-septal",
+        "Inférieur droit",
+        "Postéro-septal droit"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PR_ANORMAL": {
+      "concept_name": "PR anormal",
+      "synonymes": [],
+      "implications": [
+        "Allongement progressif de l'intervalle PR",
+        "PR allongé"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ASPECT_DE_RETARD_DROIT": {
+      "concept_name": "Aspect de retard droit",
+      "synonymes": [
+        "aspect de bloc de branche droit",
+        "retard D",
+        "retard droit"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TROUBLE_DE_CONDUCTION_INTRAVENTRICULAIRE": {
+      "concept_name": "Trouble de conduction intraventriculaire",
+      "synonymes": [],
+      "implications": [
+        "Bloc de branche",
+        "Aberration ventriculaire",
+        "Bloc bifasciculaire",
+        "Bloc intraventriculaire aspécifique",
+        "Bloc fasciculaire"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FLUTTER_ATRIAL_HORAIRE": {
+      "concept_name": "Flutter atrial horaire",
+      "synonymes": [
+        "CW common flutter",
+        "Flutter commun horaire"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "ONDE_J": {
+      "concept_name": "Onde J",
+      "synonymes": [],
+      "implications": [
+        "Sus-décalage de l'onde J",
+        "Aspect en selle de cheval"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "MORPHOLOGIE_DU_QRS_NORMALE": {
+      "concept_name": "Morphologie du QRS normale",
+      "synonymes": [],
+      "implications": [
+        "Absence d'onde Q pathologique",
+        "Axe normal du QRS",
+        "Repolarisation précoce"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉVIATION_AXIALE": {
+      "concept_name": "Déviation axiale",
+      "synonymes": [],
+      "implications": [
+        "Déviation axiale droite",
+        "Déviation axiale gauche"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ST_NORMAL": {
+      "concept_name": "ST normal",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "VOLTAGE_DU_QRS": {
+      "concept_name": "Voltage du QRS",
+      "synonymes": [],
+      "implications": [
+        "Microvoltage",
+        "Voltage du QRS normal",
+        "Voltage du QRS anormal"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "AXE_DU_QRS": {
+      "concept_name": "Axe du QRS",
+      "synonymes": [],
+      "implications": [
+        "Déviation axiale",
+        "Axe normal du QRS"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "REPOS_COMPENSATEUR": {
+      "concept_name": "Repos compensateur",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "PREMATURÉ": {
+      "concept_name": "Prematuré",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉVIATION_AXIALE_DROITE": {
+      "concept_name": "Déviation axiale droite",
+      "synonymes": [
+        "axe droit"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ONDE_P_PRÉSENTE": {
+      "concept_name": "Onde P présente",
+      "synonymes": [],
+      "implications": [
+        "Onde P anormale",
+        "Onde P normale"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ALTERNANCE_DES_QRS": {
+      "concept_name": "alternance des QRS",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉRIVATIONS_SPÉCIFIQUES": {
+      "concept_name": "Dérivations spécifiques",
+      "synonymes": [],
+      "implications": [
+        "V2 haut",
+        "Lewis lead",
+        "V1 haut"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "QT_NORMAL": {
+      "concept_name": "QT normal",
+      "synonymes": [
+        "QT non allongé",
+        "QT pas allongé"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DUREE_DU_QRS": {
+      "concept_name": "Duree du QRS",
+      "synonymes": [],
+      "implications": [
+        "QRS large",
+        "QRS fins"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HÉMI_BRANCHE_ANTÉRIEURE_DROITE": {
+      "concept_name": "hémi-branche antérieure droite",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "ABSENCE_D'ALLONGEMENT_DE_L'INTERVALLE_PR": {
+      "concept_name": "Absence d'allongement de l'intervalle PR",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "HÉMI_BRANCHE_ANTÉRIEURE_GAUCHE": {
+      "concept_name": "hémi-branche antérieure gauche",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "DÉVIATION_AXIALE_GAUCHE": {
+      "concept_name": "Déviation axiale gauche",
+      "synonymes": [
+        "axe gauche"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "FLUTTER_ATRIAL_ATYPIQUE": {
+      "concept_name": "Flutter atrial atypique",
+      "synonymes": [
+        "Flutter atrial non commun",
+        "TA"
+      ],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 2,
+      "categorie": "SIGNE_ECG_PATHOLOGIQUE"
+    },
+    "QUALIFICATION_PATTERN": {
+      "concept_name": "qualification pattern",
+      "synonymes": [
+        "descripteur transversal"
+      ],
+      "implications": [
+        "Qualification d'organisation",
+        "Interpolé",
+        "Isolé",
+        "lent",
+        "Qualificateur episode",
+        "rapide",
+        "Miroir",
+        "Couplet",
+        "Prematuré",
+        "Toit d'usine"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "TACHYCARDIE_JONCTIONNELLE_PAR_RÉENTRÉE_INTRA_NODALE": {
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale",
+      "synonymes": [
+        "AVNRT",
+        "RIN"
+      ],
+      "implications": [
+        "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+        "Tachycardie jonctionnelle par réentrée intra-nodale atypique"
+      ],
+      "territoires_possibles": [],
+      "poids": 3,
+      "categorie": "DIAGNOSTIC_MAJEUR"
+    },
+    "CONDUCTION_VARIABLE": {
+      "concept_name": "conduction variable",
+      "synonymes": [],
+      "implications": [],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    },
+    "VOLTAGE_DU_QRS_ANORMAL": {
+      "concept_name": "Voltage du QRS anormal",
+      "synonymes": [],
+      "implications": [
+        "Indice de sokolow > 35 mm"
+      ],
+      "territoires_possibles": [],
+      "poids": 1,
+      "categorie": "DESCRIPTEUR_ECG"
+    }
+  },
+  "scoring_rules": {
+    "bonus_diagnostic_principal": 0.15,
+    "formule": "(Σ poids validés) / (Σ poids attendus) × 100 + bonus"
+  },
+  "metadata": {
+    "source": "WebProtégé OWL Ontology",
+    "extraction_date": "2026-01-10",
+    "total_concepts": 348,
+    "total_territoires": 17
+  }
+}

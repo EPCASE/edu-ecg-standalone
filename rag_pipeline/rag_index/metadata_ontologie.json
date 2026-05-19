@@ -1,0 +1,5304 @@
+{
+  "documents": [
+    {
+      "ontology_id": "WANDERING_PACEMAKER",
+      "surface_form": "\"Wandering pacemaker\"",
+      "source_type": "canonical",
+      "concept_name": "\"Wandering pacemaker\"",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "1_1",
+      "surface_form": "1/1",
+      "source_type": "canonical",
+      "concept_name": "1/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "1_1",
+      "surface_form": "1 pour 1",
+      "source_type": "synonym",
+      "concept_name": "1/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "1_1",
+      "surface_form": "conduction en 1 pour 1",
+      "source_type": "synonym",
+      "concept_name": "1/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "2_1",
+      "surface_form": "2/1",
+      "source_type": "canonical",
+      "concept_name": "2/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "2_1",
+      "surface_form": "2 pour 1",
+      "source_type": "synonym",
+      "concept_name": "2/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "2_1",
+      "surface_form": "conduction en 2 pour 1",
+      "source_type": "synonym",
+      "concept_name": "2/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "3_1",
+      "surface_form": "3/1",
+      "source_type": "canonical",
+      "concept_name": "3/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "3_1",
+      "surface_form": "3 pour 1",
+      "source_type": "synonym",
+      "concept_name": "3/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "3_1",
+      "surface_form": "conduction en 3 pour 1",
+      "source_type": "synonym",
+      "concept_name": "3/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "4_1",
+      "surface_form": "4/1",
+      "source_type": "canonical",
+      "concept_name": "4/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "4_1",
+      "surface_form": "4 pour 1",
+      "source_type": "synonym",
+      "concept_name": "4/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "4_1",
+      "surface_form": "conduction en 4 pour 1",
+      "source_type": "synonym",
+      "concept_name": "4/1",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABERRATION_VENTRICULAIRE",
+      "surface_form": "Aberration ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Aberration ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ABSENCE_D_ALLONGEMENT_DE_L_INTERVALLE_PR",
+      "surface_form": "Absence d'allongement de l'intervalle PR",
+      "source_type": "canonical",
+      "concept_name": "Absence d'allongement de l'intervalle PR",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ISCHEMIE",
+      "surface_form": "Absence d'ischémie",
+      "source_type": "canonical",
+      "concept_name": "Absence d'ischémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_P",
+      "surface_form": "Absence d'onde P",
+      "source_type": "canonical",
+      "concept_name": "Absence d'onde P",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_P",
+      "surface_form": "Onde P absente",
+      "source_type": "synonym",
+      "concept_name": "Absence d'onde P",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Absence d'onde Q pathologique",
+      "source_type": "canonical",
+      "concept_name": "Absence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Onde Q physiologique",
+      "source_type": "synonym",
+      "concept_name": "Absence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Pas d'onde Q",
+      "source_type": "synonym",
+      "concept_name": "Absence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "transition précordiale normale",
+      "source_type": "synonym",
+      "concept_name": "Absence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "transition précordiale physiologique",
+      "source_type": "synonym",
+      "concept_name": "Absence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ABSENCE_DE_QRS",
+      "surface_form": "Absence de QRS",
+      "source_type": "canonical",
+      "concept_name": "Absence de QRS",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ALLONGEMENT_PROGRESSIF_DE_L_INTERVALLE_PR",
+      "surface_form": "Allongement progressif de l'intervalle PR",
+      "source_type": "canonical",
+      "concept_name": "Allongement progressif de l'intervalle PR",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ALTERNANCE_DES_ONDES_T",
+      "surface_form": "Alternance des ondes T",
+      "source_type": "canonical",
+      "concept_name": "Alternance des ondes T",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "AMYLOSE",
+      "surface_form": "Amylose",
+      "source_type": "canonical",
+      "concept_name": "Amylose",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "AMYLOSE",
+      "surface_form": "Cardiopathie amyloide",
+      "source_type": "synonym",
+      "concept_name": "Amylose",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ANOMALIE_DE_DUREE_DU_QT",
+      "surface_form": "Anomalie de durée du QT",
+      "source_type": "canonical",
+      "concept_name": "Anomalie de durée du QT",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIE_DES_ONDES_T",
+      "surface_form": "Anomalie des ondes T",
+      "source_type": "canonical",
+      "concept_name": "Anomalie des ondes T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIE_DES_ONDES_T",
+      "surface_form": "$ T-wave anomaly",
+      "source_type": "synonym",
+      "concept_name": "Anomalie des ondes T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIE_DES_ONDES_T",
+      "surface_form": "Inversion $ des ondes T",
+      "source_type": "synonym",
+      "concept_name": "Anomalie des ondes T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIE_DES_ONDES_T",
+      "surface_form": "Onde T anormale",
+      "source_type": "synonym",
+      "concept_name": "Anomalie des ondes T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIES_DU_SEGMENT_ST",
+      "surface_form": "Anomalies du segment ST",
+      "source_type": "canonical",
+      "concept_name": "Anomalies du segment ST",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANOMALIES_DU_SEGMENT_ST",
+      "surface_form": "Segment ST anormal",
+      "source_type": "synonym",
+      "concept_name": "Anomalies du segment ST",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANTERIEUR_GAUCHE",
+      "surface_form": "Anterieur gauche",
+      "source_type": "canonical",
+      "concept_name": "Anterieur gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANTERIEUR",
+      "surface_form": "Antérieur",
+      "source_type": "canonical",
+      "concept_name": "Antérieur",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANTERO_LATERAL_DROIT",
+      "surface_form": "Antéro-latéral droit",
+      "source_type": "canonical",
+      "concept_name": "Antéro-latéral droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANTERO_SEPTAL",
+      "surface_form": "Antéro-septal",
+      "source_type": "canonical",
+      "concept_name": "Antéro-septal",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ANEVRYSME_VENTRICULAIRE",
+      "surface_form": "Anévrysme ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Anévrysme ventriculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "APEX",
+      "surface_form": "Apex",
+      "source_type": "canonical",
+      "concept_name": "Apex",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "APEX",
+      "surface_form": "apical",
+      "source_type": "synonym",
+      "concept_name": "Apex",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "APICALE",
+      "surface_form": "Apicale",
+      "source_type": "canonical",
+      "concept_name": "Apicale",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ARTEFACTE",
+      "surface_form": "Artefacte",
+      "source_type": "canonical",
+      "concept_name": "Artefacte",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ARYTHMIE",
+      "surface_form": "Arythmie",
+      "source_type": "canonical",
+      "concept_name": "Arythmie",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ARYTHMIE_ATRIALE",
+      "surface_form": "Arythmie atriale",
+      "source_type": "canonical",
+      "concept_name": "Arythmie atriale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ARYTHMIE_ATRIALE",
+      "surface_form": "rythme non sinusal",
+      "source_type": "synonym",
+      "concept_name": "Arythmie atriale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ARYTHMIE_JONCTIONELLE",
+      "surface_form": "Arythmie jonctionelle",
+      "source_type": "canonical",
+      "concept_name": "Arythmie jonctionelle",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ARYTHMIE_SINUSALE",
+      "surface_form": "Arythmie sinusale",
+      "source_type": "canonical",
+      "concept_name": "Arythmie sinusale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ARYTHMIE_SINUSALE",
+      "surface_form": "Arythmie sinusale respiratoire",
+      "source_type": "synonym",
+      "concept_name": "Arythmie sinusale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ARYTHMIE_VENTRICULAIRE",
+      "surface_form": "Arythmie ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Arythmie ventriculaire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_BRUGADA",
+      "surface_form": "Aspect de Brugada",
+      "source_type": "canonical",
+      "concept_name": "Aspect de Brugada",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ASPECT_DE_BRUGADA",
+      "surface_form": "BRS",
+      "source_type": "synonym",
+      "concept_name": "Aspect de Brugada",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_1",
+      "surface_form": "Aspect de Brugada de type 1",
+      "source_type": "canonical",
+      "concept_name": "Aspect de Brugada de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_2",
+      "surface_form": "Aspect de Brugada de type 2",
+      "source_type": "canonical",
+      "concept_name": "Aspect de Brugada de type 2",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ASPECT_DE_BRUGADA_DE_TYPE_3",
+      "surface_form": "Aspect de Brugada de type 3",
+      "source_type": "canonical",
+      "concept_name": "Aspect de Brugada de type 3",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_DROIT",
+      "surface_form": "Aspect de retard droit",
+      "source_type": "canonical",
+      "concept_name": "Aspect de retard droit",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_DROIT",
+      "surface_form": "aspect de bloc de branche droit",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard droit",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_DROIT",
+      "surface_form": "retard D",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard droit",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_DROIT",
+      "surface_form": "retard droit",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard droit",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_GAUCHE",
+      "surface_form": "Aspect de retard gauche",
+      "source_type": "canonical",
+      "concept_name": "Aspect de retard gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_GAUCHE",
+      "surface_form": "Aspect de bloc de branche gauche",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_GAUCHE",
+      "surface_form": "Retard gauche",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_DE_RETARD_GAUCHE",
+      "surface_form": "retard G",
+      "source_type": "synonym",
+      "concept_name": "Aspect de retard gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASPECT_EN_SELLE_DE_CHEVAL",
+      "surface_form": "Aspect en selle de cheval",
+      "source_type": "canonical",
+      "concept_name": "Aspect en selle de cheval",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ASYSTOLIE",
+      "surface_form": "Asystolie",
+      "source_type": "canonical",
+      "concept_name": "Asystolie",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "AXE_DU_QRS",
+      "surface_form": "Axe du QRS",
+      "source_type": "canonical",
+      "concept_name": "Axe du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "Axe normal du QRS",
+      "source_type": "canonical",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "Axe cardiaque normal",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "Axe du coeur normal",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "Axe entre -30 et 90 degré",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "Axe physiologique du QRS",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "QRS normoaxé",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "axe normal",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "AXE_NORMAL_DU_QRS",
+      "surface_form": "axe physiologique",
+      "source_type": "synonym",
+      "concept_name": "Axe normal du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV",
+      "surface_form": "BAV",
+      "source_type": "canonical",
+      "concept_name": "BAV",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV",
+      "surface_form": "BAV 2",
+      "source_type": "synonym",
+      "concept_name": "BAV",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV",
+      "surface_form": "BAV2",
+      "source_type": "synonym",
+      "concept_name": "BAV",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV",
+      "surface_form": "Bloc atrioventriculaire de type 2",
+      "source_type": "synonym",
+      "concept_name": "BAV",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "BAV 2 Mobitz 1",
+      "source_type": "canonical",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "BAV 2 type 1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "BAV2M1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "Bloc atrioventriculaire de du 2ème degré type 1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "Bloc auriculo-ventriculaire du 2ème degré type 1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_1",
+      "surface_form": "Mobitz I",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "BAV 2 Mobitz 2",
+      "source_type": "canonical",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "BAV 2 M 2",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "BAV 2 type 2",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "BAV2M2",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "Bloc auriculo-ventriculaire du 2ème degré type 2",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_MOBITZ_2",
+      "surface_form": "Mobitz II",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 Mobitz 2",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_2_POUR_1",
+      "surface_form": "BAV 2 pour 1",
+      "source_type": "canonical",
+      "concept_name": "BAV 2 pour 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_POUR_1",
+      "surface_form": "BAV 2/1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 pour 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_2_POUR_1",
+      "surface_form": "BAV 2:1",
+      "source_type": "synonym",
+      "concept_name": "BAV 2 pour 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "BAV complet",
+      "source_type": "canonical",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "BAV III",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "BAV de troisieme degré",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "BAV de type 3",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "BAV3",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "Bloc atrioventriculaire de type 3",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "Bloc auriculo-ventriculaire complet",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_COMPLET",
+      "surface_form": "Complete AV block",
+      "source_type": "synonym",
+      "concept_name": "BAV complet",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "BAV_DE_HAUT_GRADE",
+      "surface_form": "BAV de haut grade",
+      "source_type": "canonical",
+      "concept_name": "BAV de haut grade",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_DE_HAUT_GRADE",
+      "surface_form": "BAV de haut degré",
+      "source_type": "synonym",
+      "concept_name": "BAV de haut grade",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_DE_HAUT_GRADE",
+      "surface_form": "BAV haut degré",
+      "source_type": "synonym",
+      "concept_name": "BAV de haut grade",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_DE_HAUT_GRADE",
+      "surface_form": "Bloc atrioventriculaire de haut degré",
+      "source_type": "synonym",
+      "concept_name": "BAV de haut grade",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "BAV de type 1",
+      "source_type": "canonical",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "BAV 1",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "BAV I",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "BAV1",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "Bloc AV du premier degré",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "Bloc atrioventriculaire de type 1",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BAV_DE_TYPE_1",
+      "surface_form": "Bloc auriculo-ventriculaire du 1er degré",
+      "source_type": "synonym",
+      "concept_name": "BAV de type 1",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BBD_INCOMPLET",
+      "surface_form": "BBD incomplet",
+      "source_type": "canonical",
+      "concept_name": "BBD incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBD_INCOMPLET",
+      "surface_form": "BBDi",
+      "source_type": "synonym",
+      "concept_name": "BBD incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBD_INCOMPLET",
+      "surface_form": "Bloc de branche droit incomplet",
+      "source_type": "synonym",
+      "concept_name": "BBD incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBD_INCOMPLET",
+      "surface_form": "iRBBB",
+      "source_type": "synonym",
+      "concept_name": "BBD incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBG_INCOMPLET",
+      "surface_form": "BBG incomplet",
+      "source_type": "canonical",
+      "concept_name": "BBG incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBG_INCOMPLET",
+      "surface_form": "BBGi",
+      "source_type": "synonym",
+      "concept_name": "BBG incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BBG_INCOMPLET",
+      "surface_form": "iLBBB",
+      "source_type": "synonym",
+      "concept_name": "BBG incomplet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BIGEMINISME_VENTRICULAIRE",
+      "surface_form": "Bigeminisme ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Bigeminisme ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BIGEMINISME_VENTRICULAIRE",
+      "surface_form": "Bigéminisme",
+      "source_type": "synonym",
+      "concept_name": "Bigeminisme ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BIGEMINISME_VENTRICULAIRE",
+      "surface_form": "Bigéminisme ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Bigeminisme ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BIGEMINISME_ATRIALE",
+      "surface_form": "Bigéminisme atriale",
+      "source_type": "canonical",
+      "concept_name": "Bigéminisme atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BIGEMINISME_ATRIALE",
+      "surface_form": "ESA bigéminée",
+      "source_type": "synonym",
+      "concept_name": "Bigéminisme atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_AURICULO_VENTRICULAIRE",
+      "surface_form": "Bloc auriculo-ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Bloc auriculo-ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_AURICULO_VENTRICULAIRE",
+      "surface_form": "Atrio-ventricular block",
+      "source_type": "synonym",
+      "concept_name": "Bloc auriculo-ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_AURICULO_VENTRICULAIRE",
+      "surface_form": "BAV",
+      "source_type": "synonym",
+      "concept_name": "Bloc auriculo-ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_AURICULO_VENTRICULAIRE",
+      "surface_form": "Bloc atrioventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Bloc auriculo-ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_BIFASCICULAIRE",
+      "surface_form": "Bloc bifasciculaire",
+      "source_type": "canonical",
+      "concept_name": "Bloc bifasciculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE",
+      "surface_form": "Bloc de branche",
+      "source_type": "canonical",
+      "concept_name": "Bloc de branche",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT",
+      "surface_form": "Bloc de branche droit",
+      "source_type": "canonical",
+      "concept_name": "Bloc de branche droit",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT",
+      "surface_form": "BBD",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche droit",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT",
+      "surface_form": "RBBB",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche droit",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+      "surface_form": "Bloc de branche droit complet",
+      "source_type": "canonical",
+      "concept_name": "Bloc de branche droit complet",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+      "surface_form": "BBD complet",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche droit complet",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+      "surface_form": "BBDc",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche droit complet",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_DROIT_COMPLET",
+      "surface_form": "cRBBB",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche droit complet",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+      "surface_form": "Bloc de branche gauche",
+      "source_type": "canonical",
+      "concept_name": "Bloc de branche gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+      "surface_form": "BBG",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE",
+      "surface_form": "LBBB",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+      "surface_form": "Bloc de branche gauche complet",
+      "source_type": "canonical",
+      "concept_name": "Bloc de branche gauche complet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+      "surface_form": "BBG complet",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche gauche complet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+      "surface_form": "BBGc",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche gauche complet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_DE_BRANCHE_GAUCHE_COMPLET",
+      "surface_form": "cLBBB",
+      "source_type": "synonym",
+      "concept_name": "Bloc de branche gauche complet",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE",
+      "surface_form": "Bloc fasciculaire",
+      "source_type": "canonical",
+      "concept_name": "Bloc fasciculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_ANTERIEUR_GAUCHE",
+      "surface_form": "Bloc fasciculaire antérieur gauche",
+      "source_type": "canonical",
+      "concept_name": "Bloc fasciculaire antérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_ANTERIEUR_GAUCHE",
+      "surface_form": "HBAG",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire antérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_ANTERIEUR_GAUCHE",
+      "surface_form": "Hémibloc antérieur gauche",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire antérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_ANTERIEUR_GAUCHE",
+      "surface_form": "LAFB",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire antérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_POSTERIEUR_GAUCHE",
+      "surface_form": "Bloc fasciculaire postérieur gauche",
+      "source_type": "canonical",
+      "concept_name": "Bloc fasciculaire postérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_POSTERIEUR_GAUCHE",
+      "surface_form": "HBPG",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire postérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_POSTERIEUR_GAUCHE",
+      "surface_form": "Hémibloc postérieur gauche",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire postérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_FASCICULAIRE_POSTERIEUR_GAUCHE",
+      "surface_form": "LPFB",
+      "source_type": "synonym",
+      "concept_name": "Bloc fasciculaire postérieur gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTERATRIAL",
+      "surface_form": "Bloc interatrial",
+      "source_type": "canonical",
+      "concept_name": "Bloc interatrial",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTERATRIAL",
+      "surface_form": "Bloc inter-auriculaire",
+      "source_type": "synonym",
+      "concept_name": "Bloc interatrial",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTERATRIAL",
+      "surface_form": "Bloc interauriculaire",
+      "source_type": "synonym",
+      "concept_name": "Bloc interatrial",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTERATRIAL",
+      "surface_form": "Onde P biphasique en inférieur",
+      "source_type": "synonym",
+      "concept_name": "Bloc interatrial",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPECIFIQUE",
+      "surface_form": "Bloc intraventriculaire aspécifique",
+      "source_type": "canonical",
+      "concept_name": "Bloc intraventriculaire aspécifique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPECIFIQUE",
+      "surface_form": "Elargissement du QRS",
+      "source_type": "synonym",
+      "concept_name": "Bloc intraventriculaire aspécifique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPECIFIQUE",
+      "surface_form": "NICD",
+      "source_type": "synonym",
+      "concept_name": "Bloc intraventriculaire aspécifique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_INTRAVENTRICULAIRE_ASPECIFIQUE",
+      "surface_form": "QRS enlargement",
+      "source_type": "synonym",
+      "concept_name": "Bloc intraventriculaire aspécifique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "BLOC_SINO_ATRIAL",
+      "surface_form": "Bloc sino-atrial",
+      "source_type": "canonical",
+      "concept_name": "Bloc sino-atrial",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BLOC_SINO_ATRIAL",
+      "surface_form": "BSA",
+      "source_type": "synonym",
+      "concept_name": "Bloc sino-atrial",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "BRADYCARDIE",
+      "surface_form": "Bradycardie",
+      "source_type": "canonical",
+      "concept_name": "Bradycardie",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "BRADYCARDIE_SINUSALE",
+      "surface_form": "Bradycardie sinusale",
+      "source_type": "canonical",
+      "concept_name": "Bradycardie sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CMH_APICALE",
+      "surface_form": "CMH apicale",
+      "source_type": "canonical",
+      "concept_name": "CMH apicale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "CALCIUM",
+      "surface_form": "Calcium",
+      "source_type": "canonical",
+      "concept_name": "Calcium",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CAPTURE_SUPRAVENTRICULAIRE",
+      "surface_form": "Capture supraventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Capture supraventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "CARDIOMYOPATHIE_HYPERTROPHIQUE",
+      "surface_form": "Cardiomyopathie hypertrophique",
+      "source_type": "canonical",
+      "concept_name": "Cardiomyopathie hypertrophique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "CARDIOMYOPATHIE_HYPERTROPHIQUE",
+      "surface_form": "CMH",
+      "source_type": "synonym",
+      "concept_name": "Cardiomyopathie hypertrophique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "CARDIOMYOPATHIE_HYPERTROPHIQUE",
+      "surface_form": "HCM",
+      "source_type": "synonym",
+      "concept_name": "Cardiomyopathie hypertrophique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "CARDIOPATHIE_ISCHEMIQUE_CHRONIQUE",
+      "surface_form": "Cardiopathie ischémique chronique",
+      "source_type": "canonical",
+      "concept_name": "Cardiopathie ischémique chronique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 3
+    },
+    {
+      "ontology_id": "CARDIOPATHIE_ISCHEMIQUE_CHRONIQUE",
+      "surface_form": "Séquelle d'infarctus",
+      "source_type": "synonym",
+      "concept_name": "Cardiopathie ischémique chronique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 3
+    },
+    {
+      "ontology_id": "CARDIOVERSION_ELECTRIQUE",
+      "surface_form": "Cardioversion électrique",
+      "source_type": "canonical",
+      "concept_name": "Cardioversion électrique",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE",
+      "surface_form": "Chambre de chasse",
+      "source_type": "canonical",
+      "concept_name": "Chambre de chasse",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_DROIT",
+      "surface_form": "Chambre de chasse du ventricule droit",
+      "source_type": "canonical",
+      "concept_name": "Chambre de chasse du ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_DROIT",
+      "surface_form": "CCVD",
+      "source_type": "synonym",
+      "concept_name": "Chambre de chasse du ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_DROIT",
+      "surface_form": "RVOT",
+      "source_type": "synonym",
+      "concept_name": "Chambre de chasse du ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Chambre de chasse du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Chambre de chasse du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "CCVG",
+      "source_type": "synonym",
+      "concept_name": "Chambre de chasse du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CHAMBRE_DE_CHASSE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "LVOT",
+      "source_type": "synonym",
+      "concept_name": "Chambre de chasse du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CIRCONFERENTIEL",
+      "surface_form": "Circonférentiel",
+      "source_type": "canonical",
+      "concept_name": "Circonférentiel",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CIRCONFERENTIEL",
+      "surface_form": "Antérieur étendu",
+      "source_type": "synonym",
+      "concept_name": "Circonférentiel",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "COMPLEXE_DE_FUSION",
+      "surface_form": "Complexe de fusion",
+      "source_type": "canonical",
+      "concept_name": "Complexe de fusion",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CONCEPTS_ECG",
+      "surface_form": "Concepts ECG",
+      "source_type": "canonical",
+      "concept_name": "Concepts ECG",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CONDUCTION",
+      "surface_form": "Conduction",
+      "source_type": "canonical",
+      "concept_name": "Conduction",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CONTINUITE_MITRO_AORTIQUE",
+      "surface_form": "Continuité mitro-aortique",
+      "source_type": "canonical",
+      "concept_name": "Continuité mitro-aortique",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "COUPLET",
+      "surface_form": "Couplet",
+      "source_type": "canonical",
+      "concept_name": "Couplet",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "Courant de lésion sous-endocardique",
+      "source_type": "canonical",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "$ ST-segment depression",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "ST moins",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "ST-",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "ST-segment depression",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "Sous-décalage du segment ST",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "Sous-décalage du segment ST $",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_ENDOCARDIQUE",
+      "surface_form": "sous décalage",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-endocardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "Courant de lésion sous-épicardique",
+      "source_type": "canonical",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "$ ST-segment elevation",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "ST +",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "ST plus",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "ST surelevé",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "ST+",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "ST-segment elevation",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "Sus-décalage du segment ST",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "Sus-décalage du segment ST $",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "COURANT_DE_LESION_SOUS_EPICARDIQUE",
+      "surface_form": "sus-décalage",
+      "source_type": "synonym",
+      "concept_name": "Courant de lésion sous-épicardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "CRITERES_DE_SGARBOSSA",
+      "surface_form": "Critères de Sgarbossa",
+      "source_type": "canonical",
+      "concept_name": "Critères de Sgarbossa",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CUPULE_DIGITALIQUE",
+      "surface_form": "Cupule digitalique",
+      "source_type": "canonical",
+      "concept_name": "Cupule digitalique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DESCRIPTION_ECG",
+      "surface_form": "Description ECG",
+      "source_type": "canonical",
+      "concept_name": "Description ECG",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DIGITALIQUES",
+      "surface_form": "Digitaliques",
+      "source_type": "canonical",
+      "concept_name": "Digitaliques",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "DISSOCIATION_ATRIO_VENTRICULAIRE",
+      "surface_form": "Dissociation atrio-ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Dissociation atrio-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "DISSOCIATION_ATRIO_VENTRICULAIRE",
+      "surface_form": "Pas de conduction entre les oreillettes et les ventricules",
+      "source_type": "synonym",
+      "concept_name": "Dissociation atrio-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "DISSOCIATION_ATRIO_VENTRICULAIRE",
+      "surface_form": "absence de conduction atrio-ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Dissociation atrio-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "DOUBLE_CONTAGE_DE_L_ONDE_R",
+      "surface_form": "Double contage de l'onde R",
+      "source_type": "canonical",
+      "concept_name": "Double contage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DOUBLET_VENTRICULAIRE",
+      "surface_form": "Doublet ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Doublet ventriculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "DUREE_DU_QRS",
+      "surface_form": "Duree du QRS",
+      "source_type": "canonical",
+      "concept_name": "Duree du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DUREE_ONDE_P__120_MS",
+      "surface_form": "Durée onde P < 120 ms",
+      "source_type": "canonical",
+      "concept_name": "Durée onde P < 120 ms",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DUREE_ONDE_P__120_MS",
+      "surface_form": "Onde P < 120 ms",
+      "source_type": "synonym",
+      "concept_name": "Durée onde P < 120 ms",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DUREE_ONDE_P__120_MS",
+      "surface_form": "P < 120 ms",
+      "source_type": "synonym",
+      "concept_name": "Durée onde P < 120 ms",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DYSFONCTION_SINUSALE",
+      "surface_form": "Dysfonction sinusale",
+      "source_type": "canonical",
+      "concept_name": "Dysfonction sinusale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "DYSFONCTION_SINUSALE",
+      "surface_form": "SND",
+      "source_type": "synonym",
+      "concept_name": "Dysfonction sinusale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "DYSPLASIE_ARRHYTHMOGENE_DU_VENTRICULE_DROIT",
+      "surface_form": "Dysplasie arrhythmogène du ventricule droit",
+      "source_type": "canonical",
+      "concept_name": "Dysplasie arrhythmogène du ventricule droit",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "DEFIBRILLATEUR",
+      "surface_form": "Défibrillateur",
+      "source_type": "canonical",
+      "concept_name": "Défibrillateur",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEFIBRILLATEUR",
+      "surface_form": "DAI",
+      "source_type": "synonym",
+      "concept_name": "Défibrillateur",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DESORGANISEE",
+      "surface_form": "Désorganisée",
+      "source_type": "canonical",
+      "concept_name": "Désorganisée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEVIATION_AXIALE",
+      "surface_form": "Déviation axiale",
+      "source_type": "canonical",
+      "concept_name": "Déviation axiale",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEVIATION_AXIALE_DROITE",
+      "surface_form": "Déviation axiale droite",
+      "source_type": "canonical",
+      "concept_name": "Déviation axiale droite",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEVIATION_AXIALE_DROITE",
+      "surface_form": "axe droit",
+      "source_type": "synonym",
+      "concept_name": "Déviation axiale droite",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEVIATION_AXIALE_GAUCHE",
+      "surface_form": "Déviation axiale gauche",
+      "source_type": "canonical",
+      "concept_name": "Déviation axiale gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "DEVIATION_AXIALE_GAUCHE",
+      "surface_form": "axe gauche",
+      "source_type": "synonym",
+      "concept_name": "Déviation axiale gauche",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECG_NORMAL",
+      "surface_form": "ECG normal",
+      "source_type": "canonical",
+      "concept_name": "ECG normal",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ECG_NORMAL",
+      "surface_form": "ECG physiologique",
+      "source_type": "synonym",
+      "concept_name": "ECG normal",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ECG_NORMAL",
+      "surface_form": "ECG sans anomalie",
+      "source_type": "synonym",
+      "concept_name": "ECG normal",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ECG_NORMAL",
+      "surface_form": "Pas d'anomalie",
+      "source_type": "synonym",
+      "concept_name": "ECG normal",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ECG_NORMAL",
+      "surface_form": "Tracé normal",
+      "source_type": "synonym",
+      "concept_name": "ECG normal",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "ECG_PAS_NORMAL",
+      "surface_form": "ECG pas normal",
+      "source_type": "canonical",
+      "concept_name": "ECG pas normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ESA_MONOMORPHE_ISOLEE",
+      "surface_form": "ESA monomorphe isolée",
+      "source_type": "canonical",
+      "concept_name": "ESA monomorphe isolée",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ESA_MONOMORPHES_MULTIPLES",
+      "surface_form": "ESA monomorphes multiples",
+      "source_type": "canonical",
+      "concept_name": "ESA monomorphes multiples",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ESV_EPICARDIQUE",
+      "surface_form": "ESV épicardique",
+      "source_type": "canonical",
+      "concept_name": "ESV épicardique",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECHAPPEMENT",
+      "surface_form": "Echappement",
+      "source_type": "canonical",
+      "concept_name": "Echappement",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECHAPPEMENT",
+      "surface_form": "rythme d'échappement",
+      "source_type": "synonym",
+      "concept_name": "Echappement",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECHAPPEMENT_VENTRICULAIRE",
+      "surface_form": "Echappement ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Echappement ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECHAPPEMENT_VENTRICULAIRE",
+      "surface_form": "Rythme d'échappement ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Echappement ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECHAPPEMENT_VENTRICULAIRE",
+      "surface_form": "Rythme idioventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Echappement ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "EFFET_CHATTERJEE",
+      "surface_form": "Effet Chatterjee",
+      "source_type": "canonical",
+      "concept_name": "Effet Chatterjee",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EMBOLIE_PULMONAIRE",
+      "surface_form": "Embolie pulmonaire",
+      "source_type": "canonical",
+      "concept_name": "Embolie pulmonaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "EVENEMENTS_ECTOPIQUES",
+      "surface_form": "Evénements ectopiques",
+      "source_type": "canonical",
+      "concept_name": "Evénements ectopiques",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "EXTRA_SYSTOLE_ATRIALE_TRIGEMINEE",
+      "surface_form": "Extra-systole atriale trigéminée",
+      "source_type": "canonical",
+      "concept_name": "Extra-systole atriale trigéminée",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRA_SYSTOLE_ATRIALE_TRIGEMINEE",
+      "surface_form": "ESA trigéminée",
+      "source_type": "synonym",
+      "concept_name": "Extra-systole atriale trigéminée",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRA_SYSTOLE_ATRIALE_TRIGEMINEE",
+      "surface_form": "ESA trigéminée",
+      "source_type": "synonym",
+      "concept_name": "Extra-systole atriale trigéminée",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_ATRIALE",
+      "surface_form": "Extrasystole atriale",
+      "source_type": "canonical",
+      "concept_name": "Extrasystole atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_ATRIALE",
+      "surface_form": "ESA",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_ATRIALE",
+      "surface_form": "PAC",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_VENTRICULAIRE",
+      "surface_form": "Extrasystole ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Extrasystole ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_VENTRICULAIRE",
+      "surface_form": "ESV",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_VENTRICULAIRE",
+      "surface_form": "Extra-systole ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_VENTRICULAIRE",
+      "surface_form": "PVC",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_A_COUPLAGE_COURT",
+      "surface_form": "Extrasystole à couplage court",
+      "source_type": "canonical",
+      "concept_name": "Extrasystole à couplage court",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "EXTRASYSTOLE_A_COUPLAGE_COURT",
+      "surface_form": "ESV à couplage court",
+      "source_type": "synonym",
+      "concept_name": "Extrasystole à couplage court",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Faisceau accessoire à conduction antérograde",
+      "source_type": "canonical",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Faisceau de Kent",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Onde delta",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Pré-excitation",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Pré-excitation ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Préexcitation ventriculaire $",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Voie accessoire",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "WPW",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FAISCEAU_ACCESSOIRE_A_CONDUCTION_ANTEROGRADE",
+      "surface_form": "Wolff-Parkinson-White",
+      "source_type": "synonym",
+      "concept_name": "Faisceau accessoire à conduction antérograde",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FIBRILLATION_ATRIALE",
+      "surface_form": "Fibrillation atriale",
+      "source_type": "canonical",
+      "concept_name": "Fibrillation atriale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FIBRILLATION_ATRIALE",
+      "surface_form": "AF",
+      "source_type": "synonym",
+      "concept_name": "Fibrillation atriale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FIBRILLATION_ATRIALE",
+      "surface_form": "FA",
+      "source_type": "synonym",
+      "concept_name": "Fibrillation atriale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "FIBRILLATION_VENTRICULAIRE",
+      "surface_form": "Fibrillation ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Fibrillation ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "FIBRILLATION_VENTRICULAIRE",
+      "surface_form": "FV",
+      "source_type": "synonym",
+      "concept_name": "Fibrillation ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "FIBRILLATION_VENTRICULAIRE",
+      "surface_form": "VF",
+      "source_type": "synonym",
+      "concept_name": "Fibrillation ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "FILTRE_PASSE_BANDE_INADAPTE",
+      "surface_form": "Filtre passe-bande inadapté",
+      "source_type": "canonical",
+      "concept_name": "Filtre passe-bande inadapté",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+      "surface_form": "Flutter atrial antihoraire",
+      "source_type": "canonical",
+      "concept_name": "Flutter atrial antihoraire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+      "surface_form": "CCW common flutter",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial antihoraire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+      "surface_form": "Flutter atrial anti-horaire",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial antihoraire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ANTIHORAIRE",
+      "surface_form": "Flutter commun antihoraire",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial antihoraire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ATYPIQUE",
+      "surface_form": "Flutter atrial atypique",
+      "source_type": "canonical",
+      "concept_name": "Flutter atrial atypique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ATYPIQUE",
+      "surface_form": "Flutter atrial non commun",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial atypique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_ATYPIQUE",
+      "surface_form": "TA",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial atypique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_HORAIRE",
+      "surface_form": "Flutter atrial horaire",
+      "source_type": "canonical",
+      "concept_name": "Flutter atrial horaire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_HORAIRE",
+      "surface_form": "CW common flutter",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial horaire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_ATRIAL_HORAIRE",
+      "surface_form": "Flutter commun horaire",
+      "source_type": "synonym",
+      "concept_name": "Flutter atrial horaire",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter droit typique",
+      "source_type": "canonical",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter atrial commun",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter atrial dépendant de l'ICT",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter commun",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter droit commun",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter isthmique",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FLUTTER_DROIT_TYPIQUE",
+      "surface_form": "Flutter typique",
+      "source_type": "synonym",
+      "concept_name": "Flutter droit typique",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FREQUENCE",
+      "surface_form": "Frequence",
+      "source_type": "canonical",
+      "concept_name": "Frequence",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FREQUENCE",
+      "surface_form": "frequence cardiaque",
+      "source_type": "synonym",
+      "concept_name": "Frequence",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FREQUENCE_NORMALE",
+      "surface_form": "Frequence normale",
+      "source_type": "canonical",
+      "concept_name": "Frequence normale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "FREQUENCE_NORMALE",
+      "surface_form": "Normocarde",
+      "source_type": "synonym",
+      "concept_name": "Frequence normale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "GENETIQUE",
+      "surface_form": "Génétique",
+      "source_type": "canonical",
+      "concept_name": "Génétique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPERCALCEMIE",
+      "surface_form": "Hypercalcémie",
+      "source_type": "canonical",
+      "concept_name": "Hypercalcémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPERKALIEMIE",
+      "surface_form": "Hyperkaliémie",
+      "source_type": "canonical",
+      "concept_name": "Hyperkaliémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "HYPERNATREMIE",
+      "surface_form": "Hypernatrémie",
+      "source_type": "canonical",
+      "concept_name": "Hypernatrémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_ATRIALE_DROITE",
+      "surface_form": "Hypertrophie atriale droite",
+      "source_type": "canonical",
+      "concept_name": "Hypertrophie atriale droite",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_ATRIALE_DROITE",
+      "surface_form": "HAD",
+      "source_type": "synonym",
+      "concept_name": "Hypertrophie atriale droite",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_ATRIALE_GAUCHE",
+      "surface_form": "Hypertrophie atriale gauche",
+      "source_type": "canonical",
+      "concept_name": "Hypertrophie atriale gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_ATRIALE_GAUCHE",
+      "surface_form": "HAG",
+      "source_type": "synonym",
+      "concept_name": "Hypertrophie atriale gauche",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_VENTRICULAIRE",
+      "surface_form": "Hypertrophie ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Hypertrophie ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_DROITE",
+      "surface_form": "Hypertrophie ventriculaire droite",
+      "source_type": "canonical",
+      "concept_name": "Hypertrophie ventriculaire droite",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_GAUCHE",
+      "surface_form": "Hypertrophie ventriculaire gauche",
+      "source_type": "canonical",
+      "concept_name": "Hypertrophie ventriculaire gauche",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPERTROPHIE_VENTRICULAIRE_GAUCHE",
+      "surface_form": "HVG",
+      "source_type": "synonym",
+      "concept_name": "Hypertrophie ventriculaire gauche",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPOCALCEMIE",
+      "surface_form": "Hypocalcémie",
+      "source_type": "canonical",
+      "concept_name": "Hypocalcémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPOKALIEMIE",
+      "surface_form": "Hypokaliémie",
+      "source_type": "canonical",
+      "concept_name": "Hypokaliémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "HYPONATREMIE",
+      "surface_form": "Hyponatrémie",
+      "source_type": "canonical",
+      "concept_name": "Hyponatrémie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HYPOTHERMIE",
+      "surface_form": "Hypothermie",
+      "source_type": "canonical",
+      "concept_name": "Hypothermie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "HEMOCHROMATOSE",
+      "surface_form": "Hémochromatose",
+      "source_type": "canonical",
+      "concept_name": "Hémochromatose",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "IMPREGNATION_DIGITALIQUE",
+      "surface_form": "Imprégnation digitalique",
+      "source_type": "canonical",
+      "concept_name": "Imprégnation digitalique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "INDICE_DE_SOKOLOW__35_MM",
+      "surface_form": "Indice de sokolow > 35 mm",
+      "source_type": "canonical",
+      "concept_name": "Indice de sokolow > 35 mm",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INFARCTUS_ATRIAL",
+      "surface_form": "Infarctus atrial",
+      "source_type": "canonical",
+      "concept_name": "Infarctus atrial",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "Infarctus du myocarde à la phase aigue",
+      "source_type": "canonical",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "Acute MI",
+      "source_type": "synonym",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "IDM",
+      "source_type": "synonym",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "Infarctus du myocarde",
+      "source_type": "synonym",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "SCA",
+      "source_type": "synonym",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFARCTUS_DU_MYOCARDE_A_LA_PHASE_AIGUE",
+      "surface_form": "Syndrome coronarien aigu",
+      "source_type": "synonym",
+      "concept_name": "Infarctus du myocarde à la phase aigue",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "INFILTRATIVE",
+      "surface_form": "Infiltrative",
+      "source_type": "canonical",
+      "concept_name": "Infiltrative",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INFERIEUR",
+      "surface_form": "Inférieur",
+      "source_type": "canonical",
+      "concept_name": "Inférieur",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INFERIEUR_DROIT",
+      "surface_form": "Inférieur droit",
+      "source_type": "canonical",
+      "concept_name": "Inférieur droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INSUFFISANCE_CHRONOTROPE",
+      "surface_form": "Insuffisance chronotrope",
+      "source_type": "canonical",
+      "concept_name": "Insuffisance chronotrope",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "INTERFERENCE_EXTRA_CARDIAQUE",
+      "surface_form": "Interférence extra-cardiaque",
+      "source_type": "canonical",
+      "concept_name": "Interférence extra-cardiaque",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INTERPOLE",
+      "surface_form": "Interpolé",
+      "source_type": "canonical",
+      "concept_name": "Interpolé",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INTERVALLE_PR",
+      "surface_form": "Intervalle PR",
+      "source_type": "canonical",
+      "concept_name": "Intervalle PR",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INTERVALLE_PR",
+      "surface_form": "PR",
+      "source_type": "synonym",
+      "concept_name": "Intervalle PR",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INTERVALLE_QT",
+      "surface_form": "Intervalle QT",
+      "source_type": "canonical",
+      "concept_name": "Intervalle QT",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INVERSION_D_ELECTRODES",
+      "surface_form": "Inversion d'électrodes",
+      "source_type": "canonical",
+      "concept_name": "Inversion d'électrodes",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "IRREGULIER",
+      "surface_form": "Irrégulier",
+      "source_type": "canonical",
+      "concept_name": "Irrégulier",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "IRREGULIER",
+      "surface_form": "rythme irrégulier",
+      "source_type": "synonym",
+      "concept_name": "Irrégulier",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ISCHEMIE_SOUS_ENDOCARDIQUE",
+      "surface_form": "Ischémie sous-endocardique",
+      "source_type": "canonical",
+      "concept_name": "Ischémie sous-endocardique",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "ISCHEMIE_SOUS_EPICARDIQUE",
+      "surface_form": "Ischémie sous-épicardique",
+      "source_type": "canonical",
+      "concept_name": "Ischémie sous-épicardique",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "ISCHEMIE_SOUS_EPICARDIQUE",
+      "surface_form": "$ T-waves inversion",
+      "source_type": "synonym",
+      "concept_name": "Ischémie sous-épicardique",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "ISCHEMIE_SOUS_EPICARDIQUE",
+      "surface_form": "Inversion des ondes T $",
+      "source_type": "synonym",
+      "concept_name": "Ischémie sous-épicardique",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "ISCHEMIQUE",
+      "surface_form": "Ischémique",
+      "source_type": "canonical",
+      "concept_name": "Ischémique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ISOLE",
+      "surface_form": "Isolé",
+      "source_type": "canonical",
+      "concept_name": "Isolé",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LATERAL",
+      "surface_form": "Latéral",
+      "source_type": "canonical",
+      "concept_name": "Latéral",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LATERAL_DROIT",
+      "surface_form": "Latéral droit",
+      "source_type": "canonical",
+      "concept_name": "Latéral droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LATERAL_GAUCHE",
+      "surface_form": "Latéral gauche",
+      "source_type": "canonical",
+      "concept_name": "Latéral gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LOCALISATION_IDM",
+      "surface_form": "Localisation IDM",
+      "source_type": "canonical",
+      "concept_name": "Localisation IDM",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LOCALISATION_FAISCEAU_ACCESSOIRE",
+      "surface_form": "Localisation faisceau accessoire",
+      "source_type": "canonical",
+      "concept_name": "Localisation faisceau accessoire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LOCALISATION_FAISCEAU_ACCESSOIRE",
+      "surface_form": "Accessory pathway localization",
+      "source_type": "synonym",
+      "concept_name": "Localisation faisceau accessoire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MICROVOLTAGE",
+      "surface_form": "Microvoltage",
+      "source_type": "canonical",
+      "concept_name": "Microvoltage",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "MICROVOLTAGE",
+      "surface_form": "QRS de faible amplitude",
+      "source_type": "synonym",
+      "concept_name": "Microvoltage",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "MICROVOLTAGE",
+      "surface_form": "micro voltage",
+      "source_type": "synonym",
+      "concept_name": "Microvoltage",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "MICROVOLTAGE",
+      "surface_form": "microvoltage du QRS",
+      "source_type": "synonym",
+      "concept_name": "Microvoltage",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "MID_SEPTAL",
+      "surface_form": "Mid-septal",
+      "source_type": "canonical",
+      "concept_name": "Mid-septal",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MIROIR",
+      "surface_form": "Miroir",
+      "source_type": "canonical",
+      "concept_name": "Miroir",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MODE_DE_CONDUCTION_AV",
+      "surface_form": "Mode de conduction AV",
+      "source_type": "canonical",
+      "concept_name": "Mode de conduction AV",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_ANORMALE_DU_QRS",
+      "surface_form": "Morphologie anormale du QRS",
+      "source_type": "canonical",
+      "concept_name": "Morphologie anormale du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DE_L_ONDE_P_NON_SINUSALE",
+      "surface_form": "Morphologie de l'onde P non sinusale",
+      "source_type": "canonical",
+      "concept_name": "Morphologie de l'onde P non sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DE_L_ONDE_P_NON_SINUSALE",
+      "surface_form": "onde P pas sinusal",
+      "source_type": "synonym",
+      "concept_name": "Morphologie de l'onde P non sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DE_L_ONDE_P_NON_SINUSALE",
+      "surface_form": "rythme atrial anormal",
+      "source_type": "synonym",
+      "concept_name": "Morphologie de l'onde P non sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DE_L_ONDE_P_NON_SINUSALE",
+      "surface_form": "rythme atrial non sinusal",
+      "source_type": "synonym",
+      "concept_name": "Morphologie de l'onde P non sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DU_QRS",
+      "surface_form": "Morphologie du QRS",
+      "source_type": "canonical",
+      "concept_name": "Morphologie du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_DU_QRS_NORMALE",
+      "surface_form": "Morphologie du QRS normale",
+      "source_type": "canonical",
+      "concept_name": "Morphologie du QRS normale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MORPHOLOGIE_ONDE_P_SINUSALE",
+      "surface_form": "Morphologie onde P sinusale",
+      "source_type": "canonical",
+      "concept_name": "Morphologie onde P sinusale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MUSCLE_PAPILLAIRE",
+      "surface_form": "Muscle papillaire",
+      "source_type": "canonical",
+      "concept_name": "Muscle papillaire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MUSCLE_PAPILLAIRE",
+      "surface_form": "Mitral pillar",
+      "source_type": "synonym",
+      "concept_name": "Muscle papillaire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MUSCLE_PAPILLAIRE",
+      "surface_form": "Pillier mitral",
+      "source_type": "synonym",
+      "concept_name": "Muscle papillaire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MUSCLE_PAPILLAIRE_ANTERO_LATERAL",
+      "surface_form": "Muscle papillaire antéro-latéral",
+      "source_type": "canonical",
+      "concept_name": "Muscle papillaire antéro-latéral",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MUSCLE_PAPILLAIRE_POSTERO_MEDIAL",
+      "surface_form": "Muscle papillaire postero-medial",
+      "source_type": "canonical",
+      "concept_name": "Muscle papillaire postero-medial",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MEDICAMENTS",
+      "surface_form": "Médicaments",
+      "source_type": "canonical",
+      "concept_name": "Médicaments",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "METABOLIQUE",
+      "surface_form": "Métabolique",
+      "source_type": "canonical",
+      "concept_name": "Métabolique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "NON_SOUTENU",
+      "surface_form": "Non soutenu",
+      "source_type": "canonical",
+      "concept_name": "Non soutenu",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "NON_SOUTENU",
+      "surface_form": "NS",
+      "source_type": "synonym",
+      "concept_name": "Non soutenu",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "NON_SOUTENU",
+      "surface_form": "en salve",
+      "source_type": "synonym",
+      "concept_name": "Non soutenu",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_F",
+      "surface_form": "Onde F",
+      "source_type": "canonical",
+      "concept_name": "Onde F",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_J",
+      "surface_form": "Onde J",
+      "source_type": "canonical",
+      "concept_name": "Onde J",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_J_D_OSBORN",
+      "surface_form": "Onde J d'Osborn",
+      "source_type": "canonical",
+      "concept_name": "Onde J d'Osborn",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ONDE_P",
+      "surface_form": "Onde P",
+      "source_type": "canonical",
+      "concept_name": "Onde P",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_AMPLE",
+      "surface_form": "Onde P ample",
+      "source_type": "canonical",
+      "concept_name": "Onde P ample",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_AMPLE",
+      "surface_form": "Grande onde P",
+      "source_type": "synonym",
+      "concept_name": "Onde P ample",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_AMPLE",
+      "surface_form": "Onde P > 2.5 mm",
+      "source_type": "synonym",
+      "concept_name": "Onde P ample",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_ANORMALE",
+      "surface_form": "Onde P anormale",
+      "source_type": "canonical",
+      "concept_name": "Onde P anormale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_ANORMALE",
+      "surface_form": "onde P pas normale",
+      "source_type": "synonym",
+      "concept_name": "Onde P anormale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_NORMALE",
+      "surface_form": "Onde P normale",
+      "source_type": "canonical",
+      "concept_name": "Onde P normale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ONDE_P_PROLONGEE",
+      "surface_form": "Onde P prolongée",
+      "source_type": "canonical",
+      "concept_name": "Onde P prolongée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_PROLONGEE",
+      "surface_form": "Onde P > 120 ms",
+      "source_type": "synonym",
+      "concept_name": "Onde P prolongée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_P_PRESENTE",
+      "surface_form": "Onde P présente",
+      "source_type": "canonical",
+      "concept_name": "Onde P présente",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_T",
+      "surface_form": "Onde T",
+      "source_type": "canonical",
+      "concept_name": "Onde T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_T_AMPLE",
+      "surface_form": "Onde T ample",
+      "source_type": "canonical",
+      "concept_name": "Onde T ample",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_T_APLATIE",
+      "surface_form": "Onde T aplatie",
+      "source_type": "canonical",
+      "concept_name": "Onde T aplatie",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_T_APLATIE",
+      "surface_form": "Applatissement onde T",
+      "source_type": "synonym",
+      "concept_name": "Onde T aplatie",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_T_NORMALES",
+      "surface_form": "Onde T normales",
+      "source_type": "canonical",
+      "concept_name": "Onde T normales",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ONDE_T_NEGATIVE",
+      "surface_form": "Onde T négative",
+      "source_type": "canonical",
+      "concept_name": "Onde T négative",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_U_NORMALE",
+      "surface_form": "Onde U normale",
+      "source_type": "canonical",
+      "concept_name": "Onde U normale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_DELTA",
+      "surface_form": "Onde delta",
+      "source_type": "canonical",
+      "concept_name": "Onde delta",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_DELTA",
+      "surface_form": "Preexitation ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Onde delta",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_EPSILON",
+      "surface_form": "Onde epsilon",
+      "source_type": "canonical",
+      "concept_name": "Onde epsilon",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ORGANISEE",
+      "surface_form": "Organisée",
+      "source_type": "canonical",
+      "concept_name": "Organisée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_ALLONGE",
+      "surface_form": "PR allongé",
+      "source_type": "canonical",
+      "concept_name": "PR allongé",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_ALLONGE",
+      "surface_form": "PR > 200 ms",
+      "source_type": "synonym",
+      "concept_name": "PR allongé",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_ALLONGE",
+      "surface_form": "PR prolongé",
+      "source_type": "synonym",
+      "concept_name": "PR allongé",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_ANORMAL",
+      "surface_form": "PR anormal",
+      "source_type": "canonical",
+      "concept_name": "PR anormal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_COURT",
+      "surface_form": "PR court",
+      "source_type": "canonical",
+      "concept_name": "PR court",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_COURT",
+      "surface_form": "PR < 120 ms",
+      "source_type": "synonym",
+      "concept_name": "PR court",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_NORMAL",
+      "surface_form": "PR normal",
+      "source_type": "canonical",
+      "concept_name": "PR normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_NORMAL",
+      "surface_form": "PR < 200 ms",
+      "source_type": "synonym",
+      "concept_name": "PR normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PR_NORMAL",
+      "surface_form": "PR entre 120 et 200 ms",
+      "source_type": "synonym",
+      "concept_name": "PR normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PACEMAKER",
+      "surface_form": "Pacemaker",
+      "source_type": "canonical",
+      "concept_name": "Pacemaker",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PACEMAKER",
+      "surface_form": "PM",
+      "source_type": "synonym",
+      "concept_name": "Pacemaker",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PARALYSIE_SINUSALE",
+      "surface_form": "Paralysie sinusale",
+      "source_type": "canonical",
+      "concept_name": "Paralysie sinusale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "PAROI_ANTERIEURE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Paroi antérieure du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Paroi antérieure du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAROI_INFERIEURE_DU_VENTRICULE_DROIT",
+      "surface_form": "Paroi inférieure du ventricule droit",
+      "source_type": "canonical",
+      "concept_name": "Paroi inférieure du ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAROI_INFERIEURE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Paroi inférieure du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Paroi inférieure du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAROI_LATERALE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Paroi latérale du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Paroi latérale du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAROI_LIBRE_DU_VENTRICULE_DROIT",
+      "surface_form": "Paroi libre du ventricule droit",
+      "source_type": "canonical",
+      "concept_name": "Paroi libre du ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAS_D_ANOMALIE_DE_LE_REPOLARISATION",
+      "surface_form": "Pas d'anomalie de le repolarisation",
+      "source_type": "canonical",
+      "concept_name": "Pas d'anomalie de le repolarisation",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "PAS_D_ANOMALIE_DE_LE_REPOLARISATION",
+      "surface_form": "Repolarisation normale",
+      "source_type": "synonym",
+      "concept_name": "Pas d'anomalie de le repolarisation",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "PAS_DE_TROUBLES_DE_LA_CONDUCTION",
+      "surface_form": "Pas de troubles de la conduction",
+      "source_type": "canonical",
+      "concept_name": "Pas de troubles de la conduction",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAS_DE_TROUBLES_DE_LA_CONDUCTION",
+      "surface_form": "Absence d'anomalies de la conduction",
+      "source_type": "synonym",
+      "concept_name": "Pas de troubles de la conduction",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PATHOLOGIE",
+      "surface_form": "Pathologie",
+      "source_type": "canonical",
+      "concept_name": "Pathologie",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PAUSE",
+      "surface_form": "Pause",
+      "source_type": "canonical",
+      "concept_name": "Pause",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PERICARDITE",
+      "surface_form": "Pericardite",
+      "source_type": "canonical",
+      "concept_name": "Pericardite",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "PERTE_DE_CAPTURE",
+      "surface_form": "Perte de capture",
+      "source_type": "canonical",
+      "concept_name": "Perte de capture",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PERTE_DE_CAPTURE_ATRIALE",
+      "surface_form": "Perte de capture atriale",
+      "source_type": "canonical",
+      "concept_name": "Perte de capture atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "PERTE_DE_CAPTURE_VENTRICULAIRE",
+      "surface_form": "Perte de capture ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Perte de capture ventriculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "PERTE_DES_ONDE_Q_SEPTALES",
+      "surface_form": "Perte des onde Q septales",
+      "source_type": "canonical",
+      "concept_name": "Perte des onde Q septales",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PHENOMENE_R_T",
+      "surface_form": "Phenomene R/T",
+      "source_type": "canonical",
+      "concept_name": "Phenomene R/T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PHENOMENE_R_T",
+      "surface_form": "R/T",
+      "source_type": "synonym",
+      "concept_name": "Phenomene R/T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PORTION_BASALE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Portion basale du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Portion basale du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PORTION_MEDIALE_DU_VENTRICULE_GAUCHE",
+      "surface_form": "Portion médiale du ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Portion médiale du ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POSTERIEUR",
+      "surface_form": "Postérieur",
+      "source_type": "canonical",
+      "concept_name": "Postérieur",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POSTERIEUR",
+      "surface_form": "inférieur",
+      "source_type": "synonym",
+      "concept_name": "Postérieur",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POSTERIEUR_GAUCHE",
+      "surface_form": "Postérieur gauche",
+      "source_type": "canonical",
+      "concept_name": "Postérieur gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POSTERO_SEPTAL_DROIT",
+      "surface_form": "Postéro-septal droit",
+      "source_type": "canonical",
+      "concept_name": "Postéro-septal droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POSTERO_SEPTAL_GAUCHE",
+      "surface_form": "Postéro-septal gauche",
+      "source_type": "canonical",
+      "concept_name": "Postéro-septal gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POTASSIUM",
+      "surface_form": "Potassium",
+      "source_type": "canonical",
+      "concept_name": "Potassium",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PREMATURE",
+      "surface_form": "Prematuré",
+      "source_type": "canonical",
+      "concept_name": "Prematuré",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PRESENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Presence d'onde Q pathologique",
+      "source_type": "canonical",
+      "concept_name": "Presence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PRESENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Aspect QS",
+      "source_type": "synonym",
+      "concept_name": "Presence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PRESENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Onde Q de nécrose",
+      "source_type": "synonym",
+      "concept_name": "Presence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PRESENCE_D_ONDE_Q_PATHOLOGIQUE",
+      "surface_form": "Trou électrique",
+      "source_type": "synonym",
+      "concept_name": "Presence d'onde Q pathologique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PRESENCE_DE_QRS",
+      "surface_form": "Presence de QRS",
+      "source_type": "canonical",
+      "concept_name": "Presence de QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "PROBLEME_DE_VITESSE_DE_DEFILEMENT",
+      "surface_form": "Problème de vitesse de défilement",
+      "source_type": "canonical",
+      "concept_name": "Problème de vitesse de défilement",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "PREEXCITATION_VENTRICULAIRE_PAR_FIBRE_DE_MAHAIM",
+      "surface_form": "Préexcitation ventriculaire par fibre de Mahaïm",
+      "source_type": "canonical",
+      "concept_name": "Préexcitation ventriculaire par fibre de Mahaïm",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "PREEXCITATION_VENTRICULAIRE_PAR_FIBRE_DE_MAHAIM",
+      "surface_form": "Guiraudon-Klein fiber ventricular preexcitation",
+      "source_type": "synonym",
+      "concept_name": "Préexcitation ventriculaire par fibre de Mahaïm",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "PREEXCITATION_VENTRICULAIRE_PAR_FIBRE_DE_MAHAIM",
+      "surface_form": "Préexcitation ventriculaire par fibre de Guiraudon-Klein",
+      "source_type": "synonym",
+      "concept_name": "Préexcitation ventriculaire par fibre de Mahaïm",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QRS",
+      "surface_form": "QRS",
+      "source_type": "canonical",
+      "concept_name": "QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS__120_MS",
+      "surface_form": "QRS > 120 ms",
+      "source_type": "canonical",
+      "concept_name": "QRS > 120 ms",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS_FINS",
+      "surface_form": "QRS fins",
+      "source_type": "canonical",
+      "concept_name": "QRS fins",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS_FINS",
+      "surface_form": "QRS < 120 ms",
+      "source_type": "synonym",
+      "concept_name": "QRS fins",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS_FRAGMENTE",
+      "surface_form": "QRS fragmenté",
+      "source_type": "canonical",
+      "concept_name": "QRS fragmenté",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS_LARGE",
+      "surface_form": "QRS large",
+      "source_type": "canonical",
+      "concept_name": "QRS large",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QRS_NORMAL",
+      "surface_form": "QRS normal",
+      "source_type": "canonical",
+      "concept_name": "QRS normal",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "QT_COURT",
+      "surface_form": "QT court",
+      "source_type": "canonical",
+      "concept_name": "QT court",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QT_COURT",
+      "surface_form": "QT raccourci",
+      "source_type": "synonym",
+      "concept_name": "QT court",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QT_LONG",
+      "surface_form": "QT long",
+      "source_type": "canonical",
+      "concept_name": "QT long",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QT_LONG",
+      "surface_form": "LQT",
+      "source_type": "synonym",
+      "concept_name": "QT long",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QT_LONG",
+      "surface_form": "QT allongé",
+      "source_type": "synonym",
+      "concept_name": "QT long",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "QT_NORMAL",
+      "surface_form": "QT normal",
+      "source_type": "canonical",
+      "concept_name": "QT normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QT_NORMAL",
+      "surface_form": "QT non allongé",
+      "source_type": "synonym",
+      "concept_name": "QT normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QT_NORMAL",
+      "surface_form": "QT pas allongé",
+      "source_type": "synonym",
+      "concept_name": "QT normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QUALIFICATEUR_EPISODE",
+      "surface_form": "Qualificateur episode",
+      "source_type": "canonical",
+      "concept_name": "Qualificateur episode",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QUALIFICATION_D_ORGANISATION",
+      "surface_form": "Qualification d'organisation",
+      "source_type": "canonical",
+      "concept_name": "Qualification d'organisation",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RABOTAGE_DE_L_ONDE_R",
+      "surface_form": "Rabotage de l'onde R",
+      "source_type": "canonical",
+      "concept_name": "Rabotage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RABOTAGE_DE_L_ONDE_R",
+      "surface_form": "QS antérieur",
+      "source_type": "synonym",
+      "concept_name": "Rabotage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RABOTAGE_DE_L_ONDE_R",
+      "surface_form": "Rabotage de l'onde R en antérieur",
+      "source_type": "synonym",
+      "concept_name": "Rabotage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RABOTAGE_DE_L_ONDE_R",
+      "surface_form": "Trou électrique antérieur",
+      "source_type": "synonym",
+      "concept_name": "Rabotage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RABOTAGE_DE_L_ONDE_R",
+      "surface_form": "onde R rabotée",
+      "source_type": "synonym",
+      "concept_name": "Rabotage de l'onde R",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "REPOLARISATION_PRECOCE",
+      "surface_form": "Repolarisation précoce",
+      "source_type": "canonical",
+      "concept_name": "Repolarisation précoce",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "REPOLARISATION_PRECOCE",
+      "surface_form": "ERS",
+      "source_type": "synonym",
+      "concept_name": "Repolarisation précoce",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "REPOLARISATION_PRECOCE",
+      "surface_form": "Notch",
+      "source_type": "synonym",
+      "concept_name": "Repolarisation précoce",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "REPOLARISATION_PRECOCE",
+      "surface_form": "slurre",
+      "source_type": "synonym",
+      "concept_name": "Repolarisation précoce",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "REPOS_COMPENSATEUR",
+      "surface_form": "Repos compensateur",
+      "source_type": "canonical",
+      "concept_name": "Repos compensateur",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RYTHME",
+      "surface_form": "Rythme",
+      "source_type": "canonical",
+      "concept_name": "Rythme",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RYTHME_ATRIAL_ECTOPIQUE",
+      "surface_form": "Rythme atrial ectopique",
+      "source_type": "canonical",
+      "concept_name": "Rythme atrial ectopique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "RYTHME_D_ECHAPPEMENT_JONCTIONNEL",
+      "surface_form": "Rythme d'échappement jonctionnel",
+      "source_type": "canonical",
+      "concept_name": "Rythme d'échappement jonctionnel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_D_ECHAPPEMENT_JONCTIONNEL",
+      "surface_form": "RIJA",
+      "source_type": "synonym",
+      "concept_name": "Rythme d'échappement jonctionnel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_D_ECHAPPEMENT_JONCTIONNEL",
+      "surface_form": "Rythme jonctionnel",
+      "source_type": "synonym",
+      "concept_name": "Rythme d'échappement jonctionnel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_D_ECHAPPEMENT_JONCTIONNEL",
+      "surface_form": "échappement jonctionnel",
+      "source_type": "synonym",
+      "concept_name": "Rythme d'échappement jonctionnel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_IDIOVENTRICULAIRE_ACCELERE",
+      "surface_form": "Rythme idioventriculaire accéléré",
+      "source_type": "canonical",
+      "concept_name": "Rythme idioventriculaire accéléré",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_IDIOVENTRICULAIRE_ACCELERE",
+      "surface_form": "RIVA",
+      "source_type": "synonym",
+      "concept_name": "Rythme idioventriculaire accéléré",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "RYTHME_JONCTIONELLE_ACCELERE",
+      "surface_form": "Rythme jonctionelle accéléré",
+      "source_type": "canonical",
+      "concept_name": "Rythme jonctionelle accéléré",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "RYTHME_JONCTIONELLE_ACCELERE",
+      "surface_form": "RIJA",
+      "source_type": "synonym",
+      "concept_name": "Rythme jonctionelle accéléré",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "RYTHME_SINUSAL",
+      "surface_form": "Rythme sinusal",
+      "source_type": "canonical",
+      "concept_name": "Rythme sinusal",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "RYTHME_SINUSAL",
+      "surface_form": "RS",
+      "source_type": "synonym",
+      "concept_name": "Rythme sinusal",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "RYTHME_SINUSAL",
+      "surface_form": "sinusal",
+      "source_type": "synonym",
+      "concept_name": "Rythme sinusal",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "REPONSE_VENTRICULAIRE_LENTE",
+      "surface_form": "Réponse ventriculaire lente",
+      "source_type": "canonical",
+      "concept_name": "Réponse ventriculaire lente",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "ST_NORMAL",
+      "surface_form": "ST normal",
+      "source_type": "canonical",
+      "concept_name": "ST normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ST_RAIDE",
+      "surface_form": "ST raide",
+      "source_type": "canonical",
+      "concept_name": "ST raide",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SALVE_ESA",
+      "surface_form": "Salve ESA",
+      "source_type": "canonical",
+      "concept_name": "Salve ESA",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "SALVE_ESA",
+      "surface_form": "Salve d'extrasystoles",
+      "source_type": "synonym",
+      "concept_name": "Salve ESA",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "SARCOIDOSE",
+      "surface_form": "Sarcoidose",
+      "source_type": "canonical",
+      "concept_name": "Sarcoidose",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SEGMENT_PQ",
+      "surface_form": "Segment PQ",
+      "source_type": "canonical",
+      "concept_name": "Segment PQ",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SEPTAL",
+      "surface_form": "Septal",
+      "source_type": "canonical",
+      "concept_name": "Septal",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SEPTUM_INTERVENTRICULAIRE",
+      "surface_form": "Septum interventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Septum interventriculaire",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SODIUM",
+      "surface_form": "Sodium",
+      "source_type": "canonical",
+      "concept_name": "Sodium",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SOUS_DETECTION",
+      "surface_form": "Sous-détection",
+      "source_type": "canonical",
+      "concept_name": "Sous-détection",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SOUS_DETECTION_ATRIALE",
+      "surface_form": "Sous-détection atriale",
+      "source_type": "canonical",
+      "concept_name": "Sous-détection atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "SOUS_DETECTION_VENTRICULAIRE",
+      "surface_form": "Sous-détection ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Sous-détection ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION",
+      "surface_form": "Stimulation",
+      "source_type": "canonical",
+      "concept_name": "Stimulation",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VD",
+      "surface_form": "Stimulation VD",
+      "source_type": "canonical",
+      "concept_name": "Stimulation VD",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VD",
+      "surface_form": "Stimulation ventriculaire droite",
+      "source_type": "synonym",
+      "concept_name": "Stimulation VD",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VG",
+      "surface_form": "Stimulation VG",
+      "source_type": "canonical",
+      "concept_name": "Stimulation VG",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VG",
+      "surface_form": "Stimulation ventriculaire gauche",
+      "source_type": "synonym",
+      "concept_name": "Stimulation VG",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_ANTITACHYCARDIQUE",
+      "surface_form": "Stimulation antitachycardique",
+      "source_type": "canonical",
+      "concept_name": "Stimulation antitachycardique",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "STIMULATION_ATRIALE",
+      "surface_form": "Stimulation atriale",
+      "source_type": "canonical",
+      "concept_name": "Stimulation atriale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_ATRIALE",
+      "surface_form": "Electroentrainement atrial",
+      "source_type": "synonym",
+      "concept_name": "Stimulation atriale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_ATRIALE",
+      "surface_form": "Rythme atrial électroentrainé",
+      "source_type": "synonym",
+      "concept_name": "Stimulation atriale",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Stimulation biventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "BiV pacing",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Biventricular resynchronisation",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Pacing BiV",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Resynchronisation biventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Resynchronisation cardiaque",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_BIVENTRICULAIRE",
+      "surface_form": "Stimulation ventriculaire gauche cardiaque",
+      "source_type": "synonym",
+      "concept_name": "Stimulation biventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_DANS_L_ONDE_T",
+      "surface_form": "Stimulation dans l'onde T",
+      "source_type": "canonical",
+      "concept_name": "Stimulation dans l'onde T",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "STIMULATION_EN_FENETRE_DE_SECURITE",
+      "surface_form": "Stimulation en fenêtre de sécurité",
+      "source_type": "canonical",
+      "concept_name": "Stimulation en fenêtre de sécurité",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "STIMULATION_INAPPROPRIEE",
+      "surface_form": "Stimulation inappropriée",
+      "source_type": "canonical",
+      "concept_name": "Stimulation inappropriée",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "STIMULATION_VENTRICULAIRE",
+      "surface_form": "Stimulation ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Stimulation ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VENTRICULAIRE",
+      "surface_form": "Electroentrainement ventriculaire",
+      "source_type": "synonym",
+      "concept_name": "Stimulation ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "STIMULATION_VENTRICULAIRE",
+      "surface_form": "Rythme ventriculaire électroentrainé",
+      "source_type": "synonym",
+      "concept_name": "Stimulation ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SURDETECTION",
+      "surface_form": "Surdétection",
+      "source_type": "canonical",
+      "concept_name": "Surdétection",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SURDETECTION_ATRIALE",
+      "surface_form": "Surdétection atriale",
+      "source_type": "canonical",
+      "concept_name": "Surdétection atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "SURDETECTION_DES_ONDES_T",
+      "surface_form": "Surdétection des ondes T",
+      "source_type": "canonical",
+      "concept_name": "Surdétection des ondes T",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SURDETECTION_VENTRICULAIRE",
+      "surface_form": "Surdétection ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Surdétection ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SUS_PQ",
+      "surface_form": "Sus PQ",
+      "source_type": "canonical",
+      "concept_name": "Sus PQ",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SUS_DECALAGE_DE_L_ONDE_J",
+      "surface_form": "Sus-décalage de l'onde J",
+      "source_type": "canonical",
+      "concept_name": "Sus-décalage de l'onde J",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SUS_DECALAGE_DE_L_ONDE_J",
+      "surface_form": "Sus-décallage du points J",
+      "source_type": "synonym",
+      "concept_name": "Sus-décalage de l'onde J",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "source_type": "canonical",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "SCA ST +",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "SCA ST+",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "SCA-ST +",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "STEMI",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "Syndrome coronarien avec sus-décalage",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_AVEC_SUS_DECALAGE_DU_SEGMENT_ST",
+      "surface_form": "infarctus st+",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue avec sus-décalage du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_SANS_ELEVATION_DU_SEGMENT_ST",
+      "surface_form": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "source_type": "canonical",
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_SANS_ELEVATION_DU_SEGMENT_ST",
+      "surface_form": "Infarctus à la phase aigue sans élevation du segment ST",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_SANS_ELEVATION_DU_SEGMENT_ST",
+      "surface_form": "NSTEMI",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_SANS_ELEVATION_DU_SEGMENT_ST",
+      "surface_form": "SCA sans ST +",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_CORONARIEN_A_LA_PHASE_AIGUE_SANS_ELEVATION_DU_SEGMENT_ST",
+      "surface_form": "Syndrome coronarien ST -",
+      "source_type": "synonym",
+      "concept_name": "Syndrome coronarien à la phase aigue sans élévation du segment ST",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "SYNDROME_DE_BRUGADA",
+      "surface_form": "Syndrome de Brugada",
+      "source_type": "canonical",
+      "concept_name": "Syndrome de Brugada",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SYNDROME_DE_BRUGADA",
+      "surface_form": "BRS",
+      "source_type": "synonym",
+      "concept_name": "Syndrome de Brugada",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SYNDROME_DE_LOWN_GANONG_ET_LEVINE",
+      "surface_form": "Syndrome de Lown, Ganong, et Levine",
+      "source_type": "canonical",
+      "concept_name": "Syndrome de Lown, Ganong, et Levine",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "SYNDROME_DE_REPOLARISATION_PRECOCE",
+      "surface_form": "Syndrome de repolarisation précoce",
+      "source_type": "canonical",
+      "concept_name": "Syndrome de repolarisation précoce",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SYNDROME_DE_REPOLARISATION_PRECOCE",
+      "surface_form": "ERS",
+      "source_type": "synonym",
+      "concept_name": "Syndrome de repolarisation précoce",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SYNDROME_DU_QT_LONG",
+      "surface_form": "Syndrome du QT long",
+      "source_type": "canonical",
+      "concept_name": "Syndrome du QT long",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "SEQUELLE_DE_NECROSE",
+      "surface_form": "Séquelle de nécrose",
+      "source_type": "canonical",
+      "concept_name": "Séquelle de nécrose",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TJ_ANTIDROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "TJ antidromique utilisant une voie accessoire",
+      "source_type": "canonical",
+      "concept_name": "TJ antidromique utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TJ_ANTIDROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "Antidromic AVRT ($ AP)",
+      "source_type": "synonym",
+      "concept_name": "TJ antidromique utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TJ_ANTIDROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "TJ antidromique utilisant une VA $",
+      "source_type": "synonym",
+      "concept_name": "TJ antidromique utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TJ_ORTHODROMIQUE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "TJ orthodromique utilisant une voie accessoire",
+      "source_type": "canonical",
+      "concept_name": "TJ orthodromique utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TV_CATECHOLAMINERGIQUE",
+      "surface_form": "TV catécholaminergique",
+      "source_type": "canonical",
+      "concept_name": "TV catécholaminergique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TV_FASCICULAIRE",
+      "surface_form": "TV fasciculaire",
+      "source_type": "canonical",
+      "concept_name": "TV fasciculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TV_FASCICULAIRE",
+      "surface_form": "TV de Belhassen",
+      "source_type": "synonym",
+      "concept_name": "TV fasciculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE",
+      "surface_form": "Tachycardie",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE",
+      "surface_form": "Tachycardie atriale",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE",
+      "surface_form": "AT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE",
+      "surface_form": "Flutter atrial",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE",
+      "surface_form": "TA",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE_FOCALE",
+      "surface_form": "Tachycardie atriale focale",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie atriale focale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE_FOCALE",
+      "surface_form": "AT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale focale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE_FOCALE",
+      "surface_form": "TAF",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale focale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_ATRIALE_FOCALE",
+      "surface_form": "Tachycardie atriale ectopique",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie atriale focale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_DE_COUMEL",
+      "surface_form": "Tachycardie de Coumel",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie de Coumel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_DE_COUMEL",
+      "surface_form": "PJRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie de Coumel",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE",
+      "surface_form": "Tachycardie jonctionelle",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionelle",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE_PAR_REENTREE_INTRANODALE_SLOW_SLOW",
+      "surface_form": "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE_PAR_REENTREE_INTRANODALE_SLOW_SLOW",
+      "surface_form": "RIN slow-slow",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionelle par reentrée intranodale slow-slow",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "Tachycardie jonctionelle utilisant une voie accessoire",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionelle utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "AVRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionelle utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONELLE_UTILISANT_UNE_VOIE_ACCESSOIRE",
+      "surface_form": "TJ utilisant une voie accessoire",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionelle utilisant une voie accessoire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_ECTOPIQUE",
+      "surface_form": "Tachycardie jonctionnelle ectopique",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionnelle ectopique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_ECTOPIQUE",
+      "surface_form": "JET",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle ectopique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE",
+      "surface_form": "Tachycardie jonctionnelle par réentrée intra-nodale",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE",
+      "surface_form": "AVNRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE",
+      "surface_form": "RIN",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_ATYPIQUE",
+      "surface_form": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_ATYPIQUE",
+      "surface_form": "Atypical AVNRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_ATYPIQUE",
+      "surface_form": "RIN atypique",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_ATYPIQUE",
+      "surface_form": "Uncommon AVNRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale atypique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_FAST_SLOW",
+      "surface_form": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_FAST_SLOW",
+      "surface_form": "Fast-slow AVNRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_FAST_SLOW",
+      "surface_form": "RIN fast-slow",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale fast-slow",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_TYPIQUE",
+      "surface_form": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_TYPIQUE",
+      "surface_form": "RIN typique",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_TYPIQUE",
+      "surface_form": "Typical AVNRT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_JONCTIONNELLE_PAR_REENTREE_INTRA_NODALE_TYPIQUE",
+      "surface_form": "Typical atrioventricular nodal reentry tachycardia",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie jonctionnelle par réentrée intra-nodale typique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_PAR_REENTREE_ELECTRONIQUE",
+      "surface_form": "Tachycardie par reentrée électronique",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie par reentrée électronique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_PAR_REENTREE_DE_BRANCHE_A_BRANCHE",
+      "surface_form": "Tachycardie par réentrée de branche à branche",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie par réentrée de branche à branche",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SINUSALE",
+      "surface_form": "Tachycardie sinusale",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie sinusale",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+      "surface_form": "Tachycardie supra-ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie supra-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+      "surface_form": "SVT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie supra-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUPRA_VENTRICULAIRE",
+      "surface_form": "TSV",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie supra-ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUR_FIBRE_DE_MAHAIM",
+      "surface_form": "Tachycardie sur fibre de Mahaim",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie sur fibre de Mahaim",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUR_FIBRE_DE_MAHAIM",
+      "surface_form": "Guiraudon-Klein fiber tachycardia",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie sur fibre de Mahaim",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_SUR_FIBRE_DE_MAHAIM",
+      "surface_form": "Tachycardie sur fibre de Guiraudon-Klein",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie sur fibre de Mahaim",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+      "surface_form": "Tachycardie ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+      "surface_form": "TV",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE",
+      "surface_form": "VT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_BIDIRECTIONNELLE",
+      "surface_form": "Tachycardie ventriculaire bidirectionnelle",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie ventriculaire bidirectionnelle",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CICATRICIELLE",
+      "surface_form": "Tachycardie ventriculaire cicatricielle",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie ventriculaire cicatricielle",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CICATRICIELLE",
+      "surface_form": "Scar-related VT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire cicatricielle",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_CICATRICIELLE",
+      "surface_form": "TV cicatricielle",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire cicatricielle",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+      "surface_form": "Tachycardie ventriculaire infundibulaire",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie ventriculaire infundibulaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+      "surface_form": "TV de Gallavardin",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire infundibulaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+      "surface_form": "TV infundibulaire",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire infundibulaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_INFUNDIBULAIRE",
+      "surface_form": "Tachycardie ventriculaire de Gallavardin",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire infundibulaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_POLYMORPHE",
+      "surface_form": "Tachycardie ventriculaire polymorphe",
+      "source_type": "canonical",
+      "concept_name": "Tachycardie ventriculaire polymorphe",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_POLYMORPHE",
+      "surface_form": "Polymorphic VT",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire polymorphe",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TACHYCARDIE_VENTRICULAIRE_POLYMORPHE",
+      "surface_form": "TV polymorphe",
+      "source_type": "synonym",
+      "concept_name": "Tachycardie ventriculaire polymorphe",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TAMPONNADE",
+      "surface_form": "Tamponnade",
+      "source_type": "canonical",
+      "concept_name": "Tamponnade",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 5
+    },
+    {
+      "ontology_id": "THERAPIE_D_UN_DEFIBRILLATEUR",
+      "surface_form": "Thérapie d'un défibrillateur",
+      "source_type": "canonical",
+      "concept_name": "Thérapie d'un défibrillateur",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TOIT_D_USINE",
+      "surface_form": "Toit d'usine",
+      "source_type": "canonical",
+      "concept_name": "Toit d'usine",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TOIT_D_USINE",
+      "surface_form": "Dent de scie",
+      "source_type": "synonym",
+      "concept_name": "Toit d'usine",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TOPOGRAPHIE",
+      "surface_form": "Topographie",
+      "source_type": "canonical",
+      "concept_name": "Topographie",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TORSADE_DE_POINTES",
+      "surface_form": "Torsade de pointes",
+      "source_type": "canonical",
+      "concept_name": "Torsade de pointes",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "TRIGEMINISME_VENTRICULAIRE",
+      "surface_form": "Trigéminisme ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Trigéminisme ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TRIGEMINISME_VENTRICULAIRE",
+      "surface_form": "Trigéminisme",
+      "source_type": "synonym",
+      "concept_name": "Trigéminisme ventriculaire",
+      "categorie": "DIAGNOSTIC_MOYEN",
+      "poids": 3
+    },
+    {
+      "ontology_id": "TRIPLET_VENTRICULAIRE",
+      "surface_form": "Triplet ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Triplet ventriculaire",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "TROUBLE_DE_CONDUCTION_INTRA_ATRIAL",
+      "surface_form": "Trouble de conduction intra-atrial",
+      "source_type": "canonical",
+      "concept_name": "Trouble de conduction intra-atrial",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLE_DE_CONDUCTION_INTRAVENTRICULAIRE",
+      "surface_form": "Trouble de conduction intraventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Trouble de conduction intraventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLE_DE_LA_DEPOLARISATION_ATRIAL",
+      "surface_form": "Trouble de la dépolarisation atrial",
+      "source_type": "canonical",
+      "concept_name": "Trouble de la dépolarisation atrial",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLE_DE_LA_DEPOLARISATION_VENTRICULAIRE",
+      "surface_form": "Trouble de la dépolarisation ventriculaire",
+      "source_type": "canonical",
+      "concept_name": "Trouble de la dépolarisation ventriculaire",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLE_DE_REPOLARISATION",
+      "surface_form": "Trouble de repolarisation",
+      "source_type": "canonical",
+      "concept_name": "Trouble de repolarisation",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLE_DE_REPOLARISATION",
+      "surface_form": "Trouble de la repolarisation",
+      "source_type": "synonym",
+      "concept_name": "Trouble de repolarisation",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L_AUTOMATICITE",
+      "surface_form": "Troubles de conduction et de l'automaticité",
+      "source_type": "canonical",
+      "concept_name": "Troubles de conduction et de l'automaticité",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TROUBLES_DE_CONDUCTION_ET_DE_L_AUTOMATICITE",
+      "surface_form": "trouble de la conduction",
+      "source_type": "synonym",
+      "concept_name": "Troubles de conduction et de l'automaticité",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "TREMULATION_DE_LA_LIGNE_DE_BASE",
+      "surface_form": "Trémulation de la ligne de base",
+      "source_type": "canonical",
+      "concept_name": "Trémulation de la ligne de base",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "UNE_ONDE_P_BLOQUEE",
+      "surface_form": "Une onde P bloquée",
+      "source_type": "canonical",
+      "concept_name": "Une onde P bloquée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "UNE_ONDE_P_BLOQUEE",
+      "surface_form": "onde P bloquée",
+      "source_type": "synonym",
+      "concept_name": "Une onde P bloquée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "UNE_ONDE_P_BLOQUEE",
+      "surface_form": "onde P bloquées",
+      "source_type": "synonym",
+      "concept_name": "Une onde P bloquée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VENTRICULE_DROIT",
+      "surface_form": "Ventricule droit",
+      "source_type": "canonical",
+      "concept_name": "Ventricule droit",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VENTRICULE_GAUCHE",
+      "surface_form": "Ventricule gauche",
+      "source_type": "canonical",
+      "concept_name": "Ventricule gauche",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DE_L_ONDE_P__2_5_MM",
+      "surface_form": "Voltage de l'onde P < 2.5 mm",
+      "source_type": "canonical",
+      "concept_name": "Voltage de l'onde P < 2.5 mm",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DU_QRS",
+      "surface_form": "Voltage du QRS",
+      "source_type": "canonical",
+      "concept_name": "Voltage du QRS",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DU_QRS_ANORMAL",
+      "surface_form": "Voltage du QRS anormal",
+      "source_type": "canonical",
+      "concept_name": "Voltage du QRS anormal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+      "surface_form": "Voltage du QRS normal",
+      "source_type": "canonical",
+      "concept_name": "Voltage du QRS normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+      "surface_form": "Amplitude normale du QRS",
+      "source_type": "synonym",
+      "concept_name": "Voltage du QRS normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "VOLTAGE_DU_QRS_NORMAL",
+      "surface_form": "normovolté",
+      "source_type": "synonym",
+      "concept_name": "Voltage du QRS normal",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "WOLF_MALIN",
+      "surface_form": "Wolf malin",
+      "source_type": "canonical",
+      "concept_name": "Wolf malin",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "WOLF_MALIN",
+      "surface_form": "Faisceau accessoire à conduction antérograde maligne",
+      "source_type": "synonym",
+      "concept_name": "Wolf malin",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "WOLF_MALIN",
+      "surface_form": "Periode refractaire antérograde < 250 ms",
+      "source_type": "synonym",
+      "concept_name": "Wolf malin",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "WOLF_MALIN",
+      "surface_form": "Super-wolf",
+      "source_type": "synonym",
+      "concept_name": "Wolf malin",
+      "categorie": "DIAGNOSTIC_URGENT",
+      "poids": 5
+    },
+    {
+      "ontology_id": "ALTERNANCE_DES_QRS",
+      "surface_form": "alternance des QRS",
+      "source_type": "canonical",
+      "concept_name": "alternance des QRS",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "CONDUCTION_VARIABLE",
+      "surface_form": "conduction variable",
+      "source_type": "canonical",
+      "concept_name": "conduction variable",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "INTOXICATION_DIGITALIQUE",
+      "surface_form": "intoxication digitalique",
+      "source_type": "canonical",
+      "concept_name": "intoxication digitalique",
+      "categorie": "DIAGNOSTIC_MAJEUR",
+      "poids": 4
+    },
+    {
+      "ontology_id": "LENT",
+      "surface_form": "lent",
+      "source_type": "canonical",
+      "concept_name": "lent",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "LOCALISATION_ESV",
+      "surface_form": "localisation ESV",
+      "source_type": "canonical",
+      "concept_name": "localisation ESV",
+      "categorie": "TOPOGRAPHIE",
+      "poids": 2
+    },
+    {
+      "ontology_id": "MONOMORPHE",
+      "surface_form": "monomorphe",
+      "source_type": "canonical",
+      "concept_name": "monomorphe",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ONDE_U",
+      "surface_form": "onde U",
+      "source_type": "canonical",
+      "concept_name": "onde U",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POLYMORPHE",
+      "surface_form": "polymorphe",
+      "source_type": "canonical",
+      "concept_name": "polymorphe",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "POLYMORPHE",
+      "surface_form": "multifocale",
+      "source_type": "synonym",
+      "concept_name": "polymorphe",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QUALIFICATION_PATTERN",
+      "surface_form": "qualification pattern",
+      "source_type": "canonical",
+      "concept_name": "qualification pattern",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "QUALIFICATION_PATTERN",
+      "surface_form": "descripteur transversal",
+      "source_type": "synonym",
+      "concept_name": "qualification pattern",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RAPIDE",
+      "surface_form": "rapide",
+      "source_type": "canonical",
+      "concept_name": "rapide",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RYTHME_REGULIER",
+      "surface_form": "rythme régulier",
+      "source_type": "canonical",
+      "concept_name": "rythme régulier",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "RYTHME_REGULIER",
+      "surface_form": "régulier",
+      "source_type": "synonym",
+      "concept_name": "rythme régulier",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SEGMENT_ST",
+      "surface_form": "segment ST",
+      "source_type": "canonical",
+      "concept_name": "segment ST",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SOUS_PQ",
+      "surface_form": "sous-PQ",
+      "source_type": "canonical",
+      "concept_name": "sous-PQ",
+      "categorie": "QUALIFICATEUR",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SOUTENU",
+      "surface_form": "soutenu",
+      "source_type": "canonical",
+      "concept_name": "soutenu",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "SOUTENU",
+      "surface_form": "prolongé",
+      "source_type": "synonym",
+      "concept_name": "soutenu",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "UNIQUE",
+      "surface_form": "unique",
+      "source_type": "canonical",
+      "concept_name": "unique",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    },
+    {
+      "ontology_id": "ECOUTE_CROISEE",
+      "surface_form": "Écoute croisée",
+      "source_type": "canonical",
+      "concept_name": "Écoute croisée",
+      "categorie": "DESCRIPTION_ECG",
+      "poids": 2
+    }
+  ],
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dims": 1536,
+  "total_concepts": 345,
+  "total_documents": 661,
+  "stats": {
+    "canonical": 345,
+    "synonym": 316,
+    "implication": 0,
+    "skipped_empty": 0
+  },
+  "include_implications": false,
+  "source_file": "ontology_v2.json"
+}
